@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: linear-gradient(180deg, white, cyan);
+  background: linear-gradient(180deg, white, cyan);
   padding:50px;
   font: 14px/1.5 "Space", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -24,10 +24,11 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+    color:blue;
 }
 
 h2 {
-  color:#393939;
+  color:blue;
 }
 
 h3, h4, h5, h6 {
@@ -36,7 +37,7 @@ h3, h4, h5, h6 {
 
 a {
   color:#267CB9;
-  text-decoration:none;
+  text-decoration:underline;
 }
 
 a:hover, a:focus {
