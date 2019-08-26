@@ -1,7 +1,17 @@
-<nav>
-  <ul class="header__list">
-    <li><a href="{{ '/' | prepend: site.baseurl }}">Stories</a></li>
-    <li><a href="{{ '/style-guide' | prepend: site.baseurl }}">Style Guide</a></li>
-    <li><span class="popup__open">Contact</span></li>
-  </ul>
-</nav>
+{% if site.data.navigation %}
+  <div class="navigation-wrapper">
+    <a href="#menu-toggle" id="menu-toggle">{{ site.data.text[site.locale].menu_label | default: 'Menu' }}</a>
+    <nav id="primary-nav" class="site-nav animated drop">
+      <ul>
+        {%- for link in site.data.navigation -%}
+          {%- if link.url contains '://' -%}
+            {%- assign url = link.url -%}
+          {%- else -%}
+            {%- assign url = link.url | relative_url -%}
+          {%- endif -%}
+          <li><a href="{{ url }}">{{ link.title }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div><!-- /.navigation-wrapper -->
+{% endif %}
