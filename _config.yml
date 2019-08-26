@@ -70,6 +70,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - tags_list
   gems:
   - jekyll-tagslist
 compress_html:
