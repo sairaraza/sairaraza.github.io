@@ -68,11 +68,11 @@ autopages:
 # Build settings
 markdown: kramdown
 plugins:
-  - 'jekyll-paginate-v2'
-  - 'jekyll-sitemap'
-  - 'tags_list'
+  - 'jekyll-paginate-v2.rb'
+  - 'jekyll-sitemap.rb'
+  - 'tags_list.rb'
   gems:
-  - 'jekyll-tagslist'
+  - 'jekyll-tagslist.rb'
 compress_html:
   clippings: all
   comments: all
