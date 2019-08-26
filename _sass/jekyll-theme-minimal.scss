@@ -1,5 +1,6 @@
 @import "fonts";
 @import "rouge-github";
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
 
 body {
   background: linear-gradient(180deg, white, cyan);
@@ -25,6 +26,7 @@ h1, h2, h3 {
 h1 {
   font-size:28px;
     color:blue;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 h2 {
@@ -32,11 +34,10 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:blue;
 }
 
 a {
-  color:#267CB9;
   text-decoration:underline;
 }
 
