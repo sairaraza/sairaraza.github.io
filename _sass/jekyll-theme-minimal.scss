@@ -47,6 +47,10 @@ a:hover, a:focus {
   font-weight: bold;
 }
 
+a:visited {
+  color: black;
+}
+
 a small {
   font-size:11px;
   color:#777;
@@ -175,8 +179,8 @@ strong {
 }
 
 section {
-  width:500px;
-  float:right;
+  width:600px;
+  float:left;
   padding-bottom:50px;
 }
 
