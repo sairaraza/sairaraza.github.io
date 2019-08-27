@@ -27,10 +27,14 @@ h1 {
   font-size:28px;
     color:blue;
     font-family: 'Archivo Black', sans-serif;
+
 }
 
 h2 {
   color:blue;
+    text-decoration:uppercase;
+      font-size:20px;
+        text-align:center;
 }
 
 h3, h4, h5, h6 {
@@ -42,8 +46,7 @@ a {
 }
 
 a:hover, a:focus {
-  color:white;
-  background-color:blue;
+  background-color:cyan;
   font-weight: bold;
 }
 
@@ -63,7 +66,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:1200px;
   margin:0 auto;
 }
 
@@ -206,7 +209,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width:auto;
+    width:1200;
     margin:0;
   }
 

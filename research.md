@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Research examples
-
 # <center>Examples of research outputs</center>
 
 ## From the Masters in Design for Emergent Futures course
