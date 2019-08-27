@@ -1,0 +1,1016 @@
+---
+layout: default
+---
+<html>
+
+<head>
+<title>Kyle McDonald</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="Media artist working with code, based in Los Angeles.">
+<meta name="google-site-verification" content="lkV83rCz41RSFR8iDF6tUnHLCUDXjprDNCd2FouM3a8" />
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="alternate" type="application/atom+xml" title="Kyle McDonald" href="http://friendfeed.com/kmcdonald?format=atom">
+</head>
+
+<body>
+
+<h1>Kyle McDonald</h1>
+
+<div>
+ <a href="http://twitter.com/kcimc" class="contact" style="float:left">@kcimc</a>
+ <a href="mailto:studio@kylemcdonald.net" class="contact" style="float:right">studio@kylemcdonald.net</a>
+</div>
+
+<br style="clear:both"/>
+
+<div class="section">
+
+ <div class="cell project">
+  <h2>Biography</h2>
+  <div id="bio"><h3>Kyle McDonald</h3> is an artist working with code. He is a contributor to open source arts-engineering toolkits like <a href="http://openframeworks.cc">openFrameworks</a>, and <a href="http://github.com/kylemcdonald/">builds tools</a> that allow artists to use new algorithms in creative ways. He has a habit of <a href="http://twitter.com/#!/kcimc">sharing ideas and projects in public</a> before they're completed. He creatively subverts networked communication and computation, explores glitch and systemic bias, and extends these concepts to reversal of everything from identity to relationships. Kyle has been an adjunct professor at NYU's <a href="http://itp.nyu.edu">ITP</a>, and a member of <a href="http://fffff.at">F.A.T. Lab</a>, community manager for openFrameworks, and artist in residence at <a href="http://studioforcreativeinquiry.org/">STUDIO for Creative Inquiry</a> at Carnegie Mellon, as well as <a href="http://ycam.jp">YCAM</a> in Japan. His work is commissioned by and shown at exhibitions and festivals around the world, including: <a href="http://www.ntticc.or.jp/en/">NTT ICC</a>, <a href="http://www.aec.at/">Ars Electronica</a>, <a href="http://sonar.es">Sonar</a>/<a href="http://www.offf.ws/">OFFF</a>, <a href="http://eyebeam.org">Eyebeam</a>, <a href="http://apap.or.kr">Anyang Public Art Project</a>, <a href="http://www.cinekid.nl/">Cinekid</a>, <a href="http://clickfestival.dk/">CLICK Festival</a>, <a href="http://node.vvvv.org">NODE Festival</a>, and many others. He frequently leads workshops exploring computer vision and interaction.</div>
+ </div>
+
+<!--
+<div class="cell project">
+ <a href="$url" name="$shortname"><img src="https://kylemcdonald.net/thumbs/$shortname.jpg" width="256" height="160" alt="$Full Name"></a>
+ <div class="description">
+  <h3>$Full Name</h3> <em>$Year</em>
+  $Description
+ </div>
+ <ul>
+  <li><a href="$link">$link name</a></li>
+ </ul>
+</div>
+-->
+
+<!--
+- transcranial
+- face++ https://vimeo.com/32857963
+- aether with joanie
+- feedrdio
+-->
+
+<div class="cell project">
+ <h2>Selected Work</h2>
+ <a href="https://nsynthsuper.withgoogle.com/" name="nsynth"><img src="https://kylemcdonald.net/thumbs/nsynth.jpg" width="256" height="160" alt="NSynth Super"></a>
+ <div class="description">
+  <h3>NSynth Super</h3> <em>2018 with <a href="https://magenta.tensorflow.org/">Magenta</a></em>
+   Synthesizer for exploring neural interpolations of sonic textures. Four knobs for controlling "reference" sounds and a touchscreen for blending between them using the NSynth algorithm. Contributed to conceptual and interaction design, and wrote the synthesis engine and initial user interface.
+  </div>
+ <ul>
+  <li><a href="https://nsynthsuper.withgoogle.com/">site</a></li>
+  <li><a href="https://github.com/googlecreativelab/open-nsynth-super">code</a></li>
+  <li><a href="https://www.youtube.com/watch?v=iTXU9Z0NYoU">making of video</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0fjopD87pyw">demo video</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle" name="mwitm"><img src="https://kylemcdonald.net/thumbs/mwitm.jpg" width="256" height="160" alt="Man / Woman In The Middle"></a>
+ <div class="description">
+  <h3>Man and Woman In The Middle</h3> <em>2017 with <a href="http://lauren-mccarthy.com/">Lauren McCarthy</a></em>
+   We each wrote scripts to intercept and modify or reply to text messages from each other, in the hope of syncing our different communication styles and developing a better relationship and conversation.
+  </div>
+ <ul>
+  <li><a href="http://lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle">info</a></li>
+  <li><a href="https://www.flickr.com/photos/kylemcdonald/albums/72157689350044194">photos</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://hwat.schirn.de/" name="hwat"><img src="https://kylemcdonald.net/thumbs/hwat.jpg" width="256" height="160" alt="hwat"></a>
+ <div class="description">
+  <h3>How We Act Together</h3> <em>2016 with <a href="http://lauren-mccarthy.com/">Lauren McCarthy</a></em>
+   Prompts you to perform small gestures of social interaction repeatedly until exhausted. Your action triggers a video stream of all the previous participants performing the same action back at you. If you perform longer than anyone before you, your own gesture gets added at the end of the stream.
+  </div>
+ <ul>
+  <li><a href="https://hwat.schirn.de/">site</a></li>
+  <li><a href="http://www.schirn.de/en/magazine/context/joanne_mcneil_how_we_act_together_mccarthy_mcdonald/">review by joanne mcneil</a></li>
+  <li><a href="http://www.schirn.de/en/magazine/context/paolo_ruffino_how_we_act_together_mccarthy_mcdonald/">review by paolo ruffino</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://aiexperiments.withgoogle.com/bird-sounds" name="bird-sounds"><img src="https://kylemcdonald.net/thumbs/bird-sounds.png" width="256" height="160" alt="bird-sounds"></a>
+ <div class="description">
+  <h3>Bird Sounds</h3> <em>2016 with Google Creative Lab</em>
+   Thousands of bird sounds, organized using machine learning. Similar bird sounds are placed close together, producing a sonic map that produces unexpected connections between different species.
+  </div>
+ <ul>
+  <li><a href="https://aiexperiments.withgoogle.com/bird-sounds">intro</a></li>
+  <li><a href="https://aiexperiments.withgoogle.com/bird-sounds/view/">project</a></li>
+  <li><a href="https://www.youtube.com/watch?v=31PWjb7Do1s">video</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://aiexperiments.withgoogle.com/drum-machine" name="drum-machine"><img src="https://kylemcdonald.net/thumbs/drum-machine.png" width="256" height="160" alt="drum-machine"></a>
+ <div class="description">
+  <h3>The Infinite Drum Machine</h3> <em>2016 with Google Creative Lab</em>
+   Thousands of everyday sounds, organized using machine learning. Experimenting with alternative interfaces for exploring sound libraries and serendipitous opportunities for musical improvisation and composition.
+  </div>
+ <ul>
+  <li><a href="https://aiexperiments.withgoogle.com/drum-machine">intro</a></li>
+  <li><a href="https://aiexperiments.withgoogle.com/drum-machine/view/">project</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9x-_My5yjQY">video</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://terrapattern.com/" name="terrapattern"><img src="https://kylemcdonald.net/thumbs/terrapattern.jpg" width="256" height="160" alt="terrapattern"></a>
+ <div class="description">
+  <h3>Terrapattern</h3> <em>2016 with <a href="http://www.terrapattern.com/team">Golan Levin, David Newbury, et al</a></em>
+   Similar-image search for satellite photos. An open-source tool for discovering "patterns of interest" in unlabeled satellite imagery—a prototype for exploring the unmapped, and the unmappable. Click an interesting spot on Terrapattern's map, and it will find other locations that look similar.
+  </div>
+ <ul>
+  <li><a href="http://terrapattern.com/">site</a></li>
+  <li><a href="http://livestream.com/internetsociety/alt-ai/videos/123605631">talk</a></li>
+  <li><a href="http://www.newyorker.com/tech/elements/meet-terrapattern-google-earths-missing-search-engine">new yorker</a></li>
+  <li><a href="http://www.popsci.com/you-can-now-search-google-maps-by-matching-similar-landscapes">pop sci</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/144061990" name="highsight"><img src="https://kylemcdonald.net/thumbs/highsight.jpg" width="256" height="160" alt="highsight"></a>
+ <div class="description">
+  <h3>Highsight</h3> <em>2015</em>
+   A virtual bungee jump through a real space. Visitors are strapped into a harness and a VR headset showing a live stream from a camera on a wire. The camera meanders through a playful diorama before dropping through the bottom of the box and into the crowd.
+  </div>
+ <ul>
+  <li><a href="https://vimeo.com/144061990">video</a></li>
+  <li><a href="https://github.com/kylemcdonald/Highsight">code</a></li>
+  <li><a href="https://www.flickr.com/photos/kylemcdonald/albums/72157650807683953">photos</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://exhaustingacrowd.com/" name="exhausting"><img src="https://kylemcdonald.net/thumbs/exhausting.jpg" width="256" height="160" alt="exhausting"></a>
+ <div class="description">
+  <h3>Exhausting a Crowd</h3> <em>2015</em>
+  A crowdsourced description of 12 hours in Piccadilly Circus, London, inspired by the classic 60-page piece of experimental literature from Georges Perec, “An Attempt at Exhausting a Place in Paris”, written from a bench over three days in 1974.
+  </div>
+ <ul>
+  <li><a href="http://exhaustingacrowd.com/">website</a></li>
+  <li><a href="https://github.com/kylemcdonald/ExhaustingACrowd">code</a></li>
+  <li><a href="http://hyperallergic.com/211950/an-addictive-experiment-in-annotating-footage-from-a-london-street/">on hyperallergic</a></li>
+  <li><a href="http://www.citylab.com/design/2015/06/caption-the-lives-of-these-unwitting-london-pedestrians/395018/">on citylab</a></li>
+  <li><a href="http://thecreatorsproject.vice.com/en_au/blog/watch-12-hours-of-londons-piccadilly-circus-in-crowdsourced-surveillance-art">on creators project</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://pplkpr.com/" name="pplkpr"><img src="thumbs/pplkpr.jpg" width="256" height="160" alt="pplkpr"></a>
+ <div class="description">
+  <h3>pplkpr</h3> <em>2014-2015 with <a href="http://lauren-mccarthy.com/">Lauren McCarthy</a></em>
+  An app that tracks, analyzes, and auto-manages your relationships. It uses GPS and subtle changes in heart rhythm to keep track of when you're coming and going and  determine your emotional state. The data is connected to people you interact with to determine who should be auto-scheduled into or out of your life.
+  </div>
+ <ul>
+  <li><a href="http://hyperallergic.com/177726/new-app-lets-users-outsource-their-relationships/">on hyperallergic</a></li>
+  <li><a href="http://www.engadget.com/2015/01/20/peoplekeeper-app-launch">on edgadget</a></li>
+  <li><a href="http://techcrunch.com/2015/01/19/pplkpr/">on techcrunch</a></li>
+  <li><a href="http://www.creativeapplications.net/i-os/pplkpr-app-to-analyze-manage-and-optimize-your-social-life/">on can</a></li>
+  <li><a href="http://animalnewyork.com/2015/death-tinder-artists-build-dating-app-monitors-irl-interaction-matches/">on animal</a></li>
+  <li><a href="http://www.wired.com/2015/01/hard-time-human-app-manages-friendships/">on wired</a></li>
+  <li><a href="http://www.fastcodesign.com/3041326/this-app-wants-to-control-your-social-life">on fastco</a></li>
+  <li><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/pplkpr-if-real-friendship-makes-your-heart-beat-faster-this-absurdlynamed-app-isnt-for-you-10009467.html">on independent</a></li>
+  <li><a href="http://fortune.com/2015/07/09/friends-app/">on forture</a></li>
+  <li><a href="http://www.cnbc.com/2015/07/09/this-app-knows-who-stresses-you-out-the-most.html">on cnbc</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.flong.com/projects/augmented-hand-series/" name="hands"><img src="thumbs/hands.jpg" width="256" height="160" alt="Augmented Hand Series"></a>
+ <div class="description">
+  <h3>Augmented Hand Series</h3> <em>2014-2015 with <a href="http://www.flong.com/">Golan Levin</a> and <a href="http://csugrue.com/">Chris Sugrue</a></em>
+  Real-time interactive software system that presents playful, dreamlike, and uncanny transformations of its visitors' hands. It consists of a box into which the visitor inserts their hand, and a screen which displays their "reimagined" hand—for example, with an extra finger, or with fingers that move autonomously.  
+  </div>
+ <ul>
+  <li><a href="http://www.flong.com/projects/augmented-hand-series/">documentation</a></li>
+  <li><a href="https://github.com/CreativeInquiry/digital_art_2014">code</a></li>
+  <li><a href="https://vimeo.com/111951283">video</a></li>
+  <li><a href="http://www.creativeapplications.net/openframeworks/the-augmented-hand-series/">on can</a></li>
+  <li><a href="http://www.wired.com/2015/01/watch-code-warp-peoples-hands-trippy-visuals/">on wired</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/96549043" name="sharingfaces"><img src="thumbs/sharingfaces.jpg" width="256" height="160" alt="Sharing Faces"></a>
+ <div class="description">
+  <h3>Sharing Faces</h3> <em>2013-2014</em>
+  For eight months we shared photos between Anyang, Korea and Yamaguchi, Japan. Visiting the installation at either location would match your expression and pose in realtime with these photos of someone else who once stood in front of the installation. Thousands of people visited the work, and saw themselves reflected in the face of another person.
+  </div>
+ <ul>
+  <li><a href="https://vimeo.com/96549043">video</a></li>
+  <li><a href="http://apap.or.kr/sharing_faces">on apap</a></li>
+  <li><a href="http://github.com/kylemcdonald/sharingfaces">code</a></li>
+  <li><a href="http://www.creativeapplications.net/openframeworks/sharing-faces-seeing-yourself-reflected-in-the-image-of-others/">on can</a></li>
+  <li><a href="http://www.theverge.com/2014/8/28/6077967/artist-kyle-mcdonald-builds-a-video-mirror-with-a-thousand-faces">on verge</a></li>
+  <li><a href="http://www.wired.com/2014/09/mcdonald-digital-mirror/">on wired</a></li>
+  <li><a href="http://www.psfk.com/2014/11/sharing-faces-mirror-art-computer-science.html">on psfk</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://www.spotify.com/arts/serendipity" name="serendipity"><img src="thumbs/serendipity.jpg" width="256" height="160" alt="Serendipity"></a>
+ <div class="description">
+  <h3>Serendipity</h3> <em>2014</em>
+  A map showing ephemeral connections created by simultaneous listens: every second a few people hit "play" on the same song, at the same time. Developed during inaugural media artist residency at Spotify.
+  </div>
+ <ul>
+  <li><a href="https://www.spotify.com/arts/serendipity">website</a></li>
+  <li><a href="http://gizmodo.com/explore-the-star-crossesd-spotify-users-listening-to-so-1624926571">on gizmodo</a></li>
+  <li><a href="http://www.engadget.com/2014/08/21/spotifys-resident-media-artist/">on engadget</a></li>
+  <li><a href="http://www.theverge.com/2014/8/21/6050893/spotify-serendipity-map-shows-when-two-people-play-the-same-song-at-the-same-time">on the verge</a></li>
+  <li><a href="http://qz.com/253201/spotifys-mesmerizing-new-map-shows-that-music-can-be-social-again/">on quartz</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.whopaysartists.com/" name="whopaysartists"><img src="thumbs/whopaysartists.png" width="256" height="160" alt="Who Pays Artists?"></a>
+ <div class="description">
+  <h3>Who Pays Artists?</h3> <em>2014</em>
+  A sounding board for artists to anonymously share stories about what they've been paid for, and by whom. An intervention and conversation starter in the ongoing dialog about money in the context of the arts.
+  </div>
+ <ul>
+  <li><a href="http://www.whopaysartists.com/">website</a></li>
+  <li><a href="http://github.com/kylemcdonald/whopaysartists/">code</a></li>
+  <li><a href="http://animalnewyork.com/2014/pays-artists-doesnt/">on animalny</a></li>
+  <li><a href="http://news.artnet.com/art-world/new-website-asks-artists-to-rate-their-jobs-34799">on artnet</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/90547410" name="socialsoul"><img src="thumbs/socialsoul.jpg" width="256" height="160" alt="Social Soul"></a>
+ <div class="description">
+  <h3>Social Soul</h3> <em>2014 with <a href="http://lauren-mccarthy.com">Lauren McCarthy</a></em>
+  An immersive digital experience inspired by the question: how does it feel to be inside someone else's social media stream? Starts with the stream of the person visiting, then uses a custom algorithm to match participants, displaying their social stream instead. After exiting, users and their connected "soulmate" receive a tweet encouraging offline conversation.
+  </div>
+ <ul>
+  <li><a href="https://vimeo.com/90547410">video</a></li>
+  <li><a href="https://www.flickr.com/search/?w=28622838@N00&q=socialsoul">photos</a></li>
+  <li><a href="http://github.com/lmccart/socialsoul">code</a></li>
+  <li><a href="http://gizmodo.com/this-real-time-installation-of-social-media-feeds-is-in-1557137056">on gizmodo</a></li>
+  <li><a href="http://www.psfk.com/2014/04/immersive-social-media-feed.html">on psfk</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://instructables.com/id/Noodle-a-crowdsourced-robot/" name="noodle"><img src="thumbs/noodle.jpg" width="256" height="160" alt="Noodle"></a>
+ <div class="description">
+  <h3>Noodle</h3> <em>2014 with <a href="http://lauren-mccarthy.com">Lauren McCarthy</a></em>
+  A crowdsourced robot with the inputs and outputs of a computer but the thoughts and feelings of a person. Noodle uses a natural language interface to program mechanical turk workers, providing them with a body for influencing the real world.
+  </div>
+ <ul>
+  <li><a href="http://instructables.com/id/Noodle-a-crowdsourced-robot/">instructable</a></li>
+  <li><a href="https://github.com/lmccart/noodle">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/87564506" name="conversnitch"><img src="thumbs/conversnitch.jpg" width="256" height="160" alt="Conversnitch"></a>
+ <div class="description">
+  <h3>Conversnitch</h3> <em>2013-2014 with <a href="http://brianhouse.net/">Brian House</a></em>
+  An eavesdropping lamp/lightbulb that livetweets conversations, using a small microphone with a Raspberry Pi that records audio snippets and uploads them to Mechanical Turk for automated transcription.
+  </div>
+ <ul>
+  <li><a href="https://vimeo.com/87564506">video</a></li>
+  <li><a href="https://github.com/brianhouse/conversnitch/">code</a></li>
+  <li><a href="https://www.flickr.com/search/?w=28622838@N00&q=conversnitch">photos</a></li>
+  <li><a href="http://www.wired.com/2014/04/coversnitch-eavesdropping-lightbulb">on wired</a></li>
+  <li><a href="http://www.salon.com/2014/04/23/this_totally_creepy_art_project_will_make_you_think_twice_about_nsa_mass_surveillance/">on salon</a></li>
+  <li><a href="http://www.theverge.com/2014/4/23/5643396/conversnitch-spying-lamp-tweeting-new-yorkers-conversations">on the verge</a></li>
+  <li><a href="http://www.abajournal.com/news/article/artists_say_they_planted_light_wired_for_sound_at_mickey_ds_to_pick_up_pass/">on abajournal</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://lauren-mccarthy.com/usplus/" name="usplus"><img src="thumbs/usplus.jpg" width="256" height="160" alt="us+"></a>
+ <div class="description">
+  <h3>us+</h3> <em>2013 with <a href="http://lauren-mccarthy.com">Lauren McCarthy</a></em>
+  A Google Hangout app that analyzes speech and facial expressions to improve conversation. Speech to text is handled by the Chrome Speech API, linguistic analysis is based on <a href="http://www.liwc.net/">LIWC</a> and inspired by linguistic style matching research, facial analysis is based on the Hangouts Face API.
+  </div>
+ <ul>
+  <li><a href="http://lauren-mccarthy.com/us">project page</a></li>
+  <li><a href="http://neural.it/2014/05/us-by-lauren-mccarthy-and-kyle-mcdonald-hangout-confidential/">on neural</a></li>
+  <li><a href="https://plus.google.com/hangouts/_?gid=652359686588">start hangout</a></li>
+  <li><a href="https://vimeo.com/81903116">video</a></li>
+  <li><a href="https://github.com/lmccart/usplus">code</a></li>
+  <li><a href="http://www.huffingtonpost.com/2013/12/17/us-plus-app_n_4455788.html">on huffpo</a></li>
+  <li><a href="http://www.fastcolabs.com/3023656/a-google-hangouts-plugin-that-makes-you-a-nicer-person">on fastco</a></li>
+  <li><a href="http://www.vault.com/blog/interviewing/better-interview-skills-theres-an-app-for-that/">on vault</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://fffff.at/going-public" name="goingpublic"><img src="thumbs/goingpublic.png" width="256" height="160" alt="Going Public"></a>
+ <div class="description">
+  <h3>Going Public</h3> <em>2013</em>
+  A one month performance coinciding with the Twitter IPO, where my Twitter profile is made publicly accessible by allowing anyone to tweet as "me" simply by direct messaging me a tweet prepended with a "~" (tilde).
+  </div>
+ <ul>
+  <li><a href="http://fffff.at/going-public/">original post</a></li>
+  <li><a href="http://github.com/kylemcdonald/GoingPublic">code</a></li>
+  <li><a href="http://twitter.com/kcimc">twitter</a></li>
+  <li><a href="http://mashable.com/2013/11/12/open-twitter-account/">on mashable</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://fffff.at/friendflop" name="friendflop"><img src="thumbs/friendflop.png" width="256" height="160" alt="FriendFlop"></a>
+ <div class="description">
+  <h3>FriendFlop</h3> <em>2013 with <a href="http://lauren-mccarthy.com">Lauren McCarthy</a></em>
+  A browser extension for Chrome that scrambles the identities on your Twitter or Facebook timelines, dissolving your biases and reminding you that everyone is saying the same shit anyway.
+  </div>
+ <ul>
+  <li><a href="http://fffff.at/friendflop/">original post</a></li>
+  <li><a href="https://github.com/lmccart/AppropriatingInteractionTechnologies/tree/master/ChromeExtensionExamples/FriendFlop">code</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/friendflop/hcdlmnaglbpbjmempemomffogebjnlpg">extension page</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://openfitlab.com" name="openfit"><img src="thumbs/openfit.jpg" width="256" height="160" alt="Open Fit"></a>
+ <div class="description">
+  <h3>Open Fit</h3> <em>2013 with <a href="http://lisakori.net">Lisa Kori</a></em>
+  Open source software that investigates several approaches to generating custom tailored pants patterns. Open Fit Lab is an experimental event where we use this software for on-the-spot generation and creation of custom clothes.
+  </div>
+ <ul>
+  <li><a href="http://openfitlab.com/">website</a></li>
+  <li><a href="http://github.com/kylemcdonald/OpenFit">code</a></li>
+  <li><a href="https://vimeo.com/69623646">video</a></li>
+  <li><a href="http://www.flickr.com/photos/lisakori/sets/72157634283502022/">photos</a></li>
+  <li><a href="http://thecreatorsproject.vice.com/blog/open-sourcing-a-custom-pair-of-jeans-with-openfit-lab-from-kyle-mcdonald-and-lisa-kori">on creators project</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://kylemcdonald.github.io/Roseheading/Release/" name="roseheading"><img src="thumbs/roseheading.png" width="256" height="160" alt="Roseheading"></a>
+ <div class="description">
+  <h3>Roseheading</h3> <em>2013</em>
+  Endless glitch facets of a "fractured, frozen" mosaic, a metaphor for our data in the cloud. Commissioned by <a href="http://www.xo.com/">xo</a>.
+  </div>
+ <ul>
+  <li><a href="https://github.com/kylemcdonald/Roseheading/">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.socialroulette.net" name="socialroulette"><img src="thumbs/socialroulette.jpg" width="256" height="160" alt="Social Roulette"></a>
+ <div class="description">
+  <h3>Social Roulette</h3> <em>2013 with <a href="http://jonaslund.biz">Jonas Lund</a> and <a href="http://halfdanj.dk/">Jonas Jongejan</a></em>
+  A game with "a 1 in 6 chance of deleting your Facebook account", in fact a hoax that was shut down by Facebook for suggesting the possibility that your account is yours to play games with.
+  </div>
+ <ul>
+  <li><a href="http://www.socialroulette.net">website</a></li>
+  <li><a href="https://github.com/kylemcdonald/socialroulette.net">code</a></li>
+  <li><a href="http://fffff.at/social-roulette/">original post</a></li>
+  <li><a href="http://fffff.at/when-you-dont-own-yourself/">followup post</a></li>
+  <li><a href="http://techcrunch.com/2013/05/13/social-roulette-deletes-your-facebook-account/">on techcrunch</a></li>
+  <li><a href="http://www.bbc.co.uk/news/technology-22523821">on bbc</a></li>
+  <li><a href="http://news.yahoo.com/facebook-social-roulette-interview-origin-132051686.html">on yahoo news</a></li>
+  <li><a href="http://www.huffingtonpost.com/2013/05/14/social-roulette-app-facebook_n_3268382.html">on huffington post</a></li>
+  <li><a href="http://laughingsquid.com/social-roulette-a-game-with-a-one-in-six-chance-of-deleting-your-facebook-account/">on laughing squid</a></li>
+  <li><a href="http://betabeat.com/2013/05/seeking-a-cheap-thrill-play-social-roulette-and-risk-a-one-in-six-chance-of-having-your-facebook-account-deleted/">on betabeat</a></li>
+  <li><a href="http://thenextweb.com/shareables/2013/05/13/social-roulette-are-you-ready-to-risk-it-all/">on the next web</a></li>
+  <li><a href="http://news.cnet.com/8301-1023_3-57584314-93/facebook-kills-social-suicide-app-social-roulette/">on cnet news</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/66167082" name="lightleaks"><img src="thumbs/lightleaks.jpg" width="256" height="160" alt="Light Leaks"></a>
+ <div class="description">
+  <h3>Light Leaks</h3> <em>2013 with <a href="http://halfdanj.dk/">Jonas Jongejan</a></em>
+  A scattered array of fifty mirror balls reflect light from three projectors, filling a room completely with small reflections, casting patterns that fill the visitor’s peripheral vision. Creating a curious space that alternates between a meditative state, and an uneasy imbalance.
+  </div>
+ <ul>
+  <li><a href="https://vimeo.com/66167082">video</a></li>
+  <li><a href="https://github.com/kylemcdonald/LightLeaks">code</a></li>
+  <li><a href="http://clickfestival.dk/program-2013 /light-leaks">at click festival</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157633608355695/">photos</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.temporaryseoul.org/?p=1464" name="inboxzero"><img src="thumbs/inboxzero.png" width="256" height="160" alt="ExR3"></a>
+ <div class="description">
+  <h3>Inbox Zero Residency</h3> <em>2013</em>
+  A one-week residency aimed at clearing my inbox, treating email answering as art, daily digital life as readymade performance. Daily reports on Twitter, supported by <a href="http://www.temporaryseoul.org/">GaOk</a> in Seoul.
+ </div>
+ <ul>
+  <li><a href="http://www.temporaryseoul.org/?p=1464">text</a></li>
+  <li><a href="https://twitter.com/kcimc/status/310980106166362114">first tweet</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/64703174" name="ramdance"><img src="thumbs/ramdance.jpg" width="256" height="160" alt="RAM Dance Toolkit"></a>
+ <div class="description">
+  <h3>RAM Dance Toolkit</h3> <em>2013 with <a href="https://github.com/YCAMInterlab">YCAM</a></em>
+  A toolkit for dancers to communicate with each other in virtual environments. Includes functions to access, recognize, and process motion data to support creation of various scenes, and to provide realtime feedbacks to dancers with code, easily.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/64703174">video</a></li>
+  <li><a href="http://interlab.ycam.jp/en/projects/ram">project page</a></li>
+  <li><a href="https://github.com/YCAMInterlab/RAMDanceToolkit">code</a></li>
+  <li><a href="https://github.com/YCAMInterlab/RAMDanceToolkit/wiki">tutorial</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/60042933" name="exr3"><img src="thumbs/exr3.jpg" width="256" height="160" alt="ExR3"></a>
+ <div class="description">
+  <h3>ExR3</h3> <em>2013 with <a href="http://www.kimchiandchips.com/">Elliot Woods</a></em>
+  An anamorphic analog interactive installation that exists coherently in a fractured, mirrored version of a reflected room visible from four points within the real space.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/60042933">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157632824008196/">photos</a></li>
+  <li><a href="http://www.thecreatorsproject.com/blog/iexr3i-plays-with-reflection-and-perspective-to-make-geometric-shapes">on creators project</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.youtube.com/watch?v=bFXJa_1_bHg" name="missing"><img src="thumbs/missing.jpg" width="256" height="160" alt="Missing"></a>
+ <div class="description">
+  <h3>Missing</h3> <em>2012 with <a href="http://thexx.info/">The xx</a>, <a href="http://www.cibomahto.com/">Matt Mets</a> and <a href="http://cargocollective.com/aramique/">Aramique</a></em>
+  50 robotic speakers turn to face visitors, while a spatialized recording of The xx's song "Missing" follows them through the space.
+ </div>
+ <ul>
+  <li><a href="http://www.youtube.com/watch?v=bFXJa_1_bHg">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157631769422415/">photos</a></li>
+  <li><a href="https://github.com/cibomahto/Missing">code</a></li>
+  <li><a href="http://www.creativeapplications.net/sound/missing-by-the-xx-spatializing-sound-with-sonos/">on can</a></li>
+  <li><a href="http://www.wired.com/underwire/2012/11/the-xx-robotic-speakers-exhibit">on wired</a></li>
+  <li><a href="http://www.notcot.com/archives/2012/11/sonos-the-xx-kyle-mcdonald.php">on notcot</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.inmilee.net/untitled.html" name="mother"><img src="thumbs/mother.jpg" width="256" height="160" alt="Mother"></a>
+ <div class="description">
+  <h3>Mother</h3> <em>2012 with <a href="http://www.inmilee.net/">Inmi Lee</a></em>
+  Digitally extruding hand gestures in response to linguistic cues as a method of experimental sound visualization.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157630940848962/">photos</a></li>
+  <li><a href="http://github.com/kylemcdonald/Mother">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/44489751" name="selfportrait"><img src="thumbs/selfportrait.jpg" width="256" height="160" alt="Blind Self Portrait"></a>
+ <div class="description">
+  <h3>Blind Self Portrait</h3> <em>2012 with <a href="http://www.cibomahto.com/">Matt Mets</a></em>
+  While the visitor keeps their eyes shut, a moving platform guides a pen in their hand to draw a self-portrait, using computer vision to track their face and generate a line drawing. The result is a machine-aided drawing, a self-portrait you could never draw.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/40279845">video</a></li>
+  <li><a href="https://secure.flickr.com/photos/kylemcdonald/sets/72157629813858248/">photos</a></li>
+  <li><a href="https://github.com/kylemcdonald/BlindSelfPortrait">code</a></li>
+  <li><a href="http://thecreatorsproject.com/blog/you-can-finally-be-an-artist-with-this-self-portrait-machine">on creators project</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://fffff.at/subpixel" name="subpixel"><img src="thumbs/subpixel.jpg" width="256" height="160" alt="subpixel"></a>
+ <div class="description">
+  <h3>subpixel</h3> <em>2012</em>
+  A subway advertisement upgrade kit, built from laser-cut acrylic, rubber bands, and nine razor blades. It transforms a small patch of subway advertisement into an 8×8 grid of pixel stickers, ready for interaction with the public.
+ </div>
+ <ul>
+  <li><a href="http://fffff.at/subpixel/">project page</a></li>
+  <li><a href="http://fffff.at/?attachment_id=8958">laser cutting files</a></li>
+  <li><a href="https://secure.flickr.com/photos/kylemcdonald/sets/72157629998126938/">photos</a></li>
+  <li><a href="http://blog.makezine.com/2012/04/04/poster-pixelater/">on makezine</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://scratchml.com/" name="scratchml"><img src="thumbs/scratchml.jpg" width="256" height="160" alt="ScratchML"></a>
+ <div class="description">
+  <h3>ScratchML</h3> <em>2012- with <a href="http://jamiedubs.com/">Jamie Wilkinson</a> and <a href="http://lm4k.com/">Michael Auger</a></em>
+  A format for describing turntablism, as well as tools for recording, analyzing, sharing, and even recreating scratch performances with giant robot arms. Initially built as a prototype in at the 319 Scholes <a href="http://arthackday.net/319scholes/">Art Hack Day</a>.
+ </div>
+ <ul>
+  <li><a href="http://scratchml.com/">project site</a></li>
+  <li><a href="http://fffff.at/scratch-markup-language-sml/">on FAT</a></li>
+  <li><a href="https://github.com/scratchml">code</a></li>
+  <li><a href="https://vimeo.com/37353636">demo video</a></li>
+  <li><a href="http://fffff.at/fuckflickr/scratchML/videos/">hackday videos</a></li>
+  <li><a href="http://www.theverge.com/2012/1/31/2760713/scratch-markup-language-sml-scratchml-turntablism">on the verge</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/37090460" name="shadowplay"><img src="thumbs/shadowplay.jpg" width="256" height="160" alt="Shadowplay"></a>
+ <div class="description">
+  <h3>Shadowplay</h3> <em>2011-</em>
+  Experiments with shadow manipulation as an alternative interaction paradigm, exploring the unexpected results of structure in shadow, or form in emptiness. Shadowplay uses <a href="https://github.com/YCAMInterlab/ProCamToolkit/">ProCamToolkit</a> which was co-developed by the <a href="http://www.ycam.jp/en/interlab/">YCAM Interlab</a> during a residency.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/37090460">video</a></li>
+  <li><a href="https://github.com/YCAMInterlab/ProCamToolkit/">code</a></li>
+  <li><a href="http://createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/37089912" name="mapamok"><img src="thumbs/mapamok.png" width="256" height="160" alt="mapamok"></a>
+ <div class="description">
+  <h3>mapamok</h3> <em>2011-</em>
+  An experimental projection mapping tool that minimizes the amount of time spent doing calibration. mapamok uses <a href="https://github.com/YCAMInterlab/ProCamToolkit/">ProCamToolkit</a> which was co-developed by the <a href="http://www.ycam.jp/en/interlab/">YCAM Interlab</a> during a residency.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/37089912">video</a></li>
+  <li><a href="https://github.com/YCAMInterlab/ProCamToolkit/wiki/mapamok-%28English%29">tutorial</a></li>
+  <li><a href="https://github.com/YCAMInterlab/ProCamToolkit/">code</a></li>
+  <li><a href="https://github.com/YCAMInterlab/ProCamToolkit/downloads">app</a></li>
+  <li><a href="https://secure.flickr.com/photos/kylemcdonald/7001747416/in/photostream">at byob helsingør</a></li>
+  <li><a href="http://createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/29348533" name="substitution"><img src="thumbs/substitution.jpg" width="256" height="160" alt="Face Substitution Research"></a>
+ <div class="description">
+  <h3>Face Substitution Research</h3> <em>2011-, with <a href="http://arturocastro.net/">Arturo Castro</a></em>
+  Real time face tracking and substitution experiments including a realization of the <a href="https://vimeo.com/29391633">Scramble Suit</a> and an interactive installation <a href="https://vimeo.com/38700632">Faces</a> that picks a new face for you every time you blink.
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/29348533">video</a></li>
+  <li><a href="https://secure.flickr.com/photos/kylemcdonald/6168317343/">photo</a></li>
+  <li><a href="https://github.com/arturoc/FaceSubstitution">code</a></li>
+  <li><a href="https://github.com/arturoc/FaceSubstitution/downloads">app</a></li>
+  <li><a href="http://eyebeam.org/events/exhibition-wired-frames">at eyebeam</a></li>
+  <li><a href="http://playtime.ailleurs.ch/en/exposition/bodies-and-minds/">at playtime</a></li>
+  <li><a href="http://blogs.artinfo.com/artintheair/2011/09/21/digital-artists-virtually-swap-faces/">on artinfo</a></li>
+  <li><a href="http://www.designsoftheyear.com/2012/01/31/face-substitution-new-york-usa-arturo-castro-and-kyle-mcdonald/">design of the year nomination</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://secure.flickr.com/photos/kylemcdonald/sets/72157626620703953/with/5741567755/" name="pockettopographies"><img src="thumbs/pockettopographies.jpg" width="256" height="160" alt="Pocket Topographies"></a>
+ <div class="description">
+  <h3>Pocket Topographies</h3> <em>2011-, with <a href="http://www.woebken.net/">Chris Woebken</a></em>
+  Ongoing experiments with pocket-sized topographical maps for visualizing geographic data in a physical form. The first piece shows a year of travel around NYC captured surreptitiously by an iPhone. Started during a residency at <a href="http://makerbot.com">MakerBot</a>.
+ </div>
+ <ul>
+  <li><a href="https://secure.flickr.com/photos/kylemcdonald/sets/72157626620703953/with/5741567755/">photos</a></li>
+  <li><a href="https://github.com/kylemcdonald/Makerbot">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/groups/openframeworks/videos/25958231" name="psac"><img src="thumbs/psac.jpg" width="256" height="160" alt="People Staring at Computers"></a>
+ <div class="description">
+  <h3>People Staring at Computers</h3> <em>2011</em>
+  A photographic intervention. Custom app installed around NYC computer stores, taking a picture each minute and uploading it. Photos exhibited on site, full screen, on every computer.
+ </div>
+ <ul>
+  <li><a href="http://peoplestaringatcomputers.tumblr.com/">project page</a></li>
+  <li><a href="http://vimeo.com/25958231">video</a></li>
+  <li><a href="http://fffff.at/people-staring-at-computers/">on fffff.at</a></li>
+  <li><a href="http://neural.it/2011/09/people-staring-at-computers-the-discreet-gaze-of-the-commodities/">on neural</a></li>
+  <li><a href="https://www.nytimes.com/2011/07/20/nyregion/at-2-apple-stores-creating-art-via-webcam-secretly.html">on nytimes</a></li>
+  <li><a href="http://www.bbc.co.uk/news/technology-14080438">on bbc</a></li>
+  <li><a href="http://thefactoryfactory.com/wordpress/?p=831">on thefactoryfactory</a></li>
+  <li><a href="http://gizmodo.com/5818243/what-people-look-like-when-theyre-using-the-computer">on gizmodo</a></li>
+  <li><a href="http://www.techdirt.com/articles/20110707/23055015003/secret-service-descends-artist-mildly-creepy-public-photography.shtml">on techdirt</a></li>
+  <li><a href="http://www.theregister.co.uk/2011/07/08/kyle_mcdonald_meets_the_secret_service/">on the register</a></li>
+  <li><a href="http://mashable.com/2011/07/07/secret-service-apple-store-art-2/">on mashable</a></li>
+  <li><a href="http://rwdfoundation.org/new_ideas__directions/arts_and_culture/public_spaces_and_private_faces_in_new_media_art">on rwdfoundation</a></li>
+  <li><a href="http://prix2012.aec.at/prixwinner/6037/">ars prix honorary mention</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://github.com/kylemcdonald/SharingInterviews" name="sharinginterviews"><img src="thumbs/sharinginterviews.jpg" width="256" height="160" alt="Sharing Interviews"></a>
+ <div class="description">
+  <h3>Sharing Interviews</h3> <em>2011</em>
+  Interview series about creators sharing work, with an emphasis on open source, media art, and digital communities. The interviews are conducted with EtherPad and stored on GitHub.
+ </div>
+ <ul>
+  <li><a href="https://github.com/kylemcdonald/SharingInterviews">all interviews</a></li>
+  <li><a href="http://createdigitalmotion.com/2011/05/interview-anton-marini-on-visual-expression-exploring-glitch-open-community/">vade on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.flong.com/projects/eyeshine/" name="eyeshine"><img src="thumbs/eyeshine.jpg" width="256" height="160" alt="Eyeshine"></a>
+ <div class="description">
+  <h3>Eyeshine</h3> <em>2011 with <a href="http://www.flong.com/">Golan Levin</a></em>
+  Interactive installation which captures, records and replays the retroreflections (red-eye effects) from the eyes of its observers. In doing so it presents an image wholly constructed through the process of being observed.
+ </div>
+ <ul>
+  <li><a href="http://www.flong.com/projects/eyeshine/">project page</a></li>
+  <li><a href="https://vimeo.com/29356492">video</a></li>
+  <li><a href="https://github.com/kylemcdonald/Eyeshine">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/16197436" name="janusmachine"><img src="thumbs/janusmachine.jpg" width="256" height="160" alt="The Janus Machine"></a>
+ <div class="description">
+  <h3>The Janus Machine</h3> <em>2010, with <a href="http://thesystemis.com/">Zach Lieberman</a>, <a href="http://theowatson.com/">Theo Watson</a> and <a href="http://daito.ws/">Daito Manabe</a></em>
+  A 3d photo booth built from a structured light system. Janus is often depicted with two faces, each facing in opposite directions. Here: the real face, and the scan stored by the computer.
+ </div>
+ <ul>
+  <li><a href="https://github.com/kylemcdonald/TheJanusMachine/">source</a>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157624908558482/">photos</a></li>
+  <li><a href="http://www.aec.at/center_exhibitions_project_en.php?id=162">at aec</a></li>
+  <li><a href="http://www.cinekid.nl/nl/festivalprogram/block/2388">at cinekid</a></li>
+  <li><a href="http://www.bouillants.fr/the-janus-machine-2/">at bouillants</a></li>
+  <li><a href="http://www.artrock.org/programme/accueil-programme/217548/exposition-d-art-numerique/index.php5?jour=jour4">at art rock</a></li>
+  <li><a href="http://2011.sonar.es/en/sonarmatica/kyle-mcdonald-zach-lieberman-theo-watson-daito-manabe_47.html">at offfmàtica</a></li>
+  <li><a href="http://eyemagazine.com/feature.php?id=194&fid=896">in eye</a></li>
+  <li><a href="https://www.youtube.com/watch?v=hAcl3ayRwms">ars interview</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://kylemcdonald.net/oelf/" name="oelf"><img src="thumbs/oelf.jpg" width="256" height="160" alt="Only Everything Lasts Forever"></a>
+ <div class="description">
+  <h3>Only Everything Lasts Forever</h3> <em>2008-2010</em>
+  Very long sound composition for MP3: an arrangement of every sound we can uniqely distinguish. An exploration of noise and emptiness, and the auditory implications of sound representation. An open source project towards an MFA.
+ </div>
+ <ul>
+  <li><a href="http://kylemcdonald.net/oelf/">project page</a></li>
+  <li><a href="http://code.google.com/p/oelf/">google code</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157607460593040/">images</a></li>
+  <li><a href="http://createdigitalmusic.com/2010/05/12/your-hearing-according-to-mp3-sounds-for-humans-played-for-10450-years">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/8525186" name="nightlights"><img src="thumbs/nightlights.jpg" width="256" height="160" alt="Night Lights"></a>
+ <div class="description">
+  <h3>Night Lights</h3> <em>2009</em>
+  Building projection with crowd interaction in collaboration with <a href="http://yesyesno.com/">YesYesNo</a>, featuring three different interaction modes over six different scenes, cycled every hour over five nights in Auckland, NZ.
+ </div>
+ <ul>
+  <li><a href="http://vimeo.com/8525186">video from yyn</a></li>
+  <li><a href="http://www.youtube.com/watch?v=V9QwzX836-E">video from daito manabe</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157622643837444/">photos</a></li>
+  <li><a href="http://yesyesno.com/night-lights">yyn page</a></li>
+  <li><a href="http://code.google.com/p/projectknave/">source</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/9922212" name="keytweeter"><img src="thumbs/keytweeter.jpg" width="256" height="160" alt="keytweeter"></a>
+ <div class="description">
+  <h3>keytweeter</h3> <em>2009</em>
+  One-year performance for custom keylogger, tweeting every 140 characters I type, ending June 30, 2010. An exploration of the boundary between "information" and "control", ubiquitous status updates, and personal identity.
+ </div>
+ <ul>
+  <li><a href="http://twitter.com/keytweeter">twitter</a></li>
+  <li><a href="http://www.openframeworks.cc/forum/viewtopic.php?f=12&amp;t=2227">discussion and source</a></li>
+  <li><a href="keytweeter/keytweeter.zip">application</a></li>
+  <li><a href="http://neural.it/2009/07/keytweeter-twitting-without-filters/">on neural</a></li>
+  <li><a href="http://hackaday.com/2009/07/01/twittering-keylogger/">on hackaday</a></li>
+  <li><a href="http://www.lalibre.be/societe/cyber/article/569283/les-reseaux-sociaux-ne-laissent-pas-indifferent.html">on la libre</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/5171102" name="Portrait Machine"><img src="thumbs/portraitmachine.jpg" width="256" height="160" alt="portrait machine"></a>
+ <div class="description">
+  <h3>Portrait Machine</h3> <em>2009, with <a href="http://theowatson.com/">Theo Watson</a></em>
+  An interactive photography installation that visualizes the connections between visitors, reminding us of our connectedness and uniqueness, creating strong visual patterns and playful juxtapositions.
+ </div>
+ <ul>
+  <li><a href="http://vimeo.com/5171102">video</a></li>
+  <li><a href="http://www.theowatson.com/site_docs/work.php?id=43">photos</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157619878476317/">screenshots</a></li>
+  <li><a href="http://www.openframeworks.cc/forum/viewtopic.php?f=12&amp;t=2146">discussion</a></li>
+  <li><a href="http://www.cbkamsterdam.nl/index.php?secID=4&artID=116">CBK Amsterdam</a></li>
+  <li><a href="http://www.cinekid.nl/en/festivalprogram/block/1294">cinekid</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.openprocessing.org/visuals/?visualID=1014" name="DIY 3D Scanner"><img src="thumbs/diy3dscanner.jpg" width="256" height="160" alt="diy 3d scanner"></a>
+ <div class="description">
+  <h3>DIY 3D Scanning</h3> <em>2009-</em>
+  Ongoing work democratizing realtime 3D scanning with structured light (one projector, one camera).
+ </div>
+ <ul>
+  <li><a href="http://code.google.com/p/structured-light/">code</a></li>
+  <li><a href="http://www.vimeo.com/8392566">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157613657773217/">images</a></li>
+  <li><a href="http://openprocessing.org/visuals/?visualID=1995">demo</a></li>
+  <li><a href="http://www.instructables.com/id/Structured-Light-3D-Scanning/">instructable</a></li>
+  <li><a href="http://gizmodo.com/5437326/recreate-an-extraordinary-radiohead-video-with-ordinary-tech-and-this-guide">on gizmodo</a></li>
+  <li><a href="http://greatdance.com/thekineticinterface/2009/02/diy-laser-3d-animation/">on great dance</a></li>
+  <li><a href="http://hackaday.com/2009/12/30/update-realtime-3d-for-you-too/">on hackaday</a></li>
+  <li><a href="http://blog.makezine.com/archive/2009/12/how-to_structured_light_3d_scanning.html">on makezine</a></li>
+  <li><a href="http://createdigitalmotion.com/2009/02/12/simple-diy-3d-scanning-projector-camera-processing/#more-3328">on cdm</a></li>
+  <li><a href="http://www.elpais.com/articulo/madrid/bailarin/doble/virtual/elpepiespmad/20100510elpmad_10/Tes#">in el país</a></li>
+  <li><a href="http://wiki.makerbot.com/interview-with-kyle-mcdonald">at makerbot</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="/onecent" name="One Cent Grants"><img src="thumbs/onecent.jpg" width="256" height="160" alt="one cent project pennies"></a>
+ <div class="description">
+  <h3>1&#162; Grants</h3> <em>2009</em>
+  A project to provide 100 grants at 1&#162; cent each. Suspended early due to the high overhead cost of mailing pennies.
+ </div>
+ <ul>
+  <li><a href="onecent/index.html">recipients</a></li>
+  <li><a href="http://www.asdfmakes.com/onehundredgrants.html">ASDF $1 grants</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.flickr.com/groups/rpihaptics/" name="Vibrobyte"><img src="thumbs/vibrobyte.jpg" width="256" height="160" alt="vibrobyte"></a>
+ <div class="description">
+  <h3>Vibrobyte</h3> <em>2008-2009</em>
+  The Vibrobyte is a wireless haptic interface specialized for co-located musical performance. It was featured in "Telemorphosis" at <a href="http://www.icmc2008.net/programme/schedule">ICMC 2008</a>. Technical details were presented at the <a href="http://asa.aip.org/miami/program.html">156th ASA Meeting</a> and <a href="http://www.nime2009.org/">NIME 2009</a>.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/groups/rpihaptics/">photos</a></li>
+  <li><a href="http://vimeo.com/1623028">ICMC video</a></li>
+  <li><a href="vibrobyte/nime-poster.pdf">NIME poster</a></li>
+  <li><a href="vibrobyte/nime-vibrobyte-2p.pdf">short paper</a></li>
+  <li><a href="vibrobyte/nime-vibrobyte-6p.pdf">long paper</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.vimeo.com/625464" name="I Eat Beats"><img src="thumbs/ieatbeats.jpg" width="256" height="160" alt="i eat beats"></a>
+ <div class="description">
+  <h3>I Eat Beats</h3> <em>2008-2009</em>
+  Skittle-based beat sequencer, a tangible and edible music interface. v2 implements a generic control surface with the aide of a linear polarizer to cancel out the screen.
+ </div>
+ <ul>
+  <li><a href="http://www.vimeo.com/625464">v1 video</a></li>
+  <li><a href="http://vimeo.com/3273927">v2 video</a></li>
+  <li><a href="ieatbeats/source.zip">v1 processing source</a></li>
+  <li><a href="ieatbeats/ieatbeats2.zip">v2 processing source</a></li>
+  <li><a href="http://hackaday.com/2008/07/10/tangible-sequencer-interface-with-skittles/">on hackaday</a></li>
+  <li><a href="http://www.analogindustries.com/blog/entry.jsp?msgid=1201075637858">on analog industries</a></li>
+  <li><a href="http://createdigitalmusic.com/2008/01/23/sequencing-beats-with-bubble-gum/#comments">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.openprocessing.org/visuals/?visualID=1138" name="pppd"><img src="thumbs/pppd.jpg" width="256" height="160" alt="pppd"></a>
+ <div class="description">
+  <h3>pppd</h3> <em>2009</em>
+  An appropriation of computability theory. During each brief scene, a random sequence of p'' code is generated and run, while the memory it uses is visualized and sonified. An investigation of emergent behavior and computational dreams.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/search/?q=pppd&amp;w=28622838%40N00">images</a></li>
+  <li><a href="http://www.openprocessing.org/visuals/?visualID=1138">view online</a></li>
+  <li><a href="http://koian.org/machine_dreams_kyle_mcdonald">machine dreams exhibition</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.flickr.com/photos/kylemcdonald/sets/72157610303479861/" name="Please Remember Me When I'm Gone"><img src="thumbs/pleaserememberme.jpg" width="256" height="160" alt="please remember me"></a>
+ <div class="description">
+  <h3>Please Remember Me When I'm Gone</h3> <em>2008, with <a href="http://www.arts.rpi.edu/pl/students/rebecca-weisman">Rebecca Weisman</a></em>
+  Exploration of personality, death, and emptiness through a human-scale settlement of handmade dwellings combining video, electronics, and recorded voice. Colors from the sky as it moves from dusk to dark, and from dark to dawn, are sampled from video and routed into the huts.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157610303479861/">photos</a></li>
+  <li><a href="http://www.openframeworks.cc/forum/viewtopic.php?f=12&amp;t=1409">discussion</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/2548287" name="Nandhopper"><img src="thumbs/nandhopper.jpg" width="256" height="160" alt="nandhopper"></a>
+ <div class="description">
+  <h3>Nandhopper</h3> <em>2008-</em>
+  Ongoing noise synth explorations, with inspiration from the Kraakdoos, Theremin, Thingamakit, and BEAM electronics.
+ </div>
+ <ul>
+  <li><a href="http://www.instructables.com/id/Nandhopper_1_Bit_Noise_Synth/">instructable</a></li>
+  <li><a href="http://vimeo.com/1249337">prototype video</a></li>
+  <li><a href="http://vimeo.com/2548287">v1 video</a></li>
+  <li><a href="http://vimeo.com/4290143">v2 video</a></li>
+  <li><a href="http://kylemcdonald.blip.tv/file/1584880/">audio</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157605870055061/">photos</a></li>
+  <li><a href="http://hackaday.com/2008/12/18/nandhopper-1-bit-noise-synth/">on hackaday</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/1383359" name="DIY 3D Interface"><img src="thumbs/diy3dinterface.jpg" width="256" height="160" alt="diy 3d interface"></a>
+ <div class="description">
+  <h3>DIY 3D Interface</h3> <em>2008-</em>
+  Ongoing work with DIY capacitive sensing for 3D interaction. v1 used an Arduino, aluminum foil, and six resistors.
+ </div>
+ <ul>
+  <li><a href="http://www.instructables.com/id/DIY-3D-Controller/">instructable</a></li>
+  <li><a href="http://vimeo.com/1383359">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157606300461792/">photos</a></li>
+  <li><a href="http://hackaday.com/2008/07/23/simple-tracking-in-3d-space/">on hackaday</a></li>
+  <li><a href="http://gizmodo.com/5028377/amazing-wii+like-3+d-controller-interface-built-with-foil-wiring-resistors-and-arduino">on gizmodo</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.flickr.com/photos/kylemcdonald/sets/72157608915887288/" name="Future Fragments"><img src="thumbs/futurefragments.jpg" width="256" height="160" alt="future fragments"></a>
+ <div class="description">
+  <h3>Future Fragments</h3> <em>2008</em>
+  An anti-time-capsule: quotes from seven fellow art students, transcribed phonetically and encoded as colors. Prints of these colors were carried by the artists for a summer. Decoded back into phonemes and re-formed into words, each text offers an indirect account of their respective journeys.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157608915887288/">photos and transcriptions</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/747455" name="Musique Du Vent"><img src="thumbs/musiqeduvent.jpg" width="256" height="160" alt="musique du vent"></a>
+ <div class="description">
+  <h3>Musique Du Vent</h3> <em>2008</em>
+  Reclaiming the entropy of unused dryer heat from a vent outside a freshman dorm, redirecting it into a discarded accordion. During the early Winter, the vent creates a small grassy space surrounded by snow. In March, it's mostly thick mud, but still unexpectedly warm and inviting.
+ </div>
+ <ul>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157604033972037/">photos</a></li>
+  <li><a href="http://vimeo.com/747455">video</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/432353" name="Theremug"><img src="thumbs/theremug.jpg" width="256" height="160" alt="theremug"></a>
+ <div class="description">
+  <h3>Theremug</h3> <em>2007</em>
+  An exercise in simplicity: the most basic capacitive sensor, using the smallest possible number of external components. Requires only an unshielded cable connected to a microphone input.
+ </div>
+ <ul>
+  <li><a href="http://vimeo.com/432353">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/2126494098/">max patch</a></li>
+  <li><a href="http://hackaday.com/2008/07/03/tea-cup-theremin/">on hackaday</a></li>
+  <li><a href="http://createdigitalmusic.com/2008/11/10/alternative-theremin-on-your-wrist-in-a-mug-of-tea/">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.openprocessing.org/visuals/?visualID=1182" name="Empathy"><img src="thumbs/empathy.jpg" width="256" height="160" alt="empathy"></a>
+ <div class="description">
+  <h3>Empathy</h3> <em>2004</em>
+  Early Processing work. Don't move too fast, you might scare it. Click to forgive and forget.
+ </div>
+ <ul>
+  <li><a href="http://www.openprocessing.org/visuals/?visualID=1182">view online</a></li>
+ </ul>
+</div>
+
+</div>
+
+
+<!--
+  - janelle monae http://aramique.com/VOLUMETRIC-SPACESHIP
+  - lucy mcrae https://vimeo.com/154066437
+-->
+
+<div class="section">
+
+<div class="cell project">
+<h2>Consulting</h2>
+ <a href="http://instagram.com/p/g8L4uaOBYH" name="barneys"><img src="thumbs/barneys.jpg" width="256" height="160" alt="Barneys"></a>
+ <div class="description">
+  <h3>Reflections</h3> <em>2013, directed by <a href="http://joanielemercier.com/">Joanie Lemercier</a></em>
+  Sculpture for holiday window display at Barneys New York. Inspired by visual aesthetic of "Light Leaks", the sculpture was designed with three.js and Rhino, fabricated from a milled foam base, with generative patterns projected upon the mirrored surface.
+ </div>
+ <ul>
+  <li><a href="https://www.flickr.com/photos/kylemcdonald/sets/72157637885229946/">photos</a></li>
+  <li><a href="http://instagram.com/p/g8L4uaOBYH">on instagram</a></li>
+  <li><a href="https://www.shadertoy.com/view/XsjGWG">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://vimeo.com/21531156" name="eletroaxe"><img src="thumbs/eletroaxe.jpg" width="256" height="160" alt="EletroAxé"></a>
+ <div class="description">
+  <h3>EletroAxé</h3> <em>2011, with <a href="http://www.lucaswerthein.com/">Lucas Werthein</a></em>
+  Experimental percussion interface for Brazilian musician/composer Carlinhos Brown. Performed for a crowd of 50k during the 2011 Carnaval in Salvador, Bahia.
+ </div>
+ <ul>
+  <li><a href="http://vimeo.com/21531156">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157626059197671/">development photos</a></li>
+  <li><a href="http://hackaday.com/2011/03/31/the-electroaxe-full-body-percussion-suit/">on hackaday</a></li>
+  <li><a href="http://createdigitalmusic.com/2011/04/brazilian-rhythms-meet-wireless-wearable-drums-in-an-artist-engineer-collaboration/">on cdm</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://www.wafaabilal.com/html/andCounting.php" name="andcounting"><img src="https://kylemcdonald.net/thumbs/andcounting.jpg" width="256" height="160" alt="...and Counting"></a>
+ <div class="description">
+  <h3>...and Counting</h3> <em>2010, for <a href="http://www.wafaabilal.com/">Wafaa Bilal</a></em>
+  Visualization for a full-back tattoo, one dot for each death associated with the war in Iraq: 4k US soldiers in red ink, 100k "invisible" civilians in ultraviolet.
+ </div>
+ <ul>
+  <li><a href="http://www.wafaabilal.com/html/andCounting.php">project page</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157623266907219/">development pics</a></li>
+  <li><a href="http://www.we-make-money-not-art.com/archives/2010/02/latest-project-by-new-york.php">on we make money not art</a></li>
+  <li><a href="http://cityroom.blogs.nytimes.com/2010/03/04/15000-dots-for-iraq-and-counting/">on nytimes</a></li>
+  <li><a href="http://www.democracynow.org/2010/3/9/105_000_tattoos_iraqi_artist_wafaa">on democracy now</a></li>
+  <li><a href="http://infosthetics.com/archives/2010/02/tattooing_one_dot_for_every_death_with_operation_iraqi_freedom.html">on infosthetics</a></li>
+  <li><a href="http://www.fastcompany.com/1551413/artist-gets-one-tattoo-for-everyone-who-has-died-in-operation-iraqi-freedom">on fast company</a></li>
+  <li><a href="http://www.good.is/post/one-tattoo-for-every-casualty-of-operation-iraqi-freedom/">on good.is</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="https://vimeo.com/92269482" name="subdivisionofroam"><img src="https://kylemcdonald.net/thumbs/subdivisionofroam.jpg" width="256" height="160" alt="Subdivision of Roam"></a>
+ <div class="description">
+  <h3>Subdivision of Roam</h3> <em>2010, for <a href="http://milk.co/">Chris Milk</a></em>
+  An interactive installation investigating personal shells and their deconstruction. Presented at the NYC Wired Magazine pop-up store 2010, and later developed into "<a href="http://milk.co/treachery">The Treachery of Sanctuary</a>."
+ </div>
+ <ul>
+  <li><a href="https://vimeo.com/92269482">video</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/sets/72157625166019115/">photos</a></li>
+  <li><a href="https://github.com/kylemcdonald/SubdivisionOfRoam">code</a></li>
+ </ul>
+</div>
+
+<div class="cell project">
+ <a href="http://ekac.org/oi_kac.show_overview.html" name="lagoglyphs"><img src="https://kylemcdonald.net/thumbs/lagoglyphs.jpg" width="256" height="160" alt="Lagoglyphs"></a>
+ <div class="description">
+  <h3>Lagoglyphs</h3> <em>2010, with <a href="http://www.shawnlawson.com/">Shawn Lawson</a> for <a href="http://ekac.org/">Eduardo Kac</a></em>
+  Flocking of 1400 unique handmade drawings, with an emphasis on the generative mutability of writing. A version of the source was branched, and shared as "Clouds are Looming".
+ </div>
+ <ul>
+  <li><a href="http://ekac.org/oi_kac.show_overview.html">oi futuro photos</a></li>
+  <li><a href="http://www.flickr.com/photos/kylemcdonald/4221155305/">debug screen</a></li>
+  <li><a href="http://www.vimeo.com/8479763">video</a></li>
+  <li><a href="http://openprocessing.org/visuals/?visualID=6753">processing sketch</a></li>
+ </ul>
+</div>
+
+</div>
+
+<div class="section">
+
+<!--
+<div><h2>Collaborators</h2></div>
+ <div class="cell">
+  <ul>
+   <li><a href="http://www.wafaabilal.com/">Wafaa Bilal</a></li>
+   <li><a href="http://www.shawnlawson.com/">Shawn Lawson</a></li>
+   <li><a href="http://daito.ws/">Daito Manabe</a></li>
+   <li><a href="http://thesystemis.com/">Zach Lieberman</a></li>
+   <li><a href="http://toddvanderlin.com/">Todd Vanderlin</a></li>
+   <li><a href="http://www.dance-tech.net/profile/LisaParra">Lisa Parra</a></li>
+   <li><a href="http://theowatson.com/">Theo Watson</a></li>
+   <li><a href="http://www.vimeo.com/laserpilot">Blair Neal</a></li>
+   <li><a href="http://www.changizi.com/">Mark Changizi</a></li>
+   <li><a href="http://www.music.mcgill.ca/~doug/">Doug Van Nort</a></li>
+   <li><a href="http://www.bsjeon.net/">Byeong Sam Jeon</a></li>
+   <li><a href="http://transistor-man.com/">Dane Kouttron</a></li>
+   <li><a href="http://www.paulineoliveros.us/">Pauline Oliveros</a></li>
+   <li><a href="http://arts.rpi.edu/~crb/">Curtis Bahn</a></li>
+   <li><a href="http://fddrsn.net/">Jeff Feddersen</a></li>
+   <li><a href="http://www.cassimatis.com/hlil.html">Nick Cassimatis</a></li>
+   <li><a href="http://www.math.drexel.edu/~tyu/JetSubdivision/index.html">Thomas Yu</a></li>
+   <li><a href="http://www.myspace.com/dostoevskyspistols">Dostoevsky's Pistols</a></li>
+  </ul>
+ </div>
+
+<div><h2>Links</h2></div>
+ <div class="cell">
+  <ul>
+   <li><a href="http://twitter.com/kcimc">Twitter</a></li>
+   <li><a href="http://github.com/kylemcdonald/">GitHub</a></li>
+   <li><a href="http://vimeo.com/kylemcdonald/videos">Vimeo</a></li>
+   <li><a href="http://www.flickr.com/photos/kylemcdonald/">Flickr</a></li>
+   <li><a href="http://instagram.com/kcimc/">Instagram</a></li>
+   <li><a href="http://www.openprocessing.org/portal/?userID=838">OpenProcessing</a></li>
+   <li><a href="http://www.instructables.com/member/kylemcdonald/">Instructables</a></li>
+   <li><a href="http://erraticsemaphore.blogspot.com/">Blogger</a></li>
+   <li><a href="http://delicious.com/kylemcdonald">Del.icio.us</a></li>
+   <li><a href="http://soundcloud.com/kyle-mcdonald">Sound Cloud</a>
+   <li><a href="http://friendfeed.com/kmcdonald">FriendFeed</a></li>
+  </ul>
+ </div>
+</div>
+
+-->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9543286-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+sc_project=830491;
+sc_invisible=1;
+sc_partition=6;
+sc_security="436f22b9";
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<!-- End of StatCounter Code -->
+
+</body>
+</html>
