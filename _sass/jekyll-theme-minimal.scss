@@ -1,21 +1,21 @@
 @import "fonts";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Chivo:700|Contrail+One|Goblin+One|Racing+Sans+One|Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chivo:700|Contrail+One|Goblin+One|Racing+Sans+One|Fanwood+Text:400,400i|Space+Mono&display=swap');
 
 body {
-  background: linear-gradient(90deg, cyan 0%, white 35%);
+  background: linear-gradient(90deg, cyan 0%, white 25%);
   background-attachment: fixed;
   padding:20px;
   font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 12px;
   font-weight: 400;
   line-height: 1.2;
   color: black;
 
 }
 
-h1, h2, h3, h4, h5{
+h2, h3, h4, h5{
   color:blue;
   margin:1.8em 0 1.1em;
 }
@@ -31,45 +31,52 @@ h1, h2, h3 {
 h1 {
 
   font-family: 'Racing Sans One', cursive;
-  font-size: 3em;
+  font-size: 5em;
 color: blue;
 text-align: center;
     letter-spacing: normal;
-
+  margin:1.1em 0 1.1em;
 }
 
 h2 {
   color:blue;
   text-transform: uppercase;
-        font-size: 2.5em;
+        font-size: 3em;
         text-align:center;
         font-family: 'Chivo', sans-serif;
-        font-weight: bold;
+
 
 }
 
 h3 {
   color:blue;
       font-size:2em;
-        font-family: 'Chivo', sans-serif;
+      font-family: 'Space Mono', monospace;
 
 }
 
 h4{
   color:blue;
-  font-size:1.2em;
-font-family: 'Space Mono', monospace;
+  font-size:2.5em;
+font-family: 'Fanwood Text', serif;
 }
 
 
 h6{
     color:blue;
-    font-family: 'Space Mono', monospace;
--webkit-transform: rotate(20deg);
--moz-transform: rotate(20deg);
--o-transform: rotate(20deg);
-writing-mode: lr-tb;
     font-size: 1.2em;
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    display: inline-block;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+-webkit-transform: rotate(8deg);
+-moz-transform: rotate(8deg);
+-o-transform: rotate(8deg);
+writing-mode: lr-tb;
+text-decoration: underline;
+  text-decoration-style: wavy;
+  background-image: linear-gradient(to right, #fde7fd, #8affc1);
 
 }
 
