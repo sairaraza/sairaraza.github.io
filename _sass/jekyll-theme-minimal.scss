@@ -3,9 +3,9 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
 
 body {
-  background: linear-gradient(180deg, white, cyan);
+  background: linear-gradient(90deg, cyan 0%, white 45%);
   background-attachment: fixed;
-  padding:50px;
+  padding:20px;
   font-family: 'Space Mono', monospace;
   color:black;
   font-weight:400;
@@ -25,7 +25,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:36px;
+  font-size:44px;
+  text-transform: uppercase;
     color:blue;
     font-family: 'Work Sans', sans-serif;
     font-weight: bold;
@@ -35,7 +36,7 @@ h1 {
 h2 {
   color:blue;
   text-transform: uppercase;
-      font-size:26px;
+      font-size:30px;
         text-align:center;
         font-family: 'Merriweather Sans', sans-serif;
         font-weight: bold;
@@ -53,7 +54,8 @@ h3 {
 h4{
   color:blue;
     font-size:20px;
-font-family: 'Jacques Francois Shadow', cursive;
+font-family: 'Space Mono', monospace;
+font-weight: bold;
 }
 
 
@@ -62,10 +64,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  text-decoration:underline;
+  background-color:blue;
+  color: white
 }
 
 a:hover, a:focus {
+  color: blue
   background-color:cyan;
   font-weight: bold;
 }
