@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chivo:700|Contrail+One|Goblin+One|Racing+Sans+One|Space+Mono&display=swap');
 
 body {
   background: linear-gradient(90deg, cyan 0%, white 35%);
@@ -64,9 +65,9 @@ font-family: 'Space Mono', monospace;
 h6{
     color:blue;
     font-family: 'Space Mono', monospace;
--webkit-transform: rotate(355deg);
--moz-transform: rotate(355deg);
--o-transform: rotate(355deg);
+-webkit-transform: rotate(20deg);
+-moz-transform: rotate(20deg);
+-o-transform: rotate(20deg);
 writing-mode: lr-tb;
     font-size: 1.2em;
 
