@@ -11,8 +11,9 @@ The masters programme has given me the opportunity to research and collate infor
 ### The Lifecycle and applications of diatoms
 
 For our module on material driven design I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
+
 <iframe
-  src="https://embed.kumu.io/11748c2cffc2c9b5a790b1639a79e93e"
+  src="https://embed.kumu.io/21f7bf7bbf5c92f36b18b663fbb3a57b"
   width="940" height="600" frameborder="0"></iframe>
 
 ### Applications of fossilised and living diatoms
@@ -33,7 +34,7 @@ In our module called The Atlas of Weak Signals each week we explored as teams de
 
 This was a visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my project.
 
-![](project/assets/infomat.png)
+![](assets/infomat.png)
 
 ### A collection of details of experiments on metamaterial designs
 
