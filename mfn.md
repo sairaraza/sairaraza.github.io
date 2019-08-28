@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: pdfaspage
 ---
 
 **<font face color="blue" size="5"><center>░M░a░k░i░n░g░ ░f░r░o░m░ ░n░o░i░s░e░̚</center></font>**
