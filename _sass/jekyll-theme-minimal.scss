@@ -59,9 +59,18 @@ h3 {
 h4{
   color:blue;
   font-size:24px;
-font-family: 'Inconsolata', sans-serif;
+font-family: 'Inconsolata', monospace;
 }
 
+
+h6{
+    color:blue;
+    font-family: 'Space Mono', monospace;
+-webkit-transform: rotate(325deg);
+-moz-transform: rotate(325deg);
+-o-transform: rotate(325deg);
+writing-mode: lr-tb;
+}
 
 h3, h4, h5, h6 {
   color:blue;
