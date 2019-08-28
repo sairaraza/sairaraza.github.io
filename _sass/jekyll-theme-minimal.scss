@@ -6,9 +6,12 @@ body {
   background: linear-gradient(90deg, cyan 0%, white 45%);
   background-attachment: fixed;
   padding:20px;
-  font-family: 'Space Mono', monospace;
-  color:black;
-  font-weight:400;
+  font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: black;
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,14 +49,14 @@ h2 {
 h3 {
   color:blue;
     text-decoration:uppercase;
-      font-size:20px;
+      font-size:26px;
         font-family: 'Inconsolata', monospace;
 
 }
 
 h4{
   color:blue;
-    font-size:20px;
+  font-size:24px;
 font-family: 'Space Mono', monospace;
 font-weight: bold;
 }
