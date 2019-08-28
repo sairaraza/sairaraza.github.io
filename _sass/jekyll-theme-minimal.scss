@@ -6,7 +6,7 @@ body {
   background: linear-gradient(180deg, white, cyan);
   background-attachment: fixed;
   padding:50px;
-  font: 14px/1.5 "Space", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Space Mono', monospace;
   color:#727272;
   font-weight:400;
 }
@@ -36,13 +36,16 @@ h2 {
   text-transform: uppercase;
       font-size:26px;
         text-align:center;
+        font-family: 'Merriweather Sans', sans-serif;
 }
 
-h2 {
+h3 {
   color:blue;
     text-decoration:uppercase;
       font-size:20px;
         text-align:center;
+        font-family: 'Inconsolata', monospace;
+
 }
 
 h3, h4, h5, h6 {
