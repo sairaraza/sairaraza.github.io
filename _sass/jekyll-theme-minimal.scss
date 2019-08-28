@@ -67,7 +67,12 @@ h3, h4, h5, h6 {
 }
 
 a {
+  color: white;
   background-color:blue;
+
+}
+
+a:visited {
   color: white;
 }
 
@@ -77,9 +82,7 @@ a:hover, a:focus {
   font-weight: bold;
 }
 
-a:visited {
-  color: blue;
-}
+
 
 a small {
   font-size:11px;
