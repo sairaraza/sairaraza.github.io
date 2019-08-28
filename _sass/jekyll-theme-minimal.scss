@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
 
 body {
-  background: linear-gradient(90deg, cyan 0%, white 45%);
+  background: linear-gradient(90deg, cyan 0%, white 35%);
   background-attachment: fixed;
   padding:20px;
   font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
@@ -16,7 +16,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:blue;
-  margin:0 0 1.2em;
+  margin:1.8em 0 0.7em;
 }
 
 p, ul, ol, table, pre, dl {
@@ -24,14 +24,14 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2, h3 {
-  line-height:1.3;
+  line-height:1.7;
 }
 
 h1 {
   font-size:44px;
   text-transform: uppercase;
     color:blue;
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Chivo', sans-serif;
     font-weight: bold;
 
 }
@@ -39,7 +39,7 @@ h1 {
 h2 {
   color:blue;
   text-transform: uppercase;
-      font-size:30px;
+      font-size:36px;
         text-align:center;
         font-family: 'Merriweather Sans', sans-serif;
         font-weight: bold;
@@ -58,7 +58,7 @@ h4{
   color:blue;
   font-size:24px;
 font-family: 'Space Mono', monospace;
-font-weight: bold;
+
 }
 
 
