@@ -14,7 +14,7 @@ body {
 
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5{
   color:blue;
   margin:1.8em 0 0.7em;
 }
@@ -51,7 +51,6 @@ h3 {
   color:blue;
     text-decoration:uppercase;
       font-size:26px;
-
         font-family: 'Space Mono', monospace;
 
 }
@@ -66,10 +65,12 @@ font-family: 'Inconsolata', monospace;
 h6{
     color:blue;
     font-family: 'Space Mono', monospace;
--webkit-transform: rotate(325deg);
--moz-transform: rotate(325deg);
--o-transform: rotate(325deg);
+-webkit-transform: rotate(355deg);
+-moz-transform: rotate(355deg);
+-o-transform: rotate(355deg);
 writing-mode: lr-tb;
+    font-size: 1.2rem;
+
 }
 
 h3, h4, h5, h6 {
