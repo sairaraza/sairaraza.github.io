@@ -7,7 +7,7 @@ body {
   background-attachment: fixed;
   padding:50px;
   font-family: 'Space Mono', monospace;
-  color:#727272;
+  color:black;
   font-weight:400;
 }
 
@@ -25,9 +25,10 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:32px;
+  font-size:36px;
     color:blue;
     font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
 
 }
 
@@ -37,16 +38,24 @@ h2 {
       font-size:26px;
         text-align:center;
         font-family: 'Merriweather Sans', sans-serif;
+        font-weight: bold;
+        font-style: italic;
 }
 
 h3 {
   color:blue;
     text-decoration:uppercase;
       font-size:20px;
-        text-align:center;
         font-family: 'Inconsolata', monospace;
 
 }
+
+h4{
+  color:blue;
+    font-size:20px;
+font-family: 'Jacques Francois Shadow', cursive;
+}
+
 
 h3, h4, h5, h6 {
   color:blue;
