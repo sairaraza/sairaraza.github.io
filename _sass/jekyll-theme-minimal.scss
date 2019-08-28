@@ -1,64 +1,68 @@
 @import "fonts";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css?family=Archivo+Black&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Chivo:700|Contrail+One|Goblin+One|Racing+Sans+One|Fanwood+Text:400,400i|Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Chivo:700,900|Contrail+One|Goblin+One|Racing+Sans+One|Fanwood+Text:400,400i|Space+Mono&display=swap');
 
 body {
   background: linear-gradient(90deg, cyan 0%, white 25%);
   background-attachment: fixed;
   padding:20px;
   font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 0.9em;
   font-weight: 400;
-  line-height: 1.2;
+  line-height: 1.7;
   color: black;
 
 }
 
 h2, h3, h4, h5{
   color:blue;
-  margin:1.8em 0 1.1em;
+  margin:1.6em 0 1.1em;
 }
 
 p, ul, ol, table, pre, dl {
   margin:0 20px 20px;
 }
 
-h1, h2, h3 {
+h2, h3 {
   line-height:1.2;
 }
 
 h1 {
 
   font-family: 'Racing Sans One', cursive;
-  font-size: 5em;
+  font-size: 4em;
 color: blue;
 text-align: center;
-    letter-spacing: normal;
+letter-spacing: normal;
   margin:1.1em 0 1.1em;
+    line-height:1.1;
 }
 
 h2 {
   color:blue;
   text-transform: uppercase;
-        font-size: 3em;
+        font-size: 2.6em;
         text-align:center;
-        font-family: 'Chivo', sans-serif;
+            font-family: 'Space Mono', monospace;
 
 
 }
 
 h3 {
   color:blue;
-      font-size:2em;
+      font-size:1.9em;
       font-family: 'Space Mono', monospace;
-
+    font-weight: 400;
+    letter-spacing: normal;
 }
 
 h4{
   color:blue;
-  font-size:2.5em;
+  font-size:1.8em;
 font-family: 'Fanwood Text', serif;
+font-style: italic;
+    font-weight: 400;
 }
 
 

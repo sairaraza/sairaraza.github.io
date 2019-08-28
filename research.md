@@ -13,12 +13,10 @@ The masters programme has given me the opportunity to research and collate infor
 For our module on material driven design I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
 
 <iframe
-  src="https://embed.kumu.io/5cdea7fd19180614f9d0a651e6eb281e"
+  src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
   width="940" height="600" frameborder="0"></iframe>
 
-  <iframe
-  src="https://embed.kumu.io/6a40476013aa3e6d8727892c1bfa62a3"
-  width="940" height="600" frameborder="0"></iframe>
+
   <br>
     <br>
   <br>
