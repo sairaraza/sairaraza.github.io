@@ -33,7 +33,6 @@ h1 {
 color: blue;
 text-align: center;
   font-weight: 900;
-    line-height: 1.0;
     letter-spacing: normal;
 
 }
@@ -52,14 +51,15 @@ h3 {
   color:blue;
     text-decoration:uppercase;
       font-size:26px;
-        font-family: 'Inconsolata', sans-serif;
+
+        font-family: 'Space Mono', monospace;
+
 }
 
 h4{
   color:blue;
   font-size:24px;
-font-family: 'Space Mono', monospace;
-
+font-family: 'Inconsolata', sans-serif;
 }
 
 
@@ -68,19 +68,19 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color: white;
-  background-color:blue;
+  color: blue;
+  background-color:cyan;
 
 }
 
 a:visited {
-  color: white;
+  color: blue;
 }
 
 a:hover, a:focus {
-  color: blue;
-  background-color:cyan;
-  font-weight: bold;
+
+  color: white;
+  background-color:blue;
 }
 
 
