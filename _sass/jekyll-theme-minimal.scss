@@ -179,13 +179,13 @@ a:hover small {
 
 .containerx {
   position: relative;
-  width: auto;
+  width: fit-content;
 
 }
 
 .imagex {
   display: block;
-  width: 100%;
+  width: inherit;
   height: auto;
 }
 
