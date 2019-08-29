@@ -1,32 +1,21 @@
 ---
 layout: default
 ---
+### The Lifecycle and applications of diatoms
 
-**<font face color="blue" size="5"><center>░M░a░k░i░n░g░ ░f░r░o░m░ ░n░o░i░s░e░̚</center></font>**
-<center><font size="3" color="blue">𝘍𝘳𝘰𝘮 𝘥𝘢𝘵𝘢 𝘵𝘰 𝘮𝘦𝘵𝘢𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴 𝘪𝘯 𝘢 𝘮𝘢𝘬𝘦𝘳 𝘴𝘱𝘢𝘤𝘦</font></center>
-<br>
+Diatoms have extraordinary intricate glass shells with exceptional properties. As well as this when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
 
-![](assets/mfnintro.pdf)
+<iframe
+  src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
+  width="940" height="600" frameborder="0"></iframe>
 
+  <br>
+  <br>
+  <br>
 
-github.com/labnol/files/hello.pdf?raw=true
+  
+### Applications of fossilised and living diatoms
 
-https://sairaraza.github.io/assets/mfnintro.pdf
-
-
-![](https://sairaraza.github.io/assets/mfnintro.pdf?raw=true)
-
-
-assets/mfnintro.pdf
-sairaraza.github.io/assets/mfnintro.pdf
-
-![](assets/1.png)
-
-![](assets/2.png)
-
-![](assets/3.png)
-![](assets/4.png)
-![](assets/5.png)
-![](assets/6.png)
-![](assets/7.png)
-![](assets/8.png)
+<iframe
+src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
+width="940" height="600" frameborder="0"></iframe>
