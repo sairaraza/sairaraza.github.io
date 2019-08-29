@@ -6,17 +6,17 @@ layout: default
 
 
 
-<a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px" title="daitoms"><div class="hcenteredtext">words</div></div></a>
+<a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px" title="first block"><div class="hcenteredtext">first block with just hover label</div></div></a>
 
 
-<a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" title="diatoms"><div class="hcenteredtext">
-diatoms</div></div></a>
+<div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" title="second codeblock"><div class="hcenteredtext">
+second codeblock with text</div></a></div>
 
 
-<div class="containerx"><img src="sphereshadow.png" class="imagex"><div class="overlayx">diatoms</div></div>
+<div class="containerx"><img src="sphereshadow.png" class="imagex"><div class="overlayx">third block with overlay</div></div>
 
 
-<a class="button" href="#popup1">popup link</a>
+<a class="button" href="#popup1">fourth popup link</a>
 
 <div id="popup1" class="overlay">
 <div class="popup">
