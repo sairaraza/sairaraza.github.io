@@ -6,7 +6,13 @@ layout: default
 
 
 <a href="#popup1">
-<div class="vcenteredtext"><img src="sphereshadow.png" title="My project"><div class="hcenteredtext"></div></a>
+<div class="vcenteredtext">
+<img src="sphereshadow.png" title="My project">
+<div class="hcenteredtext">
+caption for image
+</div>
+</div>
+</a>
 
 
 <a class="button" href="#popup1">popup link</a>
