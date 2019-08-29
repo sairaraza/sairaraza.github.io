@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="colormap.png">
+<link rel="shortcut icon" type="image/x-icon" href="transball.png">
 
 
 
