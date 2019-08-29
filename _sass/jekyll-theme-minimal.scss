@@ -116,6 +116,9 @@ h3, h4, h5, h6 {
     transform: rotate(4deg) skew(15deg);
 }
 
+
+
+
 a {
   color: blue;
   text-decoration: none;
@@ -155,6 +158,47 @@ a:hover small {
   margin:0 auto;
 }
 
+
+-- popup--
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 50%;
+  position: relative;
+  transition: all 2s ease-in-out;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .content {
+  max-height: 50%;
+  overflow: auto;
+}
+-----
 
 blockquote {
   border-left:1px solid #e5e5e5;
