@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+# <center>Diatoms</center>
+
 ### The Lifecycle and applications of diatoms
 
 Diatoms have extraordinary intricate glass shells with exceptional properties. As well as this when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
@@ -13,7 +16,7 @@ Diatoms have extraordinary intricate glass shells with exceptional properties. A
   <br>
   <br>
 
-  
+
 ### Applications of fossilised and living diatoms
 
 <iframe

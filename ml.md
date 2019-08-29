@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# <center>Machine Learning</center>
 
 ### Machine learning tools for finding metamaterials
 

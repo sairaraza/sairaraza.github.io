@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+# <center>Water and Sanitation
+</center>
+
 ### Links between WASH infrastructure and completion of primary education
 
 The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)

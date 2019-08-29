@@ -2,6 +2,7 @@
 layout: default
 ---
 
+# <center>DMetamaterials</center>
 
 ### A taxonomy of metamaterials (in progress)
 
