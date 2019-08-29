@@ -9,16 +9,10 @@ layout: default
 <div class="vcenteredtext">
 <img src="sphereshadow.png" title="diatoms">
 <div class="hcenteredtext">
-caption for image
-</div>
-</div>
-</a>
+diatoms</div></div></a>
 
 
-<div class="containerx">
-<img src="sphereshadow.png"  class="imagex">
- <div class="overlayx">diatoms</div>
-</div>
+<div class="containerx"><img src="sphereshadow.png" class="imagex"><div class="overlayx">diatoms</div></div>
 
 
 <a class="button" href="#popup1">popup link</a>
