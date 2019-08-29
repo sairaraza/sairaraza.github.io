@@ -219,12 +219,12 @@ a:hover small {
   opacity: 1;
 }
 .popup {
-  margin: 20px auto;
+  margin: 0px auto;
   padding: 50px;
-  padding-top: 0px;
+  padding-top: 20px;
   background: #fff;
   border-radius: 0px;
-  width: 60%;
+  width: 65%;
   position: relative;
   transition: all 2s ease-in-out;
 }
@@ -236,10 +236,11 @@ a:hover small {
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: #333;
+  padding: 10px;
+line-height: 0.7em;
 }
 .popup .content {
-  max-height: 300px;
+  max-height: 400px;
   overflow-y: scroll;
 }
 
