@@ -92,7 +92,6 @@ h3, h4, h5, h6 {
   color:blue;
 }
 
-
 .stripe {
     background-image: linear-gradient(240deg, rgba(0,255,255,0.5), rgba(0,255,210,0.5));
     padding: 1.8rem;
@@ -100,23 +99,22 @@ h3, h4, h5, h6 {
     margin-top: 4rem;
 }
 .stripe__content {
-    transform: skew(5deg);
+    transform: skew(-25deg);
 }
 .stripe2 {
-    background-image: linear-gradient(240deg, cyan, violet);
+    background-image: linear-gradient(240deg, rgba(0,255,255,0.3), rgba(255,10,255,0.3));
     padding: 2rem;
-    transform: rotate(-10deg) skew(-5deg);
-    margin-top: 5rem;
+    transform: rotate(-10deg) skew(-9deg);
+    margin-top: 1rem;
 }
 .stripe__content2 {
-    transform: skew(10deg);
+    transform: skew(25deg);
 }
 
 .stripe__content3 {
     margin-top: 4rem;
-    transform: rotate(4deg);
+    transform: rotate(4deg) skew(15deg);
 }
-
 
 a {
   color: blue;
