@@ -105,9 +105,9 @@ a:visited {
 }
 
 a:hover, a:focus {
-
   color: white;
   background-color:blue;
+  background-image: linear-gradient(to right, blue, blue);
   text-decoration: none;
 }
 
