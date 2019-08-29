@@ -6,7 +6,7 @@ layout: default
 
 
 
-<a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" display: inline-block; style="width:200px; height:200px" title="daitoms"><div class="hcenteredtext">words</div></a>
+<a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" display: inline-block style="width:200px; height:200px" title="daitoms"><div class="hcenteredtext">words</div></a>
 
 
 <a href="#popup1"><div class="vcenteredtext"><img src="sphereshadow.png" title="diatoms"><div class="hcenteredtext">
