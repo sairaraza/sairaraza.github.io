@@ -6,6 +6,18 @@ layout: default
 
 ## Html / css
 
+### Font tags in html
+
+      <style>
+      atag {font-size:1.5em;font-family:'Arial';-color:blue;}
+      </style>
+
+      <p><atag>bespoke prestyled  tags</atag></p>
+
+Or
+
+    <p><font face="Arial" color="blue" size="7">font tags</font></p>
+but hearder to specify the size this way
 
 ### Favicons for github
 

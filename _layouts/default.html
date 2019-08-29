@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-Uk" }}">
+
   <head>
+    <!--favicon-->
     <link rel="icon" href="colormap.png" type="image/x-icon">
     <link rel="shortcut icon" type="image/png" href="colormap.png">
  <link rel="shortcut icon" sizes="256x256" href="colormap.png">
@@ -14,41 +16,49 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
 <style>
 h9 {font-size:4em;font-family:'Racing Sans One';-webkit-text-stroke:1px blue;-webkit-text-fill-color:cyan;}
+ml {font-size:1.5em;font-family:'Fanwood Text'; color:blue;}
 </style>
   </head>
+
+
   <body>
     <div class="wrapper">
-
       <header>
-        <h9><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h9>
-<!--{% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}-->
 
+<h9><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h9>
+
+<!-- {% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %} -->
 
 <p>This website is under construction. Please email saira.raza@iaac.net for further information</p>
-<p><h4><a href="https://sairaraza.github.io/research">A selection of research outputs</a></h2></p>
-<p><h4><a href="https://sairaraza.github.io/diatoms">Diatoms</a></h2></p>
-<p><h4><a href="https://sairaraza.github.io/mms">Metamaterials</a></h2></p>
+
+<font face="Fanwood Text" color="blue" size="5"><a href="https://sairaraza.github.io/research">A selection of research outputs</a></font>
+<ml><a href="https://sairaraza.github.io/diatoms">Diatoms</a></ml>
+<ml><a href="https://sairaraza.github.io/mms">Metamaterials</a></ml>
+
+
 <!--
-<p><h4><a href="https://sairaraza.github.io/wash">Water and sanitation</a></h2></p>
-<p><h4><a href="https://sairaraza.github.io/ml">Machine Learning</a></h2></p>
-<p><h4><a href="https://sairaraza.github.io/orgelec">Organic electronics</a></h2></p>
-<p><h4><a href="https://sairaraza.github.io/mfn">Making from noise</a></h2></p>-->
+<p><ml><a href="https://sairaraza.github.io/wash">Water and sanitation</a></ml></p>
+<p><ml><a href="https://sairaraza.github.io/ml">Machine Learning</a></ml></p>
+<p><ml><a href="https://sairaraza.github.io/orgelec">Organic electronics</a></ml></p>
+<p><ml><a href="https://sairaraza.github.io/mfn">Making from noise</a></ml></p>-->
 
       </header>
 
       <section>
       {{ content }}
       </section>
+
       <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
+      
     </div>
 
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
