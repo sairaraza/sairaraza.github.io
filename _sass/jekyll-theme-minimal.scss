@@ -83,7 +83,8 @@ h6{
 writing-mode: lr-tb;
 text-decoration: underline;
   text-decoration-style: wavy;
-  background-image: linear-gradient(to right, #fde7fd, #8affc1);
+
+/*  background-image: linear-gradient(to right, #fde7fd, #8affc1);*/
 
 }
 
@@ -93,8 +94,8 @@ h3, h4, h5, h6 {
 
 a {
   color: blue;
-  background-color:cyan;
   text-decoration: none;
+  background-image: linear-gradient(to right, #fde7fd, #8affc1);
 
 }
 
