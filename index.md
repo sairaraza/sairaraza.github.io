@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<h6>About</h6> 
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+<h6>About</h6>
 
 I am a researcher with a background in engineering and experience working with NGOs and media organisations.
 
