@@ -16,14 +16,14 @@ For our module on material driven design I looked at a type of algae called diat
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
   width="940" height="600" frameborder="0"></iframe>
 
-
   <br>
-    <br>
+  <br>
   <br>
 ### Applications of fossilised and living diatoms
-  <iframe
-    src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
-    width="940" height="600" frameborder="0"></iframe>
+
+<iframe
+src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
+width="940" height="600" frameborder="0"></iframe>
 
 ### Mapping weak signals using scraped keywords from linked websites
 
@@ -136,7 +136,11 @@ Outside of looking at existing research on the use of machine learning in materi
 
 The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
 
-<center>![](assets/washschool.png)</center>
+<center>
+
+![](assets/washschool.png)
+
+</center>
 
 
 
