@@ -4,7 +4,9 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:700,900|Contrail+One|Goblin+One|Racing+Sans+One|Fanwood+Text:400,400i|Space+Mono&display=swap');
 
 body {
-  background: linear-gradient(90deg, cyan 0%, white 25%);
+  /*background: linear-gradient(90deg, cyan 0%, white 25%);*/
+  background-image: linear-gradient(to right, #00ffff, #70feff, #a4fcff, #cdfaff, #edf9ff, #edf9ff, #edf9ff, #edf9ff, #cdfaff, #a4fcff, #70feff, #00ffff);
+
   background-attachment: fixed;
   padding:20px;
   font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
