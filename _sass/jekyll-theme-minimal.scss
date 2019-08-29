@@ -161,14 +161,16 @@ a:hover small {
 /*  text centring over a div*/
 .vcenteredtext {
   position: relative;
-  text-align: center;
+  width: fit-content;
+  display: inline-block;
 }
 
 .hcenteredtext {
   position: absolute;
   text-align: center;
   color: white;
-  font-size: 2rem;
+  font-size: 1.2em;
+    line-height: 1;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -180,7 +182,7 @@ a:hover small {
 .containerx {
   position: relative;
   width: fit-content;
-
+display: inline-block;
 }
 
 .imagex {
