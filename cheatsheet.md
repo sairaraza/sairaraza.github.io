@@ -6,6 +6,91 @@ layout: default
 
 ## Html / css
 
+
+### centred caption on an image
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+
+(centring on the page..)
+.vcenteredtext {
+  position: relative;
+  text-align: center;
+}
+
+.hcenteredtext {
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+</head>
+<body>
+
+<a href="#popup1">
+<div class="vcenteredtext"><img src="http://www.howtorecordpodcasts.com/wp-content/uploads/2012/10/YouTube-Background-Pop-2.jpg" style="width:82px; height:86px" title="My project" alt="Flower"><div class="hcenteredtext">words</div></a>
+
+
+#### image overlay
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {box-sizing: border-box;}
+
+    .container {
+      position: relative;
+      width: auto;
+
+    }
+
+    .image {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 50%;
+      background: rgba(0, 0, 0, 0.5); /* Black see-through */
+      color: #f1f1f1;
+      width: 100%;
+      color: white;
+      font-size: 2em;
+      padding: 20px;
+      text-align: center;
+    }
+
+
+    }
+    </style>
+    </head>
+    <body>
+
+    <h2>Image Overlay Title</h2>
+    <p>Hover over the image to see the effect.</p>
+
+    <div class="container">
+      <img src="img_avatar.png" alt="Avatar" class="image">
+      <div class="overlay">making from noise</div>
+    </div>
+    <div class="container">
+      <img src="img_avatar.png" alt="Avatar" class="image">
+      <div class="overlay">metamaterials</div>
+    </div>
+    </body>
+    </html>
+
+
 ### Font tags in html
 
       <style>

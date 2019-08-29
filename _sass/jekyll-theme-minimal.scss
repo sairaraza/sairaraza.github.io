@@ -158,6 +158,22 @@ a:hover small {
   margin:0 auto;
 }
 
+/*  text centring over a div*/
+.vcenteredtext {
+  position: relative;
+  text-align: center;
+}
+
+.hcenteredtext {
+  position: absolute;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 
 /*popup */
 .overlay {
@@ -176,27 +192,28 @@ a:hover small {
   opacity: 1;
 }
 .popup {
-  margin: 70px auto;
-  padding: 20px;
+  margin: 20px auto;
+  padding: 50px;
+  padding-top: 0px;
   background: #fff;
   border-radius: 0px;
-  width: 80%;
+  width: 60%;
   position: relative;
   transition: all 2s ease-in-out;
 }
 .popup .close {
   position: absolute;
   top: 20px;
-  right: 20px;
+  right: 30px;
   transition: all 200ms;
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: black;
+  color: #333;
 }
 .popup .content {
-  max-height: 500px;
-  overflow-y:scroll;
+  max-height: 300px;
+  overflow-y: scroll;
 }
 
 /*end of popup*/

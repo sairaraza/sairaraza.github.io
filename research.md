@@ -5,8 +5,11 @@ layout: default
 # <center>Examples of research outputs</center>
 
 
+<a href="#popup1">
+<div class="vcenteredtext"><img src="sphereshadow.png" title="My project"><div class="hcenteredtext"></div></a>
 
-<a class="button" href="#popup1">The Lifecycle and applications of diatoms</a>
+
+<a class="button" href="#popup1">popup link</a>
 
 <div id="popup1" class="overlay">
 <div class="popup">
