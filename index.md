@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="transball.png">
+<link rel="shortcut icon" type="image/x-icon" href="sphereshadow.png">
 
 
 
