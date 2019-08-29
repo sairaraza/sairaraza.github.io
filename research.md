@@ -136,11 +136,11 @@ Outside of looking at existing research on the use of machine learning in materi
 
 The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
 
-<center>
+
 
 ![](assets/washschool.png)
 
-</center>
+
 
 
 
