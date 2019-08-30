@@ -23,7 +23,7 @@ layout: default
 </div>
 </div>
 </div>
-</div>
+
 
 
 
@@ -39,11 +39,10 @@ layout: default
 I am in the process of completing data from research papers on experiments that test metamaterial designs to enable to show the metadevices that can be made and the tools to test them.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr8y8TN7JjYMJomL?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
-</div>
 
 
 <div class="containerx"><a href="#mms3"><img src="sphereshadow.png" class="imagex"><div class="overlayx">Metamaterial Zoo</div></a></div>
@@ -53,8 +52,6 @@ I am in the process of completing data from research papers on experiments that 
 <h2>A Taxonomy of Metamaterials</h2>
 <a class="close" href="#">&times;</a>
 <div class="content">
-
-</div>
 </div>
 </div>
 </div>
