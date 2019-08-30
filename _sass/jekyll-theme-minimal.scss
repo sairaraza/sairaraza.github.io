@@ -185,13 +185,6 @@ a:hover small {
 display: inline-block;
 }
 
-.containerx:hover .imagex{
-opacity:0.5
-}
-
-.containerx:hover .overlayx{
-opacity:1;
-}
 
 
 
@@ -200,6 +193,11 @@ opacity:1;
   width: max-content;
   height: auto;
 }
+
+.containerx:hover .imagex{
+opacity:0.5
+}
+
 
 .overlayx {
   position: absolute;
@@ -214,6 +212,11 @@ opacity:1;
   margin: 5px;
   line-height: 1;
   width: inherit;
+}
+
+
+.containerx:hover .overlayx{
+background-color: blue;
 }
 
 
