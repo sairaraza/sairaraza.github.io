@@ -6,11 +6,11 @@ layout: default
 
 
 
-<div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px" title="first block"><div class="hcenteredtext">first block with just hover label</div></a></div>
+<div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px"><div class="hcenteredtext">first block with no hover</div></a></div>
 
 
 <div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block"><div class="hcenteredtext">
-second codeblock with text</div></a></div>
+second codeblock with no set dimensions</div></a></div>
 
 
 <div class="containerx"><a href="#popup1"><img src="sphereshadow.png" class="imagex"><div class="overlayx">third block with overlay</div></a></div>
