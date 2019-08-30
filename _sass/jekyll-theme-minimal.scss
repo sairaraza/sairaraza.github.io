@@ -6,9 +6,9 @@
 body {
   /*background: linear-gradient(90deg, cyan 0%, white 25%);*/
   background-image: linear-gradient(to right, #00ffff, #70feff, #a4fcff, #cdfaff, #edf9ff, #edf9ff, #edf9ff, #edf9ff, #cdfaff, #a4fcff, #70feff, #00ffff);
-
   background-attachment: fixed;
   padding:20px;
+
   font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
   font-size: 0.9em;
   font-weight: 400;
@@ -17,18 +17,13 @@ body {
 
 }
 
-h3, h4, h5{
-  color:blue;
-  margin:1.6em 0 1.1em;
-}
+
 
 p, ul, ol, table, pre, dl {
   margin:0 20px 20px;
 }
 
-h2, h3 {
-  line-height:1.2;
-}
+
 
 h1 {
 
@@ -42,6 +37,10 @@ margin:1.1em 0 1.1em;
   line-height:1.1;
 }
 
+h2, h3 {
+  line-height:1.2;
+}
+
 h2 {
   color:blue;
   text-transform: uppercase;
@@ -52,6 +51,11 @@ h2 {
 
 }
 
+
+h3, h4, h5{
+  color:blue;
+  margin:1.6em 0 1.1em;
+}
 h3 {
   color:blue;
       font-size:1.9em;
@@ -87,35 +91,6 @@ text-decoration: underline;
 /*  background-image: linear-gradient(to right, #fde7fd, #8affc1);*/
 
 }
-
-h3, h4, h5, h6 {
-  color:blue;
-}
-
-.stripe {
-    background-image: linear-gradient(240deg, rgba(0,255,255,0.5), rgba(0,255,210,0.5));
-    padding: 1.8rem;
-    transform: rotate(-5deg) skew(-5deg);
-    margin-top: 4rem;
-}
-.stripe__content {
-    transform: skew(-25deg);
-}
-.stripe2 {
-    background-image: linear-gradient(240deg, rgba(0,255,255,0.3), rgba(255,10,255,0.3));
-    padding: 2rem;
-    transform: rotate(-10deg) skew(-9deg);
-    margin-top: 1rem;
-}
-.stripe__content2 {
-    transform: skew(25deg);
-}
-
-.stripe__content3 {
-    margin-top: 4rem;
-    transform: rotate(4deg) skew(15deg);
-}
-
 
 
 
@@ -157,6 +132,36 @@ a:hover small {
   width:1200px;
   margin:0 auto;
 }
+
+
+/* index shapes */
+
+.stripe {
+    background-image: linear-gradient(240deg, rgba(0,255,255,0.5), rgba(0,255,210,0.5));
+    padding: 1.8rem;
+    transform: rotate(-5deg) skew(-5deg);
+    margin-top: 4rem;
+}
+.stripe__content {
+    transform: skew(-25deg);
+}
+.stripe2 {
+    background-image: linear-gradient(240deg, rgba(0,255,255,0.3), rgba(255,10,255,0.3));
+    padding: 2rem;
+    transform: rotate(-10deg) skew(-9deg);
+    margin-top: 1rem;
+}
+.stripe__content2 {
+    transform: skew(25deg);
+}
+
+.stripe__content3 {
+    margin-top: 4rem;
+    transform: rotate(4deg) skew(15deg);
+}
+
+
+
 
 /*  text centring over a div*/
 .vcenteredtext {
@@ -222,6 +227,8 @@ background-color: blue;
 
 
 /*popup */
+
+/*the dark overlay is not visible most of the time */
 .overlay {
   position: fixed;
   top: 0;
@@ -233,6 +240,8 @@ background-color: blue;
   visibility: hidden;
   opacity: 0;
 }
+
+/*overlay is visible when a target comes up in  the URL*/
 .overlay:target {
   visibility: visible;
   opacity: 1;
@@ -259,7 +268,7 @@ background-color: blue;
 line-height: 0.7em;
 }
 .popup .content {
-  max-height: 400px;
+  max-height: 500px;
   overflow-y: scroll;
 }
 
