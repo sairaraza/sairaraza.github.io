@@ -185,6 +185,16 @@ a:hover small {
 display: inline-block;
 }
 
+.containerx:hover .imagex{
+opacity:0.5
+}
+
+.containerx:hover .overlayx{
+opacity:1;
+}
+
+
+
 .imagex {
   display: block;
   width: max-content;
