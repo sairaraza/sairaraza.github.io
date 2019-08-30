@@ -12,7 +12,7 @@ layout: default
 <div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block"><div class="hcenteredtext">
 second codeblock with no set dimensions</div></a></div>
 
--->
+
 
 
 <div class="containerx"><a href="#popup1"><img src="sphereshadow.png" class="imagex"><div class="overlayx">third block with overlay</div></a></div>
@@ -20,21 +20,7 @@ second codeblock with no set dimensions</div></a></div>
 
 <a href="#popup1">fourth text link</a>
 
-
-<div id="popup1" class="overlay">
-<div class="popup">
-  <h2>The Lifecycle and applications of diatoms</h2>
-  <a class="close" href="#">&times;</a>
-  <div class="content">
-    For our module on material driven design I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration..
-
-  <iframe
-    src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
-    width="940" height="600" frameborder="0"></iframe>
-</div>
-  </div>
-</div>
-</div>
+-->
 
 
 <section class="stripe">
