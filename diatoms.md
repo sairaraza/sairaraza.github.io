@@ -27,7 +27,7 @@ layout: default
     src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
     width="940" height="600" frameborder="0"></iframe>
 </div>
-  </div>
+</div>
 </div>
 </div>
 
