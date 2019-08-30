@@ -26,7 +26,7 @@ layout: default
 
 <div id="popup2" class="overlay">
 <div class="popup">
-  <h2>Making materials from fossilised and living diatoms</h2>
+  <hpopup>Making materials from fossilised and living diatoms</hpopup>
   <a class="close" href="#">&times;</a>
   <div class="content">
 
