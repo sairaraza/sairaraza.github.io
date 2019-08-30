@@ -32,7 +32,7 @@ layout: default
 
 <iframe
   src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
-  width="800" height="500" frameborder="0"></iframe>
+  width="940" height="600" frameborder="0"></iframe>
 
 </div>
 </div>
@@ -42,3 +42,14 @@ layout: default
 
 
 <div class="containerx"><a href="#popup3"><img src="sphereshadow.png" class="imagex"><div class="overlayx">another block </div></a></div>
+
+
+<div id="popup3" class="overlay">
+<div class="popup">
+  <hpopup>Title</hpopup>
+  <a class="close" href="#">&times;</a>
+  <div class="content">
+  
+</div>
+</div>
+</div>
