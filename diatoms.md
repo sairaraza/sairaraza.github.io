@@ -20,7 +20,7 @@ layout: default
 </div>
 </div>
 </div>
-</div>
+
 
 <div class="containerx"><a href="#popup2"><img src="sphereshadow.png" class="imagex"><div class="overlayx">Making materials from fossilised and living diatoms</div></a></div>
 
@@ -37,7 +37,7 @@ layout: default
 </div>
 </div>
 </div>
-</div>
+
 
 
 
