@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:700,900|Contrail+One|Goblin+One|Racing+Sans+One|Fanwood+Text:400,400i|Space+Mono&display=swap');
 
 body {
-  /*background: linear-gradient(90deg, cyan 0%, white 25%);*/
+
   background-image: linear-gradient(to right, #00ffff, #70feff, #a4fcff, #cdfaff, #edf9ff, #edf9ff, #edf9ff, #edf9ff, #cdfaff, #a4fcff, #70feff, #00ffff);
   background-attachment: fixed;
   padding:20px;
@@ -47,10 +47,7 @@ h2 {
   font-size: 2.6em;
   text-align:center;
   font-family: 'Space Mono', monospace;
-
-
 }
-
 
 h3, h4, h5{
   color:blue;
@@ -168,6 +165,7 @@ a:hover small {
   position: relative;
   width: fit-content;
   display: inline-block;
+
 }
 
 .hcenteredtext {
@@ -188,15 +186,15 @@ a:hover small {
   position: relative;
   width: fit-content;
 display: inline-block;
+  z-index:10;
 }
-
-
 
 
 .imagex {
   display: block;
   width: max-content;
   height: auto;
+    z-index:20;
 
 }
 
@@ -218,6 +216,7 @@ opacity:0.5
   margin: 5px;
   line-height: 1;
   width: inherit;
+    z-index:30;
 }
 
 
@@ -239,6 +238,7 @@ background-color: blue;
   transition: opacity 500ms;
   visibility: hidden;
   opacity: 0;
+  z-index: 80;
 }
 
 /*overlay is visible when a target comes up in  the URL*/
@@ -255,6 +255,7 @@ background-color: blue;
   width: 65%;
   position: relative;
   transition: all 2s ease-in-out;
+  z-index: 100;
 }
 .popup .close {
   position: absolute;
@@ -389,6 +390,7 @@ section {
   width:900px;
   float:right;
   padding-bottom:50px;
+    z-index:-10;
 }
 
 small {
