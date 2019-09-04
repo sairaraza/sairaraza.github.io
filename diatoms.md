@@ -41,7 +41,7 @@ layout: default
 
 
 
-<div class="containerx"><a href="#popup3"><img src="sphereshadow.png" class="imagex"><div class="overlayx">another block </div></a></div>
+<div class="containerx"><a href="#popup3"><img src="sphereshadow.png" class="imagex"><div class="overlayx">Exeriments with diatomaceous earth</div></a></div>
 
 
 <div id="popup3" class="overlay">
@@ -49,7 +49,7 @@ layout: default
   <hpopup>Title</hpopup>
   <a class="close" href="#">&times;</a>
   <div class="content">
-  
+
 </div>
 </div>
 </div>
