@@ -4,23 +4,16 @@ layout: default
 
 # <center>Experiments with diatomaceous earth</center>
 
-
-
-<h1>Responsive Masonry Grid</h1>
-<p>A pure CSS-only responsive masonry.</p>
+<p>some experiments</p>
 <div class="masonry">
   <div class="item">
-    1
-    <img src="http://www.pixeden.com/media/k2/galleries/468/001-business-card-clip-brand-mock-up-vol-20-psd.jpg">
+    1 Waterglass glaze made with diatomaceous earth, caustic soda and water. Fired in a kiln for 4 hours at 800 c
+    <img src="assets/glaze.jpg">
   </div>
   <div class="item">
     2
-    <img src="http://www.graphicsfuel.com/wp-content/uploads/2015/11/branding-mockup-psd.jpg">
-    dsahgbakjddsnalnsdan;
-    dsabdksbahl
-    dsbajldbsla
-
-    hdakj
+    <img src="assets/sodaglass.jpg">
+  Sodaglass waterglass + DE + Calcium Carbonate
 
 
   </div>
