@@ -7,12 +7,12 @@ layout: default
 <p>some experiments</p>
 <div class="masonry">
   <div class="item">
-  ### 1 Waterglass glaze
+<h3> 1 Waterglass glaze</h3>
     <img src="assets/glaze.jpg">
     Waterglass glaze made with diatomaceous earth, caustic soda and water. Fired in a kiln for 4 hours at 800 c
   </div>
   <div class="item">
-  ###  2 Sodaglass
+<h3>  2 Sodaglass</h3>
     <img src="assets/sodaglass.jpg">
   Sodaglass waterglass + DE + Calcium Carbonate
 
