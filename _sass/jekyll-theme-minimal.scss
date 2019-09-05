@@ -106,10 +106,10 @@ a:visited {
 }
 
 a:hover, a:focus {
-  color: white;
-  background-color:blue;
+  color: transparent;
   background-image: linear-gradient(to right, chartreuse, blue);
   text-decoration: none;
+  -webkit-background-clip: text;
 }
 
 
@@ -496,7 +496,7 @@ section {
   float:right;
   padding-bottom:50px;
     z-index:-10;
-    color: transparent;
+    background-color: transparent;
 }
 
 small {
