@@ -281,8 +281,8 @@ line-height: 0.7em;
 
 
 /*masonry*/
-
-.masonry { /* Masonry container */
+/* Masonry container */
+.masonry {
     -webkit-column-count: 2;
   -moz-column-count:2;
   column-count: 2;
@@ -296,16 +296,18 @@ line-height: 0.7em;
     column-gap: 1.5em;
     font-size: .85em;
 }
+
+
 .item {
     display: inline-block;
     background: #fff;
     padding: 1em;
     margin: 0 0 1.5em;
     width: 100%;
-	-webkit-transition:1s ease all;body
+	-webkit-transition:1s ease all;body;
     box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
     box-shadow: 0px 0px 0px 0 #ccc;
 }
 .item img{max-width:100%;}

@@ -4,6 +4,7 @@ layout: default
 
 # <center>Experiments with diatomaceous earth</center>
 
+test text
 
 <div class="masonry">
 
