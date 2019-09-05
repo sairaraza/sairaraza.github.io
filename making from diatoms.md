@@ -9,10 +9,13 @@ layout: default
 
   <div class="item">
 <h3> 1 Waterglass glaze</h3>
-<a rel="grow" class="button grow">
-    <img src="assets/glaze.jpg"></a>
+<div class="grow">
+    <img src="assets/glaze.jpg">
+</div>
     Waterglass glaze made with diatomaceous earth, caustic soda and water. Fired in a kiln for 4 hours at 800 c
   </div>
+
+
   <div class="item">
 <h3>  2 Sodaglass</h3>
     <img src="assets/sodaglass.jpg">
