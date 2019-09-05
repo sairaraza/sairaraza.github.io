@@ -4,11 +4,13 @@ layout: default
 
 # <center>Experiments with diatomaceous earth</center>
 
-<p>some experiments</p>
+
 <div class="masonry">
+
   <div class="item">
 <h3> 1 Waterglass glaze</h3>
-    <img src="assets/glaze.jpg">
+<a rel="grow" class="button grow">
+    <img src="assets/glaze.jpg"></a>
     Waterglass glaze made with diatomaceous earth, caustic soda and water. Fired in a kiln for 4 hours at 800 c
   </div>
   <div class="item">
