@@ -14,7 +14,7 @@ test text
   <div class="item">
 <h3> 1 Waterglass glaze</h3>
 <div id="thumbwrap">
-		<a class="thumb" href="#"><img src="assets/glaze.jpg" alt" alt=""><span><img src="assets/glaze.jpg" alt=""></span></a>
+		<a class="thumb" href="#"><img src="assets/glaze.jpg" alt=""><span><img src="assets/glaze.jpg" alt=""></span></a>
 </div>
     Waterglass glaze made with diatomaceous earth, caustic soda and water. Fired in a kiln for 4 hours at 800 c
   </div>
