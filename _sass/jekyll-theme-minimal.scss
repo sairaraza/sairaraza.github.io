@@ -377,6 +377,335 @@ box-shadow: 0px 0px 0px 0 #ccc;
   background-image: transparent;
 }
 /*end of imagepopup*/
+/* end of portfolio*/
+//colors
+$darkmint: #003F36;
+$mint: #0B544A;
+
+.topSection {
+  position: absolute;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  left: 0;
+  top:0;
+  a {
+    color: white;
+    text-align: center;
+    line-height: 100vh;
+    font-size: 2.7rem;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    display: block;
+  }
+
+}
+
+
+.half-screen {
+  height: 100vh;
+  width: 50vw;
+  //display: block;
+
+  position: absolute;
+  z-index: 10;
+  a:hover, a:focus {
+    text-decoration: none;
+  }
+  &.left-screen {
+    top: 0;
+    left: 0;
+    a {
+      color: black;
+    }
+
+  }
+  &.right-screen {
+    right: 0;
+    top: 0;
+    background-color: black;
+  }
+}
+
+.main {
+  position: relative;
+  top: 105vh;
+  display: block;
+  margin: auto;
+}
+
+//fixed bottom navigation
+.nav {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  .bottomNav {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    display: none;
+    width: 0;
+	  height: 0;
+	  border-bottom: 80px solid black;
+	  border-left: 300px solid transparent;
+    opacity: .8;
+    }
+    #navText {
+      position: absolute;
+      color: white;
+      bottom: 0;
+      right: 10px;
+      z-index: 100;
+      font-size: 2.5rem;
+      coursor: pointer;
+      &:hover,
+      &:focus {
+        text-decoration: none;
+        outline: none;
+      }
+    }
+}
+
+//fixed envelope icon
+.envelopeIcon {
+  position: fixed;
+  right: 10px;
+  top: 5px;
+  color: lighten(#000, 20%);
+  font-size: 2.8rem;
+  z-index: 200;
+  a {
+    color: lighten(#000, 20%);
+  }
+}
+
+h1.name, h2 {
+  text-align: center;
+}
+
+h1.name, #navText {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+
+.skills {
+  margin: 7rem 0 10rem 0;
+  position: relative;
+  img {
+    max-height: 6rem;
+    max-width: 6rem;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    &.wideLogo {
+      max-width: 9rem;
+    }
+  }
+  &.skillsSecondRow {
+    margin-top: 0;
+  }
+}
+
+.portfolioLinks {
+  @extend .skills;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  img {
+    max-height: 9rem;
+    max-width: 9rem;
+    &.codepenLogo {
+      max-width: 14rem;
+    }
+  }
+}
+
+h2.panel-title {
+  font-size: 2rem;
+}
+
+.project {
+  margin-bottom: 7rem;
+}
+
+h2, h1.projectTitle, .btn, h2.panel-title {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h1.projectTitle {
+  margin-top: 0;
+}
+
+.projectImage {
+  height: 300px;
+  margin-bottom: 2rem;
+}
+
+.portfolioLinksPanel {
+  margin-bottom: 7rem;
+}
+
+.btn {
+  font-size: 1.7rem;
+}
+
+p, h4.modal-title {
+  font-family: "Open Sans", sans-serif;
+}
+
+span.title {
+  font-weight: bold;
+}
+
+.filter-button-group {
+  padding: 15px;
+}
+
+.gallery {
+  padding-right: 0;
+  margin-right: -15px;
+}
+
+.thumbnail2 {
+  padding: 0px;
+  border-radius: 0px;
+  border: 0px;
+  //padding: 0px;
+}
+
+//DARK MODAL
+// https://ashleydw.github.io/lightbox/dark.html
+
+.modal-backdrop.in {
+    -webkit-opacity: 0.95;
+    -moz-opacity: 0.95;
+    opacity: 0.95;
+    background-color: #333333;
+}
+.ekko-lightbox .modal-content {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    border: none;
+    background-color: transparent;
+}
+.ekko-lightbox .modal-header {
+    border: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+.ekko-lightbox .modal-header .close {
+    -webkit-opacity: 0.5;
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+    color: #fff;
+    text-shadow: 0;
+    font-weight: 100;
+    margin-top: 5px;
+}
+.ekko-lightbox .modal-header .close:hover {
+    -webkit-opacity: 1;
+    -moz-opacity: 1;
+    opacity: 1;
+}
+.ekko-lightbox .modal-header h4.modal-title {
+    font-weight: 100;
+    color: #fff;
+    padding: 0;
+}
+.ekko-lightbox .modal-body {
+    padding: 0;
+}
+.ekko-lightbox .modal-footer {
+    -webkit-opacity: 0.9;
+    -moz-opacity: 0.9;
+    opacity: 0.9;
+    border: 0;
+    color: #fff;
+    font-weight: 100;
+    padding: 0;
+}
+.ekko-lightbox-nav-overlay a {
+    -webkit-opacity: 0.9;
+    -moz-opacity: 0.9;
+    opacity: 0.9;
+    text-shadow: none;
+    &:focus {
+      outline: none;
+    }
+}
+
+//styling contact section
+.gallery {
+  margin-bottom: 5rem;
+}
+
+.centered {
+  text-align: center;
+}
+
+#emailError {
+  color: red;
+}
+
+input.btn-primary {
+  margin-left: -12px;
+  background-color: #000;
+  border: none;
+  &:hover,
+  &:active {
+    background-color: lighten(#000, 15%);
+    border: none;
+  }
+  &:focus,
+  &:active:hover,
+  &:active:focus {
+    background-color: lighten(#000, 25%);
+    border: none;
+  }
+
+}
+
+.contactSocial {
+  z-index: 200;
+  text-align: center;
+  font-size: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+  .fa {
+    margin-right: 2rem;
+    color: black;
+    text-decoration: none;
+  }
+  a {
+    text-decoration: none;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+//MEDIA QUERIES
+
+//hide skillsSecondRow on small ascreens and bigger
+
+@media only screen and (min-width : 768px) {
+  .skillsSecondRow {
+    display: none;
+  }
+}
+/* end of portfolio*/
+
+
+
+
 
 
 
