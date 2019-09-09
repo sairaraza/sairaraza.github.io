@@ -1,7 +1,15 @@
 ---
 layout: default
 ---
-
+<head>
+<style>
+img {
+  float: left;
+  margin:15px;"
+}
+</style>
+</head>
+<body>
 
 # <center>Materials</center>
 
@@ -74,7 +82,7 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 
 
 
-<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</div></a></div>
+<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" width="250"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</div></a></div>
 
 <div id="popup4" class="overlay">
 <div class="popup">
@@ -86,3 +94,7 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 </div>
 </div>
 </div>
+
+
+</body>
+</html>
