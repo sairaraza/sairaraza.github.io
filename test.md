@@ -109,23 +109,26 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 
 
 
-
-
-
 <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx"></div></a></div>
 
 <div id="popup6" class="overlay">
 <div class="popup">
-<h3>Transformable metamaterial using vinyl cut</h3>
-<a class="close" href="#">&times;</a>
-<div class="content">
-<img src="assets/vinyl.jpg" width="450" >
-<p><p>4 units of a vinyl cut transformable metamaterial designed by <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides">Babaee, Overvelde, Chen, Tournat & Bertol (2016)</a></p>
+<h3>Transformable metamaterial using vinyl cut</h3><a class="close" href="#">&times;</a>
+<div class="content"><img src="assets/vinyl.jpg" width="450" ><p><p>4 units of a vinyl cut transformable metamaterial designed by <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides">Babaee, Overvelde, Chen, Tournat & Bertol (2016)</a></p>
 </div>
 </div>
 </div>
 
 
 
+<div class="containerx"><a href="#popup7"><img src="assets/fractalantenna.jpg" width="250"><div class="overlayx"></div></a></div>
+
+<div id="popup7" class="overlay">
+<div class="popup">
+<h3>Fractal Antenna meta atom using vinyl cut copper tape</h3><a class="close" href="#">&times;</a><div class="content"><img src="assets/fractalantenna.jpg" width="250" ><p><p>A Sierpinski fractal antenna design designed by <a href="https://www.researchgate.net/publication/270625606_A_New_Fractal-Based_Miniaturized_Dual_Band_Patch_Antenna_for_RF_Energy_Harvesting">Shrestha, Lee, & Choi (2014)</a>. Vinyl cut copper tape mounted on PVC
+</p>
+</div>
+</div>
+</div>
 
 </body>
