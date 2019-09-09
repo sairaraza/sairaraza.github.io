@@ -2,6 +2,11 @@
 layout: default
 ---
 
+image link
+
+<div class="containerx"><a href="makingmetamaterials"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Making metamaterials</div></a></div>
+
+
 # <center>Cheat sheet for coding</center>
 
 ## Html / css
