@@ -60,7 +60,7 @@ I am in the process of completing data from research papers on experiments that 
 
 
 
-<div class="containerx"><a href="makingmetamaterials.md"><img src="assets/labyr.jpg" class="imagex"><div class="overlayx">Making metamaterials</div></a></div>
+<div class="containerx"><a href="makingmetamaterials"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Making metamaterials</div></a></div>
 
 
 
