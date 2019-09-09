@@ -50,8 +50,8 @@ layout: default
   This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
 
   <iframe
-    src="https://embed.kumu.io/714c3ea8325f9f79049f05f1daddf434"
-    width="940" height="600" frameborder="0"></iframe>
+  src="https://embed.kumu.io/941643c6f84d7e3f388272ddf1b05338"
+  width="940" height="600" frameborder="0"></iframe>
 
 </div>
 </div>
