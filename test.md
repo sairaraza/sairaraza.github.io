@@ -86,7 +86,7 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 
 <div id="popup4" class="overlay">
 <div class="popup">
-<h2>Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</h2>
+<h3>Acoustic labyrinthine space-coiling metamaterial</h3>
 <a class="close" href="#">&times;</a>
 <div class="content">
 <center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
