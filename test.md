@@ -107,13 +107,12 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 </div>
 </div>
 
-
-
 <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx"></div></a></div>
 
 <div id="popup6" class="overlay">
 <div class="popup">
 <h3>Transformable metamaterial using vinyl cut</h3><a class="close" href="#">&times;</a>
+
 <div class="content"><img src="assets/vinyl.jpg" width="450" ><p><p>4 units of a vinyl cut transformable metamaterial designed by <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides">Babaee, Overvelde, Chen, Tournat & Bertol (2016)</a></p>
 </div>
 </div>
