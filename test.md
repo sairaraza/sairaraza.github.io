@@ -5,7 +5,7 @@ layout: default
 
 # <center>Materials</center>
 
-<div class="containerx"><a href="#mms1"><img src="assets/taxonomy.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
+<div class="containerx"><a href="#mms1"><img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
 <div id="mms1" class="overlay">
 <div class="popup">
@@ -13,10 +13,10 @@ layout: default
   <a class="close" href="#">&times;</a>
   <div class="content">
 
-  This is also a work in progress looking to bring together taxonomies of metamaterials based on physical effects and geometries.
+  This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
 
   <iframe
-    src="https://embed.kumu.io/6825075ec137d3c33b229bcb12321379"
+    src="https://embed.kumu.io/714c3ea8325f9f79049f05f1daddf434"
     width="940" height="600" frameborder="0"></iframe>
 
 </div>
