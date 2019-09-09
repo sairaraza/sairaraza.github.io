@@ -82,7 +82,7 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 <a class="close" href="#">&times;</a>
 <div class="content">
 <center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
-<p>3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447">Dong et al (2018)</div></a> 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.</p>
+<p>3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447">Dong et al (2018)</a> 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.</p>
 </div>
 </div>
 </div>
