@@ -103,29 +103,32 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 <h3>A laser cut 2D acoustic tunnel</h3>
 <a class="close" href="#">&times;</a>
 <div class="content"><center><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg"  width="210"></center><p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p><img src="assets/tunnelinside.jpg" width="450">
+
 </div>
 </div>
 </div>
 
-<div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx"></div></a></div>
+<div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cut</div></a></div>
 
 <div id="popup6" class="overlay">
 <div class="popup">
 <h3>Transformable metamaterial using vinyl cut</h3><a class="close" href="#">&times;</a>
 
-<div class="content"><img src="assets/vinyl.jpg" width="450" ><p><p>4 units of a vinyl cut transformable metamaterial designed by <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides">Babaee, Overvelde, Chen, Tournat & Bertol (2016)</a></p>
+<div class="content"><img src="assets/vinyl.jpg" width="400" ><p><p>4 units of a vinyl cut transformable metamaterial designed by <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides">Babaee, Overvelde, Chen, Tournat & Bertol (2016)</a></p>
+
 </div>
 </div>
 </div>
 
 
 
-<div class="containerx"><a href="#popup7"><img src="assets/fractalantenna.jpg" width="250"><div class="overlayx"></div></a></div>
+<div class="containerx"><a href="#popup7"><img src="assets/fractalantenna.jpg" width="250"><div class="overlayx">Fractal Antenna meta atom using vinyl cut copper tape</div></a></div>
 
 <div id="popup7" class="overlay">
 <div class="popup">
 <h3>Fractal Antenna meta atom using vinyl cut copper tape</h3><a class="close" href="#">&times;</a><div class="content"><img src="assets/fractalantenna.jpg" width="250" ><p><p>A Sierpinski fractal antenna design designed by <a href="https://www.researchgate.net/publication/270625606_A_New_Fractal-Based_Miniaturized_Dual_Band_Patch_Antenna_for_RF_Energy_Harvesting">Shrestha, Lee, & Choi (2014)</a>. Vinyl cut copper tape mounted on PVC
-</p>
+</p></p>
+
 </div>
 </div>
 </div>
