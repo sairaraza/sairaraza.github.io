@@ -63,15 +63,16 @@ I am in the process of completing data from research papers on experiments that 
 <div class="containerx"><a href="makingmetamaterials"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Making metamaterials</div></a></div>
 
 
-<div class="containerx"><a href="#popup4"><img src="labyrthumb.jpg" class="imagex"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</div></a></div>
+<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</div></a></div>
 
 <div id="popup4" class="overlay">
 <div class="popup">
   <h2>Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</h2>
   <a class="close" href="#">&times;</a>
   <div class="content">
+  <center>![](assets/labyr.jpg) ![](assets/acoustic.jpg)<center>
+  <p>
   3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed [Dong et al (2018)](https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447) 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.
-![](assets/labyr.jpg) ![](assets/acoustic.jpg)
 
 </div>
 </div>
