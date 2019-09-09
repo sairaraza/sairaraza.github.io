@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# <center>Metamaterials</center>
+# <center>Materials</center>
 
-<div class="containerx"><a href="#mms1"><img src="taxonomy.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
+<div class="containerx"><a href="#mms1"><img src="assets/taxonomy.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
 <div id="mms1" class="overlay">
 <div class="popup">
@@ -23,7 +23,7 @@ layout: default
 </div>
 
 
-<div class="containerx"><a href="#mms1"><img src="taxonomy.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
+<div class="containerx"><a href="#mms1"><img src="assets/taxonomy.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
 
 <div id="mms1" class="overlay">
 <div class="popup">
