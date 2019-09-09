@@ -39,9 +39,9 @@ layout: default
 
 
 
-<div class="containerx"><a href="#mms1"><img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
+<div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
-<div id="mms1" class="overlay">
+<div id="popup3" class="overlay">
 <div class="popup">
   <h2>A Taxonomy of Metamaterials</h2>
   <a class="close" href="#">&times;</a>
