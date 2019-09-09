@@ -69,14 +69,14 @@ I am in the process of completing data from research papers on experiments that 
 <div class="popup">
   <h2>Acoustic labyrinthine space-coiling metamaterial by Dong et al (2018)</h2><a class="close" href="#">&times;</a>
   <div class="content">
-  <center>![](../assets/labyr.jpg) ![](../assets/acoustic.jpg)</center><p>
+  <center>![](assets/labyr.jpg) ![](assets/acoustic.jpg)</center><p>
   3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed [Dong et al (2018)](https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447) 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.
 </div>
 </div>
 </div>
 
-<div id="cp_widget_ce69dd7f-bafd-45ed-b427-b873f315d076">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_ce69dd7f-bafd-45ed-b427-b873f315d076"; cpo["_fid"] = "AsIAfnO2WkaU";
+<div id="cp_widget_e43bbe71-8a18-492d-b9b1-d175dd394622">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_e43bbe71-8a18-492d-b9b1-d175dd394622"; cpo["_fid"] = "AsIAfnO2WkaU";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
 cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
