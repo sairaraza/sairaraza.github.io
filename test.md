@@ -103,12 +103,37 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 <h3>A laser cut 2D acoustic tunnel</h3>
 <a class="close" href="#">&times;</a>
 <div class="content">
+
+<center><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg"  width="210"></center>
+<p>
+<p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p>
+
+<img src="assets/tunnelinside.jpg" width="450">
+
+</div>
+</div>
+</div>
+
+
+
+
+
+
+<div class="containerx"><a href="#popup6"><img src="assets/tunnelinside.jpg" width="250"><div class="overlayx">    </div></a></div>
+
+<div id="popup6" class="overlay">
+<div class="popup">
+<h3>    </h3>
+<a class="close" href="#">&times;</a>
+<div class="content">
 <center><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg"  width="210" float="top-right";></center>
 <p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p>
 <img src="assets/tunnelinside.jpg" width="450">
 </div>
 </div>
 </div>
+
+
 
 
 </body>
