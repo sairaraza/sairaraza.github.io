@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="shortcut icon" type="image/x-icon" href="sphereshadow.png">
+<link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">
 
 
 <!--
