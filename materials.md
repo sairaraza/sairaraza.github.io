@@ -9,7 +9,7 @@ layout: default
 
 body {
   background-color: #ffffff;
-  color: #ffffff;
+  color: black;
 }
 
 img {
@@ -67,7 +67,6 @@ img {
   <div class="masonry-item"><div class="containerx"><a href="#popup1">
     <img src="assets/lifecyclethumb.png" class="imagex"><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
   </div>
-
 
   <div id="popup1" class="overlay">
   <div class="popup">
