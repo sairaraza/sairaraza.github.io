@@ -23,7 +23,7 @@ img {
 </div>
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="height: 80%"> 
 
  <img src="https://docs.google.com/drawings/d/e/2PACX-1vTYZrK-CzSWgTukCd2gybMlu1I0ed_Q5f-x8tuYeB_oSGWva5X9LR-i10PYyxUSaOFAb-YiO562Rlrb/pub?w=960&amp;h=720">
 
@@ -45,13 +45,11 @@ img {
 </div>
 
 
-<div class="canva-embed" data-design-id="DADlDI-Qvwk" height="300px" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
-
 <div class="canva-embed" data-design-id="DADlDI-Qvwk" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
 <div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
-<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.27"
+<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.3"
  style="padding:0px 5px 5px 5px; background:rgba(0,0,0,0.03);border-radius:0px;"></div>
 
 <script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
