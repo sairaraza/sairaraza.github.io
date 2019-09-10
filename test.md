@@ -14,12 +14,12 @@ img {
 <h1>Materials</h1>
 
 <div class="mouseOver_text">
-  <h1><a class="screenshot" href="assets/js/previewImages.js" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h1>
-  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h1>
-  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h1>
-  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg">Fade to Stay</a></h1>
-  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">Mirror</a></h1>
-  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img6.jpg">Newspaperwood</a></h1>
+  <h3><a class="screenshot" href="assets/js/previewImages.js" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h1>
+  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h1>
+  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h1>
+  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg">Fade to Stay</a></h1>
+  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">Mirror</a></h1>
+  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img6.jpg">Newspaperwood</a></h1>
 </div>
 
 
