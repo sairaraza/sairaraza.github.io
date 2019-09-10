@@ -19,22 +19,13 @@ img {
 <h1><center>Materials</center></h1>
 
 
-  <!-- Made possible by the great work of David DeSandro @ https://masonry.desandro.com -->
-  <!-- Part 1: Add the scripts -->
-  <!-- Step 1: Let's start by loading jQuery. jQuery is not required for masonary to function but makes things easier  -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<!-- Step 2: Then load imagesloaded. imagesloaded makes sure the images are not displayed until they are fully loaded -->
-  <!-- Step 3: we load masonry -->
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<article>
 
-  <!-- Part 2: Create the grid -->
-  <!-- Step 1: Start with a the main grid wrapper-->
-  <div class="grid">
-
-    <!-- Step 2: Add grid items--->
-  <div class="grid-item"><div class="containerx"><a href="#popup1">
+  <sectionm>
+  <div class="containerx"><a href="#popup1">
   <img src="assets/lifecyclethumb.png" class="imagex" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
-  </div>
+  </sectionm>
+
 
   <div id="popup1" class="overlay">
   <div class="popup">
@@ -51,23 +42,88 @@ img {
 
 
 
-  <div class="grid-item"><div class="containerx"><a href="#popup2">
-  <img src="assets/dematerialsthumb.png" class="imagex" />
-  <div class="overlayx">Making materials from fossilised and living diatoms</div>
-  </a></div>
-  </div>
 
-  <div id="popup2" class="overlay">
-  <div class="popup"><hpopup>Map of materials from fossilised and living diatoms</hpopup><a class="close" href="#">&times;</a>
-  <div class="content">
 
-    <iframe
-      src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
-      width="940" height="600" frameborder="0"></iframe>
 
-  </div>
-  </div>
-  </div>
+
+
+
+
+
+  <sectionm>
+  <div class="containerx"><a href="#popup2">
+    <img src="assets/dematerialsthumb.png" class="imagex" />
+    <div class="overlayx">Making materials from fossilised and living diatoms</div>
+    </a></div>
+  </sectionm>
+
+
+
+
+    <div id="popup2" class="overlay">
+    <div class="popup"><hpopup>Map of materials from fossilised and living diatoms</hpopup><a class="close" href="#">&times;</a>
+    <div class="content">
+
+      <iframe
+        src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
+        width="940" height="600" frameborder="0"></iframe>
+
+    </div>
+    </div>
+    </div>
+
+
+
+
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quaerat suscipit ad.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem nihil alias amet dolores fuga totam sequi a cupiditate ipsa voluptas id facilis nobis.</p>
+  </sectionm>
+
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem ut debitis dolorum earum expedita eveniet voluptatem quibusdam facere eos numquam commodi ad iusto laboriosam rerum aliquam.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat  architecto quis tenetur fugiat veniam iste molestiae fuga labore!</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusamus tempore at porro officia rerum est impedit ea ipsa tenetur. Labore libero hic error sunt laborum expedita.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima asperiores eveniet vero velit eligendi aliquid in.</p>
+  </sectionm>
+
+  <sectionm>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus dolorem maxime minima animi cum.</p>
+  </sectionm>
+
+</article>
+
+
+
+    <!-- Step 2: Add grid items--->
+
+
 
 
 
@@ -113,7 +169,6 @@ img {
 
 
 
-  </div>
 
 
 
@@ -121,18 +176,5 @@ img {
 
 
 
-
-<!-- Part 3: the script call -->
-
-<!-- Now that everything is loaded we create a script to trigger masonary on $grid. Note that this simply says: "if the images are fully loaded, trigger masnory on $grid. -->
-
-
-<script>
-$(".grid").imagesLoaded(function() {
-    $(".grid").masonry({
-      itemSelector: ".grid-item"
-    });
-  });
-</script>
 
 </body>
