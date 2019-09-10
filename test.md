@@ -13,15 +13,6 @@ img {
 
 <h1>Materials</h1>
 
-<div class="mouseOver_text">
-  <h3><a class="screenshot" href="assets/js/previewImages.js" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h1>
-  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h1>
-  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h1>
-  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg">Fade to Stay</a></h1>
-  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">Mirror</a></h1>
-  <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img6.jpg">Newspaperwood</a></h1>
-</div>
-
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="max-width: auto; height: 90%;">
 
@@ -124,13 +115,10 @@ I am in the process of completing data from research papers on experiments that 
 </div>
 
 
-<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" width="250"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
-
-
-
 <div class="containerx"><a href="#popup5"><img src="assets/tunnelinside.jpg" width="250"><div class="overlayx">A laser cut 2D acoustic tunnel</div></a></div>
 
-<div id="popup5" class="overlay"><div class="popup"><h3>A laser cut 2D acoustic tunnel</h3>
+<div id="popup5" class="overlay"><div class="popup">
+<h3>A laser cut 2D acoustic tunnel</h3>
 <a class="close" href="#">&times;</a>
 <div class="content"><img src="assets/tunnellaser.jpg" width="200"><img src="assets/tunnelcut.jpg" width="210"><p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p><img src="assets/tunnelinside.jpg" width="450"></div></div></div>
 
@@ -140,7 +128,8 @@ I am in the process of completing data from research papers on experiments that 
 <div class="popup">
 <h3>Transformable metamaterial using vinyl cut</h3>
 <a class="close" href="#">&times;</a>
-<div class="content"><img src="assets/vinyl.jpg" width="400" ><p><p>4 units of a vinyl cut transformable metamaterial designed by
+<div class="content"><img src="assets/vinyl.jpg" width="400" >
+<p><p>4 units of a vinyl cut transformable metamaterial designed by
 <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides"> Babaee, Overvelde, Chen, Tournat & Bertol (2016) </a>
 </p>
 </p>
