@@ -116,12 +116,12 @@ a:hover, a:focus {
 
 
 
-a:hover ~ .background {
+a:hover ~ #background {
   background-color: blue;
 }
 
 
-.background {
+#background {
   position:absolute;
   background-color: blue;
   top: 0px;
@@ -166,7 +166,7 @@ article {
 
 }
 
-sectionm {
+section {
  display: inline-block;
  margin:  0.25rem;
  padding:  1rem;

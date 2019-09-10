@@ -19,10 +19,10 @@ img {
 
 <article>
 
-  <sectionm>
+  <section>
   <div class="containerx"><a href="#popup1">
   <img src="assets/lifecyclethumb.png" class="imagex" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
-  </sectionm>
+  </section>
 
 
   <div id="popup1" class="overlay">
@@ -48,12 +48,12 @@ img {
 
 
 
-  <sectionm>
+  <section>
   <div class="containerx"><a href="#popup2">
     <img src="assets/dematerialsthumb.png" class="imagex" />
     <div class="overlayx">Making materials from fossilised and living diatoms</div>
     </a></div>
-  </sectionm>
+  </section>
 
 
 
@@ -74,10 +74,10 @@ img {
 
 
 
-  <sectionm>
+  <section>
   <div class="containerx"><a href="#popup3">
     <img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
-  </sectionm>
+  </section>
 
   <div id="popup3" class="overlay"><div class="popup">
   <hpopup>A Taxonomy of Metamaterials</hpopup>
@@ -98,10 +98,10 @@ img {
 
 
 
-<sectionm>
+<section>
 <div class="containerx"><a href="#popup4">
 <img src="assets/labyrthumb.jpg" width="200"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
-</sectionm>
+</section>
 
 
 
@@ -118,38 +118,28 @@ img {
     </div>
 
 
-  <sectionm>
+  <section>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem nihil alias amet dolores fuga totam sequi a cupiditate ipsa voluptas id facilis nobis.</p>
-  </sectionm>
+  </section>
 
 
-  <sectionm>
+  <section>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem ut debitis dolorum earum expedita eveniet voluptatem quibusdam facere eos numquam commodi ad iusto laboriosam rerum aliquam.</p>
-  </sectionm>
+  </section>
 
-  <sectionm>
+  <section>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-  </sectionm>
+  </section>
 
-  <sectionm>
+  <section>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat  architecto quis tenetur fugiat veniam iste molestiae fuga labore!</p>
-  </sectionm>
+  </section>
 
-  <sectionm>
+  <section>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusamus tempore at porro officia rerum est impedit ea ipsa tenetur. Labore libero hic error sunt laborum expedita.</p>
-  </sectionm>
+  </section>
 
-  <sectionm>
-    <p>Lorem ipsum dolor sit.</p>
-  </sectionm>
 
-  <sectionm>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima asperiores eveniet vero velit eligendi aliquid in.</p>
-  </sectionm>
-
-  <sectionm>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus dolorem maxime minima animi cum.</p>
-  </sectionm>
 
 </article>
 
