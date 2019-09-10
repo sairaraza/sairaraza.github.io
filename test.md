@@ -13,13 +13,17 @@ img {
 
 <h1>Materials</h1>
 
+
+
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
 
 <div id="popup9" class="overlay">
 <div class="popup">
   <a class="close" href="#">&times;</a>
   <div class="content">
-<div class="canva-embed" data-design-id="DADlDI-Qvwk" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+  <iframe
+    src="https://www.canva.com/design/DADlDI-Qvwk/view"
+    width="940" height="600" frameborder="0"></iframe>
 </div>
 </div>
 </div>
