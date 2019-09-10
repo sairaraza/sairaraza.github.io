@@ -17,12 +17,11 @@ img {
 <h1><center>Materials</center></h1>
 
 
-<article>
 
-  <section>
+
   <div class="containerx"><a href="#popup1">
   <img src="assets/lifecyclethumb.png" class="imagex" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
-  </section>
+
 
 
   <div id="popup1" class="overlay">
@@ -43,17 +42,11 @@ img {
 
 
 
-
-
-
-
-
-  <section>
   <div class="containerx"><a href="#popup2">
     <img src="assets/dematerialsthumb.png" class="imagex" />
     <div class="overlayx">Making materials from fossilised and living diatoms</div>
     </a></div>
-  </section>
+
 
 
 
@@ -96,15 +89,8 @@ img {
 
 
 
-
-
-<section>
 <div class="containerx"><a href="#popup4">
 <img src="assets/labyrthumb.jpg" width="200"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
-</section>
-
-
-
 
 
     <div id="popup4" class="overlay"><div class="popup">
@@ -118,30 +104,8 @@ img {
     </div>
 
 
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem nihil alias amet dolores fuga totam sequi a cupiditate ipsa voluptas id facilis nobis.</p>
-  </section>
 
 
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem ut debitis dolorum earum expedita eveniet voluptatem quibusdam facere eos numquam commodi ad iusto laboriosam rerum aliquam.</p>
-  </section>
-
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-  </section>
-
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat  architecto quis tenetur fugiat veniam iste molestiae fuga labore!</p>
-  </section>
-
-  <section>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit accusamus tempore at porro officia rerum est impedit ea ipsa tenetur. Labore libero hic error sunt laborum expedita.</p>
-  </section>
-
-
-
-</article>
 
 
 
