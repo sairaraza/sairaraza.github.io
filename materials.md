@@ -38,7 +38,7 @@ img {
 
   <div id="popup1" class="overlay">
   <div class="popup">
-  <h3>The Lifecycle and applications of diatoms</h3>
+  <hpopup>The Lifecycle and applications of diatoms</hpopup>
   <a class="close" href="#">&times;</a>
   <div class="content">As part of a module on material driven design on the masters in design for emergent futures course I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. When living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these organisms might be used in material design.
   <iframe
@@ -77,7 +77,7 @@ img {
   </div>
 
   <div id="popup3" class="overlay"><div class="popup">
-  <h3>A Taxonomy of Metamaterials</h3>
+  <hpopup>A Taxonomy of Metamaterials</hpopup>
   <a class="close" href="#">&times;</a>
   <div class="content">This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
 
@@ -101,7 +101,7 @@ img {
   </div>
 
   <div id="popup4" class="overlay"><div class="popup">
-  <h3>Acoustic labyrinthine space-coiling metamaterial</h3>
+  <hpopup>Acoustic labyrinthine space-coiling metamaterial</hpopup>
   <a class="close" href="#">&times;</a>
   <div class="content">
   <center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
