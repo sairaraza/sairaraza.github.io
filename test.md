@@ -85,6 +85,10 @@ I am in the process of completing data from research papers on experiments that 
 </div>
 
 
+<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" width="250"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
+
+
+
 <div class="containerx"><a href="#popup5"><img src="assets/tunnelinside.jpg" width="250"><div class="overlayx">A laser cut 2D acoustic tunnel</div></a></div>
 
 <div id="popup5" class="overlay"><div class="popup"><h3>A laser cut 2D acoustic tunnel</h3>
@@ -109,13 +113,11 @@ I am in the process of completing data from research papers on experiments that 
 
 <div class="containerx"><a href="#popup7"><img src="assets/fractalantenna.jpg" width="250"><div class="overlayx">Fractal Antenna meta atom using vinyl cut copper tape</div></a></div>
 
-<div id="popup7" class="overlay">
-<div class="popup">
+<div id="popup7" class="overlay"><div class="popup">
 <h3>Fractal Antenna meta atom using vinyl cut copper tape</h3>
 <a class="close" href="#">&times;</a>
 <div class="content"><img src="assets/fractalantenna.jpg" width="250" >
-<p><p>
-A Sierpinski fractal antenna design designed by <a href="https://www.researchgate.net/publication/270625606_A_New_Fractal-Based_Miniaturized_Dual_Band_Patch_Antenna_for_RF_Energy_Harvesting">Shrestha, Lee, & Choi (2014)</a>. Vinyl cut copper tape mounted on PVC
+<p><p>A Sierpinski fractal antenna design designed by <a href="https://www.researchgate.net/publication/270625606_A_New_Fractal-Based_Miniaturized_Dual_Band_Patch_Antenna_for_RF_Energy_Harvesting">Shrestha, Lee, & Choi (2014)</a>. Vinyl cut copper tape mounted on PVC
 </p></p>
 </div>
 </div>
@@ -123,6 +125,18 @@ A Sierpinski fractal antenna design designed by <a href="https://www.researchgat
 
 
 
-<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADlC6Hoyzw&#x2F;view?utm_content=DADlC6Hoyzw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Violet and Purple Visual Chaos Technology Presentation</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;sairaraza888?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">s raza</a>
+<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+
+
+<div id="popup8" class="overlay">
+<div class="popup">
+<h3></h3>
+<a class="close" href="#">&times;</a>
+<div class="content">
+<center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
+<p>3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447">Dong et al (2018)</a> 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.</p>
+</div>
+</div>
+</div>
 
 </body>
