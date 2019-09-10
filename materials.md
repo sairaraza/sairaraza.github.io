@@ -59,8 +59,8 @@ img {
 
 
 <body>
-
 # <center>Materials</center>
+
 
   <div class="masonry-wrapper"><div class="masonry">
 
@@ -70,7 +70,7 @@ img {
 
   <div id="popup1" class="overlay">
   <div class="popup">
-    <h2>The Lifecycle and applications of diatoms</h2>
+    <h3>The Lifecycle and applications of diatoms</h3>
     <a class="close" href="#">&times;</a>
     <div class="content">As part of a module on material driven design on the masters in design for emergent futures course I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. When living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these organisms might be used in material design.
     <iframe
@@ -110,14 +110,14 @@ img {
   </div>
 
   <div id="popup3" class="overlay"><div class="popup">
-    <h2>A Taxonomy of Metamaterials</h2>
+    <h3>A Taxonomy of Metamaterials</h3>
     <a class="close" href="#">&times;</a>
     <div class="content">This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
 
     <iframe
     src="https://embed.kumu.io/941643c6f84d7e3f388272ddf1b05338"
     width="940" height="600" frameborder="0"></iframe>
-    
+
   </div>
   </div>
   </div>
@@ -125,9 +125,23 @@ img {
 
 
 
-  <div class="masonry-item">
-    <img src="https://picsum.photos/450/540?image=400" alt="Dummy Image" class="masonry-content">
+  <div class="masonry-item"><div class="containerx"><a href="#popup4">
+    <img src="assets/labyrthumb.jpg" width="200"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
   </div>
+
+  <div id="popup4" class="overlay"><div class="popup">
+  <h3>Acoustic labyrinthine space-coiling metamaterial</h3>
+  <a class="close" href="#">&times;</a>
+  <div class="content">
+  <center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
+  <p>3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447">Dong et al (2018)</a> 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.</p>
+  </div>
+  </div>
+  </div>
+
+
+
+
   <div class="masonry-item">
     <img src="https://picsum.photos/450/380?image=500" alt="Dummy Image" class="masonry-content">
   </div>
@@ -219,20 +233,6 @@ img {
 
 
 
-
-
-<div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" width="200"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
-
-<div id="popup4" class="overlay">
-<div class="popup">
-<h3>Acoustic labyrinthine space-coiling metamaterial</h3>
-<a class="close" href="#">&times;</a>
-<div class="content">
-<center><img src="assets/labyrthumb.jpg" width="200"> <img src="assets/acoustic.jpg"  width="200"></center>
-<p>3 meta atoms of an acoustic labyrinthine type space-coiling acoustic metamaterial designed by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645419302447">Dong et al (2018)</a> 3D printed using PLA. The original design was 5 meta atoms deep and 20 wide and formed a 'Superlens' which improves resolution by going beyond the diffraction limit we observe in ordinary lenses.</p>
-</div>
-</div>
-</div>
 
 
 
