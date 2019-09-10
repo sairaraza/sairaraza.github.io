@@ -6,8 +6,7 @@ layout: default
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-
-  <style>
+<style>
 
 img {
   float: left;
@@ -37,9 +36,8 @@ img {
   }
 }
 
-  </style>
+</style>
 </head>
-
 
 <body>
 
@@ -63,35 +61,6 @@ img {
   </div>
   </div>
   </div>
-
-
-
-
-  <div class="masonry-item"><div class="containerx"><a href="#popup2">
-    <img src="assets/dematerialsthumb.png" class="imagex">
-    <div class="overlayx">Making materials from fossilised and living diatoms</div>
-    </a></div>
-  </div>
-
-  <div id="popup2" class="overlay">
-  <div class="popup">
-    <hpopup>Map of materials from fossilised and living diatoms</hpopup>
-    <a class="close" href="#">&times;</a>
-    <div class="content">
-
-  <iframe
-    src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
-    width="940" height="600" frameborder="0"></iframe>
-
-  </div>
-  </div>
-  </div>
-
-
-
-
-
-
 
 
 
@@ -122,9 +91,32 @@ img {
 
     <!-- Step 2: Add grid items--->
 
-    <div class="grid-item">
-      <img src="https://s-media-cache-ak0.pinimg.com/736x/00/37/03/0037037f1590875493f413c1fdbd52b1--cool-beards-inspiring-photography.jpg" />
+  <div class="grid-item"><div class="containerx"><a href="#popup2">
+  <img src="assets/dematerialsthumb.png" class="imagex" />
+  <div class="overlayx">Making materials from fossilised and living diatoms</div>
+  </a></div>
+  </div>
+
+
+
+
+
+    <div id="popup2" class="overlay">
+    <div class="popup">
+      <hpopup>Map of materials from fossilised and living diatoms</hpopup>
+      <a class="close" href="#">&times;</a>
+      <div class="content">
+
+    <iframe
+      src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
+      width="940" height="600" frameborder="0"></iframe>
+
     </div>
+    </div>
+    </div>
+
+
+
 
     <div class="grid-item">
       <img src="https://s-media-cache-ak0.pinimg.com/736x/cd/90/d9/cd90d9de63fa2c8e5c5e7117e27b5c18--gritty-portrait-photography-studio-photography.jpg">
