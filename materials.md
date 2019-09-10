@@ -63,14 +63,8 @@ img {
     </div>
     </div>
 
+  <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="250"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
-
-
-
-  <section>
-  <div class="containerx"><a href="#popup3">
-    <img src="assets/taxonomythumb.jpg" class="imagex" width="250"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
-  </section>
 
   <div id="popup3" class="overlay"><div class="popup">
   <hpopup>A Taxonomy of Metamaterials</hpopup>
@@ -90,7 +84,7 @@ img {
 
 
 <div class="containerx"><a href="#popup4">
-<img src="assets/labyrthumb.jpg" width="200"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
+<img src="assets/labyrthumb.jpg" width="180"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
 
 
     <div id="popup4" class="overlay"><div class="popup">
