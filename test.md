@@ -12,6 +12,7 @@ img {
 <body>
 
 <h1>Materials</h1>
+<div class="canva-embed" data-design-id="DADlDI-Qvwk" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
 <div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
