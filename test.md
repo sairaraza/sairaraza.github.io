@@ -122,12 +122,6 @@ A Sierpinski fractal antenna design designed by <a href="https://www.researchgat
 </div>
 
 
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-b50b9d11-bd20-4f42-b796-3039e4d71101"></div>
-
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-7fa1f44c-ea2e-4d9e-9cb8-4835c8573dbe"></div>
-
 
 <div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADlC6Hoyzw&#x2F;view?utm_content=DADlC6Hoyzw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Violet and Purple Visual Chaos Technology Presentation</a> by <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;sairaraza888?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">s raza</a>
 
