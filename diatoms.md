@@ -38,15 +38,13 @@ layout: default
 </div>
 </div>
 
-<p class="codepen" data-height="388" data-theme-id="0" data-default-tab="result" data-user="dissimulate" data-slug-hash="dJgMaO" style="height: 388px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Jelly">
-  <span>See the Pen <a href="https://codepen.io/dissimulate/pen/dJgMaO/">
-  Jelly</a> by dissimulate (<a href="https://codepen.io/dissimulate">@dissimulate</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+img {
+    width: 100%;
+    height: auto;
+}
 
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" width="100%"";
+height="auto">
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512">
 
