@@ -56,6 +56,8 @@ img {
 }
   </style>
 </head>
+
+
 <body>
 
 # <center>Materials</center>
@@ -63,7 +65,7 @@ img {
   <div class="masonry-wrapper"><div class="masonry">
 
   <div class="masonry-item"><div class="containerx"><a href="#popup1">
-    <img src="assets/lifecyclethumb.png" class="masonry-content" class="imagex"><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
+    <img src="assets/lifecyclethumb.png" class="imagex"><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
   </div>
 
 
@@ -71,9 +73,7 @@ img {
   <div class="popup">
     <h2>The Lifecycle and applications of diatoms</h2>
     <a class="close" href="#">&times;</a>
-    <div class="content">
-      As part of a module on material driven design on the masters in design for emergent futures course I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. When living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these organisms might be used in material design.
-
+    <div class="content">As part of a module on material driven design on the masters in design for emergent futures course I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. When living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these organisms might be used in material design.
     <iframe
       src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
       width="940" height="600" frameborder="0"></iframe>
