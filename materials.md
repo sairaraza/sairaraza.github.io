@@ -5,12 +5,13 @@ layout: default
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
 
+
+  <style>
 
 img {
   float: left;
-  margin:15px;"
+  margin:15px;
 }
 
 .masonry-wrapper {
@@ -35,27 +36,14 @@ img {
     grid-template-columns: repeat(3, minmax(100px,1fr));
   }
 }
-.masonry-footer {
-  font-size: .75em;
-  opacity: .25;
-  text-align: center;
-  padding-top: 3em;
-  padding-bottom: 3em;
-  margin-bottom: -1.5em;
-  transition: opacity 1s ease-in-out;
-}
-.masonry-footer a {
-  color: currentColor;
-}
-.masonry-footer:hover, .masonry-footer:active, .masonry-footer:focus {
-  opacity: .75;
-}
+
   </style>
 </head>
 
 
 <body>
-# <center>Materials</center>
+
+<h1><center>Materials</center></h1>
 
 
   <div class="masonry-wrapper"><div class="masonry">
