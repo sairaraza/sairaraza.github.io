@@ -13,6 +13,21 @@ img {
 
 <h1>Materials</h1>
 
+.mouseOver_text
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img1.jpg') Reddish
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img2.jpg') Revive
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img3.jpg') True Colors
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img4.jpg') Fade to Stay
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img5.jpg') Mirror
+  h1
+    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img6.jpg') Newspaperwood
+
+
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512">
 

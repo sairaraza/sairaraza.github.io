@@ -22,8 +22,6 @@ img {
   <div class="containerx"><a href="#popup1">
   <img src="assets/lifecyclethumb.png" class="imagex" width="200" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
 
-
-
   <div id="popup1" class="overlay">
   <div class="popup">
   <hpopup>The Lifecycle and applications of diatoms</hpopup>
@@ -39,17 +37,10 @@ img {
 
 
 
-
-
-
   <div class="containerx"><a href="#popup2">
     <img src="assets/dematerialsthumb.png" class="imagex" />
     <div class="overlayx">Making materials from fossilised and living diatoms</div>
     </a></div>
-
-
-
-
 
     <div id="popup2" class="overlay">
     <div class="popup"><hpopup>Map of materials from fossilised and living diatoms</hpopup><a class="close" href="#">&times;</a>
@@ -63,7 +54,11 @@ img {
     </div>
     </div>
 
-  <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="250"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
+
+
+
+
+  <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
 
   <div id="popup3" class="overlay"><div class="popup">
