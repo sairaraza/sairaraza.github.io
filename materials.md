@@ -20,7 +20,7 @@ img {
 
 
   <div class="containerx"><a href="#popup1">
-  <img src="assets/lifecyclethumb.png" class="imagex" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
+  <img src="assets/lifecyclethumb.png" class="imagex" width="200" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
 
 
 
@@ -69,7 +69,7 @@ img {
 
   <section>
   <div class="containerx"><a href="#popup3">
-    <img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
+    <img src="assets/taxonomythumb.jpg" class="imagex" width="250"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
   </section>
 
   <div id="popup3" class="overlay"><div class="popup">
@@ -104,30 +104,14 @@ img {
     </div>
 
 
+<div class="containerx"><a href="#popup5"><img src="assets/tunnelinside.jpg" width="250"><div class="overlayx">A laser cut 2D acoustic tunnel</div></a></div>
 
-
-
-
-
-    <!-- Step 2: Add grid items--->
-
-
-
-
-
-    <!-- Step 3: repeat...--->
-
-
-
-
-
-
-
-
-
-
-
-
+<div id="popup5" class="overlay">
+  <div class="popup">
+  <hpopup>A laser cut 2D acoustic tunnel</hpopup>
+  <a class="close" href="#">&times;</a>
+    <div class="content"><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg" width="210"><p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p><img src="assets/tunnelinside.jpg" width="450">
+  </div></div></div>
 
 
 
