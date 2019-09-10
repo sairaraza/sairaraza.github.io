@@ -23,13 +23,9 @@ img {
   <!-- Part 1: Add the scripts -->
   <!-- Step 1: Let's start by loading jQuery. jQuery is not required for masonary to function but makes things easier  -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
-  <!-- Step 2: Then load imagesloaded. imagesloaded makes sure the images are not displayed until they are fully loaded -->
-<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-
+<!-- Step 2: Then load imagesloaded. imagesloaded makes sure the images are not displayed until they are fully loaded -->
   <!-- Step 3: we load masonry -->
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-
 
   <!-- Part 2: Create the grid -->
   <!-- Step 1: Start with a the main grid wrapper-->
@@ -114,12 +110,6 @@ img {
   </div>
   </div>
 
-
-
-
-    <div class="grid-item">
-      <img src="http://www.iefimerida.gr/sites/default/files/janbanning11.jpg" />
-    </div>
 
 
 
