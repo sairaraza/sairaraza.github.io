@@ -13,29 +13,6 @@ img {
   margin:15px;
 }
 
-.masonry-wrapper {
-  padding: 1.5em;
-  max-width: 960px;
-  margin-right: auto;
-  margin-left: auto;
-}
-.masonry {
-  display: grid;
-  grid-template-columns: repeat(1, minmax(100px,1fr));
-  grid-gap: 20px;
-  grid-auto-rows: 0;
-}
-@media only screen and (max-width: 1023px) and (min-width: 768px) {
-  .masonry {
-    grid-template-columns: repeat(2, minmax(100px,1fr));
-  }
-}
-@media only screen and (min-width: 1024px) {
-  .masonry {
-    grid-template-columns: repeat(3, minmax(100px,1fr));
-  }
-}
-
 </style>
 </head>
 
@@ -172,17 +149,7 @@ img {
       <img src="http://www.iefimerida.gr/sites/default/files/janbanning11.jpg" />
     </div>
 
-    <div class="grid-item">
-      <img src="https://s-media-cache-ak0.pinimg.com/736x/66/bb/e7/66bbe7acc0d64da627afef440a29714b--portrait-photos-female-portrait.jpg" />
-    </div>
 
-    <div class="grid-item">
-      <img src="https://s-media-cache-ak0.pinimg.com/736x/25/34/b6/2534b6c18c659546463f13b2dc62d4ce--natural-portraits-female-portraits.jpg" />
-    </div>
-
-    <div class="grid-item">
-      <img src="https://s-media-cache-ak0.pinimg.com/originals/8d/67/12/8d671230ced871df8428b571ed6ec192.jpg" />
-    </div>
 
   </div>
 
