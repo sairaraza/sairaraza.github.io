@@ -3,17 +3,15 @@ layout: default
 ---
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <style>
-
 img {
   float: left;
   margin:15px;
 }
-
 </style>
+
 </head>
 
 <body>
@@ -22,27 +20,22 @@ img {
 
 
   <!-- Made possible by the great work of David DeSandro @ https://masonry.desandro.com -->
-
   <!-- Part 1: Add the scripts -->
-
   <!-- Step 1: Let's start by loading jQuery. jQuery is not required for masonary to function but makes things easier  -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
   <!-- Step 2: Then load imagesloaded. imagesloaded makes sure the images are not displayed until they are fully loaded -->
-  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
   <!-- Step 3: we load masonry -->
-  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 
 
   <!-- Part 2: Create the grid -->
-
-
   <!-- Step 1: Start with a the main grid wrapper-->
   <div class="grid">
 
     <!-- Step 2: Add grid items--->
-
   <div class="grid-item"><div class="containerx"><a href="#popup1">
   <img src="assets/lifecyclethumb.png" class="imagex" /><div class="overlayx">The Lifecycle and applications of diatoms</div></a></div>
   </div>
@@ -124,27 +117,6 @@ img {
 
 
 
-
-
-
-
-    <div class="grid-item">
-    <img src="https://s-media-cache-ak0.pinimg.com/736x/cd/90/d9/cd90d9de63fa2c8e5c5e7117e27b5c18--gritty-portrait-photography-studio-photography.jpg">
-      </div>
-
-
-    <div class="grid-item">
-      <img src="https://s-media-cache-ak0.pinimg.com/736x/dd/45/96/dd4596b601062eb491ea9bb8e3a78062--two-faces-baby-faces.jpg" />
-    </div>
-
-    <div class="grid-item">
-      <img src="http://www.marklobo.com.au/news/wp-content/uploads/2013/03/Melbourne_Portrait_Photographer_Mark_Lobo-Cowboy.jpg" />
-    </div>
-
-    <div class="grid-item">
-      <img src="https://format-com-cld-res.cloudinary.com/image/private/s--PcYqe7Zw--/c_limit,g_center,h_65535,w_960/a_auto,fl_keep_iptc.progressive,q_95/145054-8576001-Rob-Green-by-Zuzana-Breznanikova_7725_b_w.jpg" />
-    </div>
-
     <div class="grid-item">
       <img src="http://www.iefimerida.gr/sites/default/files/janbanning11.jpg" />
     </div>
@@ -174,6 +146,3 @@ $(".grid").imagesLoaded(function() {
 </script>
 
 </body>
-
-
-</html>
