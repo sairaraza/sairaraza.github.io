@@ -23,12 +23,7 @@ img {
 </div>
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="height: 80%">
-
- <img src="https://docs.google.com/drawings/d/e/2PACX-1vTYZrK-CzSWgTukCd2gybMlu1I0ed_Q5f-x8tuYeB_oSGWva5X9LR-i10PYyxUSaOFAb-YiO562Rlrb/pub?w=960&amp;h=720" style="max-width: 100%; height: auto;" >
-
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGQ-mQSeuQ_Xyczjxpwn8oJc5gX0Mr0hA8bBbMUZ1RYiO6f4X8pmMOKxt5opsulwJ_WYgZ5382XlXj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="max-width: auto; height: 90%;">
 
 
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
