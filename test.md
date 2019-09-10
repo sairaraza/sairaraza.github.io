@@ -13,6 +13,9 @@ img {
 
 <h1>Materials</h1>
 
+<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+
+
 <div class="containerx"><a href="#mms1"><img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
 <div id="mms1" class="overlay">
@@ -125,7 +128,7 @@ I am in the process of completing data from research papers on experiments that 
 
 
 
-<div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+
 
 
 <div id="popup8" class="overlay">
