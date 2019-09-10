@@ -13,20 +13,14 @@ img {
 
 <h1>Materials</h1>
 
-.mouseOver_text
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img1.jpg') Reddish
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img2.jpg') Revive
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img3.jpg') True Colors
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img4.jpg') Fade to Stay
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img5.jpg') Mirror
-  h1
-    a.screenshot(href='#', rel='https://dvdz.design/random/imgs/img6.jpg') Newspaperwood
-
+<div class="mouseOver_text">
+  <h1><a class="screenshot" href="assets/js/previewImages.js" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h1>
+  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h1>
+  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h1>
+  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg">Fade to Stay</a></h1>
+  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">Mirror</a></h1>
+  <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img6.jpg">Newspaperwood</a></h1>
+</div>
 
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512">
