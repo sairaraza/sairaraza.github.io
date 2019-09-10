@@ -71,17 +71,6 @@ I am in the process of completing data from research papers on experiments that 
 <div class="containerx"><a href="makingmetamaterials"><img src="assets/labyrthumb.jpg" class="imagex"><div class="overlayx">Making metamaterials</div></a></div>
 
 
-
-<div id="cp_widget_b1dad95c-8ac3-4457-b3d3-134cfb67ccdf">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_b1dad95c-8ac3-4457-b3d3-134cfb67ccdf"; cpo["_fid"] = "AsIAfnO2WkaU";
-var _cpmp = _cpmp || []; _cpmp.push(cpo);
-(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
-cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
-var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script>
-
-
-
 <div class="containerx"><a href="#popup4"><img src="assets/labyrthumb.jpg" width="250"><div class="overlayx">Acoustic labyrinthine space-coiling metamaterial</div></a></div>
 
 <div id="popup4" class="overlay">
@@ -98,11 +87,9 @@ c.parentNode.insertBefore(cp, c); })(); </script>
 
 <div class="containerx"><a href="#popup5"><img src="assets/tunnelinside.jpg" width="250"><div class="overlayx">A laser cut 2D acoustic tunnel</div></a></div>
 
-<div id="popup5" class="overlay">
-<div class="popup">
-<h3>A laser cut 2D acoustic tunnel</h3>
+<div id="popup5" class="overlay"><div class="popup"><h3>A laser cut 2D acoustic tunnel</h3>
 <a class="close" href="#">&times;</a>
-<div class="content"><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg" width="210"><p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p><img src="assets/tunnelinside.jpg" width="450"></div></div></div>
+<div class="content"><img src="assets/tunnellaser.jpg" width="200"><img src="assets/tunnelcut.jpg" width="210"><p><p><a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p><img src="assets/tunnelinside.jpg" width="450"></div></div></div>
 
 <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cut</div></a></div>
 
