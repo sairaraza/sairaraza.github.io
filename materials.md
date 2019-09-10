@@ -83,7 +83,10 @@ img {
 
 
 
-  <div class="masonry-item"><div class="containerx"><a href="#popup2"><img src="assets/dematerialsthumb.png" class="imagex"><div class="overlayx">Making materials from fossilised and living diatoms</div></a></div>
+  <div class="masonry-item"><div class="containerx"><a href="#popup2">
+    <img src="assets/dematerialsthumb.png" class="imagex">
+    <div class="overlayx">Making materials from fossilised and living diatoms</div>
+    </a></div>
   </div>
 
   <div id="popup2" class="overlay">
@@ -102,13 +105,26 @@ img {
 
 
 
-
-
-
-
-  <div class="masonry-item">
-    <img src="https://picsum.photos/450/280?image=300" alt="Dummy Image" class="masonry-content">
+  <div class="masonry-item"><div class="containerx"><a href="#popup3">
+    <img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
   </div>
+
+  <div id="popup3" class="overlay"><div class="popup">
+    <h2>A Taxonomy of Metamaterials</h2>
+    <a class="close" href="#">&times;</a>
+    <div class="content">This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
+
+    <iframe
+    src="https://embed.kumu.io/941643c6f84d7e3f388272ddf1b05338"
+    width="940" height="600" frameborder="0"></iframe>
+    
+  </div>
+  </div>
+  </div>
+
+
+
+
   <div class="masonry-item">
     <img src="https://picsum.photos/450/540?image=400" alt="Dummy Image" class="masonry-content">
   </div>
@@ -202,24 +218,6 @@ img {
 
 
 
-
-<div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
-
-<div id="popup3" class="overlay">
-<div class="popup">
-  <h2>A Taxonomy of Metamaterials</h2>
-  <a class="close" href="#">&times;</a>
-  <div class="content">
-
-  This is a work in progress to map classifications of metamaterials based on physical effects and geometries.
-
-  <iframe
-  src="https://embed.kumu.io/941643c6f84d7e3f388272ddf1b05338"
-  width="940" height="600" frameborder="0"></iframe>
-
-</div>
-</div>
-</div>
 
 
 
