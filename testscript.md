@@ -10,7 +10,7 @@ layout: default
   margin: 0 auto;
   left: 0;
   right: 0;
-  z-index: 2;
+  z-index: 30;
   transform: translateY(-50%);
   top: 50%;
   text-align: center;
@@ -39,7 +39,7 @@ layout: default
   position: absolute;
   display: none;
   color: #fff;
-  z-index: 2;
+  z-index: 30;
   img {
     width: 35vw;
   }
