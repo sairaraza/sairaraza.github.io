@@ -105,15 +105,7 @@ img {
   <img src="assets/tunnelinside.jpg" width="450"></p>
   </div>
   </div>
-  </div>
-
-
-dsajkdbsaldbsLhy can
-t i see anythign
-
-![](assets/vinyl.jpg)
-
-
+</div>
 
 <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cu</div></a></div>
 
@@ -125,12 +117,7 @@ t i see anythign
     <br>4 vinyl cut units of transformable metamaterial waveguide designed by
     <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides"> Babaee, Overvelde, Chen, Tournat & Bertol (2016)
  </a>
-         <img src="assets/vinyl.jpg" width="300" >
+         <img src="assets/vinyl.jpg" >
 
 </div>
   </div></div>
-
-![](asset/vinyl.jpg)
-hdsjzcbzxc
-
-</body>
