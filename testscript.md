@@ -60,7 +60,9 @@ layout: default
 <body>
 
 <h1>Materials</h1>
-<script src="assets/js/previewImages.js"></script>
+
+
+
 <div class="mouseOver_text">
   <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h1>
   <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h1>
@@ -70,8 +72,8 @@ layout: default
   <h1><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img6.jpg">Newspaperwood</a></h1>
 </div>
 
-
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<script src="assets/js/previewImages.js"></script>
 
 
 
