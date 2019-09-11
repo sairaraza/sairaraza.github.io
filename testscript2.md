@@ -24,6 +24,10 @@ body {
     user-select: none;
     margin: 0 auto;
   }
+
+linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
+
+
   h2 {
 
     transition: all 300ms ease-out;
@@ -56,7 +60,9 @@ body {
 
 
 <div class="mouseOver_text">
-  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h2>
+  <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></linktext>
+
+
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h2>
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h2>
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg"><img src="assets/tunnelinside.jpg" width="250"> some text </a></h2>
