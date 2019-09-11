@@ -4,6 +4,9 @@ layout: default
 <head>
 <style>
 
+.imageright {
+margin-left: 500px;
+}
 
 
 .mouseOver_text {
@@ -15,8 +18,8 @@ layout: default
 
   z-index: 2;
   transform: translateY(-50%);
-  transform: translateX(200%);
-  top: 240px;
+  transform: translateX(400px);
+  top: 440px;
   text-align: left;
 
   img {
@@ -30,7 +33,7 @@ layout: default
   }
 
 linktext {
-  font-size:5em;
+  font-size:30px;
   font-family:'Space Mono';
   color:blue;
   line-height:1;
@@ -76,11 +79,9 @@ linktext {
 <h1>Materials</h1>
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
-
 <div class="mouseOver_text">
-  <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></linktext>
-  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Waterglass</a></h2>
+  <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">As an additive to bioplastic</a></linktext>
+  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Adding to Caustic Soda to make Waterglass</a></h2>
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h2>
   <h2><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h2>
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
@@ -90,6 +91,10 @@ linktext {
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 <script src="assets/js/previewImages.js"></script>
+
+<div class="imageright">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
+<div>
 
 
 <br>
