@@ -3,10 +3,59 @@ layout: default
 ---
 <head>
 <style>
-img {
-  float: left;
-  margin:15px;"
+
+
+
+.mouseOver_text {
+  position: absolute;
+
+  <!--
+  margin-left: 270;
+  margin-right: auto;-->
+
+  z-index: 2;
+  transform: translateY(-50%);
+  top: 50%;
+  text-align: center;
+
+  img {
+    float: left;
+    margin:15px;"
+    max-width: 100%;
+    max-height: 100%;
+    user-select: none;
+      <!--
+    margin: 0 auto;-->
+  }
+
+linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
+
+
+  h2 {
+
+    transition: all 300ms ease-out;
+    a {
+      display: block;
+    }
+    &:hover {
+      letter-spacing: 2px;
+    }
+  }
 }
+
+#previewImage {
+  position: absolute;
+  display: none;
+  color: #fff;
+  z-index: 2;
+  img {
+    width: 35vw;
+  }
+}
+
+
+
+
 </style>
 </head>
 <body>
@@ -18,6 +67,8 @@ img {
 
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
+
+
 <br>
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
 
