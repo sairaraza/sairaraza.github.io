@@ -14,6 +14,7 @@ layout: default
   transform: translateY(-50%);
   top: 50%;
   text-align: center;
+  
   img {
     max-width: 100%;
     max-height: 100%;
