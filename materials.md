@@ -103,18 +103,16 @@ img {
   </div></div></div>
 
 
-  <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cut</div></a></div>
+  <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250" ><div class="overlayx">Transformable metamaterial using vinyl cut</div></a></div>
 
   <div id="popup6" class="overlay">
-  <div class="popup6">
+  <div class="popup">
   <hpopup>Transformable metamaterial using vinyl cut</hpopup>
   <a class="close" href="#">&times;</a>
-  <div class="content"><img src="assets/vinyl.jpg" width="300" >
-  <br>4 vinyl cut units of transformable metamaterial waveguide designed by
-  <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides"> Babaee, Overvelde, Chen, Tournat & Bertol (2016) </a>
-  </div>
-  </div>
-  </div>
+    <div class="content"><img src="assets/vinyl.jpg" width="300" >
+    <br>4 vinyl cut units of transformable metamaterial waveguide designed by
+    <a href="https://www.researchgate.net/publication/310766212_Reconfigurable_origami-inspired_acoustic_waveguides"> Babaee, Overvelde, Chen, Tournat & Bertol (2016) </a>
+  </div></div></div>
 
 
 
