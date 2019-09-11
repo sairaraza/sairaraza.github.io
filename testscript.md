@@ -72,9 +72,7 @@ body {
   <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h3>
   <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h3>
 
-
   <h3><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url image</a></h3>
-
   <h3>
   <a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">
 text
