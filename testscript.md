@@ -4,6 +4,10 @@ layout: default
 <head>
 
 <style>
+body {
+  box-sizing: border-box;
+  min-height: 100%;
+}
 
 .mouseOver_text {
   position: absolute;
@@ -30,7 +34,7 @@ layout: default
       display: block;
     }
     &:hover {
-      letter-spacing: 4px;
+      letter-spacing: 2px;
     }
   }
 }
