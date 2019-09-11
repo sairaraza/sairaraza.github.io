@@ -15,8 +15,9 @@ layout: default
 
   z-index: 2;
   transform: translateY(-50%);
-  top: 50%;
-  text-align: center;
+  transform: translateX(200%);
+  top: 240px;
+  text-align: left;
 
   img {
     float: left;
@@ -28,11 +29,22 @@ layout: default
     margin: 0 auto;-->
   }
 
-linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
+linktext {
+  font-size:5em;
+  font-family:'Space Mono';
+  color:blue;
+  line-height:1;
+  transition: all 300ms ease-out;
+   a {
+  display: block;
+  }
+  &:hover {
+    letter-spacing: 2px;
+  }
+}
 
 
   h2 {
-
     transition: all 300ms ease-out;
     a {
       display: block;
@@ -41,6 +53,7 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
       letter-spacing: 2px;
     }
   }
+
 }
 
 #previewImage {
@@ -63,20 +76,17 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
 <h1>Materials</h1>
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="max-width: auto; height: 700px;">
-
-
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
 
 <div class="mouseOver_text">
   <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></linktext>
 
 
-  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h2>
-  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h2>
-  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg"><img src="assets/tunnelinside.jpg" width="250"> some text </a></h2>
+  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Waterglass</a></h2>
+  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h2>
+  <h2><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h2>
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
-  <linktext><a class="screenshot" href="#" rel="assets/1.png">filepath</a></linktext>
+  <linktext><a class="screenshot" href="#" rel="assets/1.png">Bioplastics</a></linktext>
 </div>
 
 
@@ -99,7 +109,6 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
 </div>
 
 <br>
-<div class="canva-embed" data-design-id="DADlDI-Qvwk" data-height-ratio="0.5625" style="padding:40.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
 <div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
@@ -130,23 +139,6 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
 </div>
 
 
-<div class="containerx"><a href="#mms1"><img src="assets/taxonomy.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
-
-<div id="mms1" class="overlay">
-<div class="popup">
-  <h2>A Taxonomy of Metamaterials</h2>
-  <a class="close" href="#">&times;</a>
-  <div class="content">
-
-  This is also a work in progress looking to bring together taxonomies of metamaterials based on physical effects and geometries.
-
-  <iframe
-    src="https://embed.kumu.io/6825075ec137d3c33b229bcb12321379"
-    width="940" height="600" frameborder="0"></iframe>
-
-</div>
-</div>
-</div>
 
 
 <div class="containerx"><a href="#mms2"><img src="sphereshadow.png" class="imagex"><div class="overlayx">A collection of details of experiments on metamaterial designs</div></a></div>
