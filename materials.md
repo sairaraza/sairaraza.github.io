@@ -17,7 +17,7 @@ img {
 
 <h1><center>Materials</center></h1>
 
-<h2><div id="diatoms">Diatoms</div></h2>
+<div id="diatoms"><h2>Diatoms</h2>
 
 
   <div class="containerx"><a href="#popup1">
@@ -62,9 +62,11 @@ img {
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto;  max-height: 1000px;">
 
 </div>
+
+
 <br>
 
-<h2><div id="metamaterials">Metamaterials</div></h2>
+<div id="metamaterials"><h2>Metamaterials</h2>
 
   <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
@@ -128,3 +130,4 @@ img {
 
 </div>
   </div></div>
+</div>
