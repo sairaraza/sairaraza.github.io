@@ -11,7 +11,7 @@ body {
 
 .mouseOver_text {
   position: absolute;
-  
+
   <!--
   margin-left: 270;
   margin-right: auto;-->
@@ -25,7 +25,8 @@ body {
     max-width: 100%;
     max-height: 100%;
     user-select: none;
-    margin: 0 auto;
+      <!--
+    margin: 0 auto;-->
   }
 
 linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
