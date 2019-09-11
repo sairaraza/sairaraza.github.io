@@ -66,6 +66,8 @@ img {
 
 <br>
 
+<br>
+
 <div id="metamaterials"><h2>Metamaterials</h2>
 
   <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
@@ -130,4 +132,5 @@ img {
 
 </div>
   </div></div>
+  
 </div>
