@@ -18,7 +18,7 @@ margin-left: 500px;
 
   z-index: 2;
   transform: translateY(-50%);
-  transform: translateX(400px);
+  transform: translateX(0px);
   top: 440px;
   text-align: left;
 
@@ -47,8 +47,10 @@ linktext {
 }
 
 
-  h2 {
+  h4 {
     transition: all 300ms ease-out;
+    text-align: left;
+      line-height:1;
     a {
       display: block;
     }
@@ -81,10 +83,10 @@ linktext {
 
 <div class="mouseOver_text">
   <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">As an additive to bioplastic</a></linktext>
-  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Adding to Caustic Soda to make Waterglass</a></h2>
-  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h2>
-  <h2><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h2>
-  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
+  <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Adding to Caustic Soda to make Waterglass</a></h4>
+  <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h4>
+  <h4><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h4>
+  <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
   <linktext><a class="screenshot" href="#" rel="assets/1.png">Bioplastics</a></linktext>
 </div>
 
