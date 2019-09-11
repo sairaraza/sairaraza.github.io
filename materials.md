@@ -102,11 +102,11 @@ img {
   <a class="close" href="#">&times;</a>
   <div class="content"><img src="assets/tunnellaser.jpg" width="200" > <img src="assets/tunnelcut.jpg" width="210"><p><p>
   <a href="https://aip.scitation.org/doi/10.1063/1.4930300">Zhu, Zou, Liang, & Cheng (2015)</a> designed and fabricated an acoustic one-way open tunnel (or diode) by 3D printing two comb-like surfaces with ABS plastic and sealing them on top and bottom to form a tunnel. I attempted to replicate this using laser cut acrylic and have yet to confirm if the tunnel blocks sound of 6064 Hz as it is designed to.</p>
-  <img src="assets/tunnelinside.jpg" width="450">
+  <img src="assets/tunnelinside.jpg" width="450"></p>
+  </div>
+  </div>
+  </div>
 
-  </div>
-  </div>
-</div>
 
 dsajkdbsaldbsLhy can
 t i see anythign
