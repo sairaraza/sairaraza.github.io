@@ -119,6 +119,6 @@ img {
   </div></div></div>
 
 ![](asset/vinyl.jpg)
-
+hdsjzcbzxc
 
 </body>
