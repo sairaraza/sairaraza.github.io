@@ -33,10 +33,11 @@ margin-left: 500px;
   }
 
 linktext {
-  font-size:30px;
+
   font-family:'Space Mono';
-  color:blue;
-  line-height:1;
+  font-size: Medium;
+  color: blue;
+  line-height: 1;
   transition: all 300ms ease-out;
    a {
   display: block;
@@ -83,7 +84,7 @@ linktext {
 
 <div class="mouseOver_text">
   <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">As an additive to bioplastic</a></linktext>
-  <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Adding to Caustic Soda to make Waterglass</a></h4>
+  <linktext><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Adding to Caustic Soda to make Waterglass</a></linktext>
   <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h4>
   <h4><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h4>
   <h4><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
@@ -96,7 +97,7 @@ linktext {
 
 <div class="imageright">
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
-<div>
+</div>
 
 
 <br>
