@@ -59,9 +59,7 @@ img {
 
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
-
-
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512"style="width: auto; max-height: 1000px;">
 
 
   <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
