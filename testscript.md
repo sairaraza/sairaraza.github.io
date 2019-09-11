@@ -10,7 +10,7 @@ layout: default
   margin: 0 auto;
   left: 0;
   right: 0;
-  z-index: 30;
+  z-index: 2;
   transform: translateY(-50%);
   top: 50%;
   text-align: center;
@@ -39,7 +39,7 @@ layout: default
   position: absolute;
   display: none;
   color: #fff;
-  z-index: 30;
+  z-index: 2;
   img {
     width: 35vw;
   }
@@ -69,14 +69,14 @@ layout: default
   <h3><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h3>
 
 
-  <h3><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">Fade to Stay</a></h3>
+  <h3><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url image</a></h3>
 
   <h3>
   <a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img5.jpg">
-  <div class="containerx"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></div>
+text
   </a></h3>
 
-  <h3><a class="screenshot" href="#" rel="assets/1.png">Newspaperwood</a></h3>
+  <h3><a class="screenshot" href="#" rel="assets/1.png">filepath image</a></h3>
 
 </div>
 
