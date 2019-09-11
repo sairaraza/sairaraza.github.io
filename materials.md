@@ -17,7 +17,7 @@ img {
 
 <h1><center>Materials</center></h1>
 
-<h2><div id="diatoms">Diatoms</</div></h2>
+<h2><div id="diatoms">Diatoms</div></h2>
 
 
   <div class="containerx"><a href="#popup1">
@@ -63,6 +63,7 @@ img {
 
 </div>
 
+<h2><div id="metamaterials">Metamaterials</div></h2>
 
   <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
