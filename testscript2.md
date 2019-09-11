@@ -59,7 +59,7 @@ body {
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></h2>
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h2>
   <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h2>
-  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg">Fade to Stay</a></h2>
+  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg"><img src="assets/tunnelinside.jpg" width="250"> some text </a></h2>
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
   <h2><a class="screenshot" href="#" rel="assets/1.png">filepath</a></h2>
 </div>
