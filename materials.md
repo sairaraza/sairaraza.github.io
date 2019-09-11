@@ -106,6 +106,12 @@ img {
 <div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cu</div></a></div>
 
 
+dsajkdbsaldbsLhy can
+t i see anythign
+
+![](assets/vinyl.jpg)
+
+
 <div id="popup6" class="overlay">
   <div class="popup">
   <hpopup>Transformable metamaterial using vinyl cut</hpopup>
