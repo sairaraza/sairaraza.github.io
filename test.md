@@ -17,8 +17,8 @@ img {
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="max-width: auto; height: 700px;">
 
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 900px;">
-
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
+<br>
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
 
 <div id="popup9" class="overlay">
@@ -32,7 +32,7 @@ img {
 </div>
 </div>
 
-
+<br>
 <div class="canva-embed" data-design-id="DADlDI-Qvwk" data-height-ratio="0.5625" style="padding:40.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
 
 <div class="canva-embed" data-design-id="DADlC6Hoyzw" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:0px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
