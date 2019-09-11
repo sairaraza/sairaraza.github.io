@@ -28,7 +28,7 @@ second codeblock with no set dimensions</div></a></div>
 <h6>About</h6>
 <p>I am a researcher with a background in engineering and experience working with NGOs and media organisations.</p>
 </div>
-<div class="stripe__content3"><p>I am interested in the relationship between data, structure and materials and the ways this could be used to make design and 'maker' cultures more sustainable and inclusive..</p></div>
+<div class="stripe__content3"><p>I am interested in the relationship between data, structure and materials and how these could be used to make design and 'maker' cultures more sustainable and inclusive.</p></div>
 </section>
 
 <section class="stripe2">
