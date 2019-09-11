@@ -2,11 +2,8 @@
 layout: default
 ---
 <head>
+
 <style>
-img {
-  float: left;
-  margin:15px;"
-}
 
 .mouseOver_text {
   position: absolute;
@@ -24,9 +21,7 @@ img {
     margin: 0 auto;
   }
   h1 {
-    font-family: "Futura";
-    margin: 0.5em;
-    letter-spacing: 2px;
+
     transition: all 300ms ease-out;
     a {
       text-decoration: none;
@@ -48,29 +43,15 @@ img {
     width: 35vw;
   }
 }
-
 </style>
 
 <script>
 
-* Url preview script
- * powered by jQuery (https://www.jquery.com)
- *
- * written by Alen Grakalic (http://cssglobe.com)
- * edited by Daan van der Zwaag (https://dvdz.design)
- *
- */
-
 function previewImages() {
-  /* CONFIG */
 
   xOffset = 200;
   yOffset = 80;
 
-  // these 2 variable determine popup's distance from the cursor
-  // you might want to adjust to get the right result
-
-  /* END CONFIG */
 
   $("a.screenshot").hover(function(e) {
 
@@ -108,6 +89,15 @@ function previewImages() {
 </script>
 
 </head>
+
+
+
+
+
+
+
+
+
 <body>
 
 <h1>Materials</h1>
