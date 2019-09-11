@@ -11,7 +11,7 @@ body {
 
 .mouseOver_text {
   position: absolute;
-  margin: 0 auto;
+  margin: 250 250;
   left: 0;
   right: 0;
   z-index: 2;
