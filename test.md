@@ -68,6 +68,18 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto; max-height: 1000px;">
 
+<div class="mouseOver_text">
+  <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></linktext>
+
+
+  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img2.jpg">Revive</a></h2>
+  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img3.jpg">True Colors</a></h2>
+  <h2><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img4.jpg"><img src="assets/tunnelinside.jpg" width="250"> some text </a></h2>
+  <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/1.png">url</a></h2>
+  <linktext><a class="screenshot" href="#" rel="assets/1.png">filepath</a></linktext>
+</div>
+
+
 
 <br>
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
