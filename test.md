@@ -80,8 +80,6 @@ linktext {
 
 <div class="mouseOver_text">
   <linktext><a class="screenshot" href="#" rel="https://dvdz.design/random/imgs/img1.jpg">Reddish</a></linktext>
-
-
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/gelatine.jpg">Waterglass</a></h2>
   <h2><a class="screenshot" href="#" rel="https://sairaraza.github.io/assets/glasscrystals.jpg">Glass from waterglass and heat</a></h2>
   <h2><a class="screenshot" href="#" rel="assets/1.png">Glass using a laser</a></h2>
