@@ -14,7 +14,7 @@ layout: default
   transform: translateY(-50%);
   top: 50%;
   text-align: center;
-  
+
   img {
     max-width: 100%;
     max-height: 100%;
@@ -46,48 +46,6 @@ layout: default
 }
 </style>
 
-<script>
-
-function previewImages() {
-
-  xOffset = 200;
-  yOffset = 80;
-
-
-  $("a.screenshot").hover(function(e) {
-
-      var $this = $(this); // caching $(this)
-
-      $this.data('initialText', $this.text());
-      $this.text("Download").delay(1200); // Set text
-
-      $("body").append("<div id='previewImage'><img src='" + this.rel + "' alt='rens preview image' />" + "</div>");
-
-      $("#previewImage")
-        .css("top", (e.pageY - xOffset) + "px")
-        .css("left", (e.pageX + yOffset) + "px")
-        .fadeIn("fast");
-    },
-    function() {
-
-      var $this = $(this); // caching $(this)
-      $this.text($this.data('initialText'));
-
-      $("#previewImage").remove();
-    });
-
-  $("a.screenshot").mousemove(function(e) {
-
-    $("#previewImage")
-      .css("top", (e.pageY - xOffset) + "px")
-      .css("left", (e.pageX + yOffset) + "px");
-
-  });
-};
-
-  previewImages();
-
-</script>
 
 </head>
 
@@ -115,7 +73,7 @@ function previewImages() {
 
 
 
-
+<script src="assets/js/previewImages.js"></script>
 
 
 
