@@ -132,7 +132,7 @@ a:hover ~ #background {
   right: 0px;
   bottom: 0px;
   left: 0px;
-  z-index: 2; /* change back to -1*/
+  z-index: -1; /* change back to -1*/
 }
 /* end of  make the background change color if you hover */
 
@@ -211,7 +211,7 @@ a:hover small {
   position: relative;
   width: fit-content;
 display: inline-block;
-  z-index:10;
+  z-index:10; change it back to /*10*/
 }
 
 
@@ -241,7 +241,7 @@ opacity:0.5
   margin: 5px;
   line-height: 1;
   width: inherit;
-    z-index:30;
+    z-index:30;  /*30.. was this for text?*/
 }
 
 /*NEED the dark overlay is not visible most of the time */
@@ -308,7 +308,7 @@ line-height: 0.7em;
   margin: 0 auto;
   left: 0;
   right: 0;
-  z-index: 2;
+  z-index: 30;
   transform: translateY(-50%);
   top: 50%;
   text-align: center;
@@ -336,7 +336,7 @@ line-height: 0.7em;
   position: absolute;
   display: none;
   color: #fff;
-  z-index: 2;
+  z-index: 30;
   img {
     width: 35vw;
   }
@@ -483,7 +483,7 @@ section {
   width:900px;
   float:right;
   padding-bottom:50px;
-    z-index:2; /*change back to -10*/
+    z-index:-10; /*change back to -10* popups worked when this was the same as for stretchy text/
     background-color: transparent;
 }
 
