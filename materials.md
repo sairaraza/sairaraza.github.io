@@ -103,7 +103,8 @@ img {
   </div></div></div>
 
 
-<div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250" ><div class="overlayx">Transformable metamaterial using vinyl cut</div></a></div>
+<div class="containerx"><a href="#popup6"><img src="assets/vinyl.jpg" width="250"><div class="overlayx">Transformable metamaterial using vinyl cu</div></a></div>
+
 
 <div id="popup6" class="overlay">
   <div class="popup">
