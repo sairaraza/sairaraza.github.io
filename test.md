@@ -80,6 +80,9 @@ linktext {font-size:1.5em; font-family:'Space Mono'; color:blue; line-height:1 }
 </div>
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<script src="assets/js/previewImages.js"></script>
+
 
 <br>
 <div class="containerx"><a href="#popup9"><img src="assets/sodaglass.jpg" class="imagex"><div class="overlayx">Making glass from diatomaceous earth</div></a></div>
