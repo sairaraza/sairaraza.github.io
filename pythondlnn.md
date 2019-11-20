@@ -4,7 +4,9 @@ layout: default
 
 # <center>Notes for neural networks in Python</center>
 
-## Vision example with imported dataset
+## Vision example with imported dataset in Pytorch
+
+### Prepare data
 
 #### Download libraries
 
@@ -100,7 +102,82 @@ for i in counter_dict:
 
 give % distribution- random would be 10% for 10 numbers so 9-11% is ok.
 
+### Building NN
 
+#### Import libraries for building NNs
+
+      import torch.nn as nn
+      import torch.nn.functional as F
+
+Object oriented programming is in the first one, the second one has specific functions separated.
+
+
+#### Set framework and initialisation ?
+      class Net(nn.Module):
+
+        def_innit_(self):
+          super()._init_()
+
+super corresponds to NN.Module init is initialisation for NN .modules and anything else we put in innit.  .. check this Without the superinit you'd get an error
+
+#### Define layers
+Define fully connected layers to the NN using
+      self.fc1 = nn.Linear(input, output) to each layer
+- fc1 is fully connected first layer
+- input is images are 28 x28 = 784 pixels
+- output can be wahatever we want but we want 3 layers of 64 neurones for our hidden layers so its 64
+- nn.Linear means flat fully connected is nn.Con for convolution layers
+          self.fc1 = nn.Linear(28*28, 64)
+
+        next layers input has to be 64 but output can anything
+          self.fc2 = nn.Linear(64, 64)
+          self.fc3 = nn.Linear(64, 64)
+
+Final layer output layer we want 10 for 10 classes defined above in the data.
+          self.fc4 = nn.Linear(64, 10)
+
+to check ..
+      net = Net()
+      print(net)
+
+run
+delete these lines when checked
+
+#### Simple feed forward
+Define direction using forward(self, input)
+
+      def forward(self, x):
+
+#### Set activation functions
+
+Run F.relu (rectified linear) activation function - whether or not the neuron is firing  - the valve. keeps the outputs of the layers going into huge numbers. Loss explosions). Runs on the output value.
+
+        x = F.relu(self.fc1(x))
+        x = F.relu(self.fc2(x))
+        x = F.relu(self.fc3(x))
+
+#### Output definition
+
+The output we want is a probability distribution of classes not a yes no result.
+        x = (self.fc4(x))
+- for multi class we use log_softmax
+- dim1 is for distributing across output layer tensors - i think to do with dimension
+        return F.log_softmax(x, dim=1)
+
+
+    net = Net()
+    print(net)
+
+run and you should get
+
+Net(
+(fc1): linear(in_features=786, out_features=64, bias=True)
+(fc2): linear(in_features=64, out_features=64, bias=True)
+(fc3): linear(in_features=64, out_features=64, bias=True)
+(fc4): linear(in_features=64, out_features=10, bias=True)
+)
+
+#### Pass data through
 
 
 [back](./)
