@@ -4,6 +4,11 @@ layout: default
 
 <link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">
 
+<head><style>
+body {
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 67%, rgba(0,254,255,1) 68%, rgba(0,44,255,1) 100%);
+}
+</head></style>
 
 <!--
 <div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px" title="diatoms" alt="first block with no hover"></a></div>
@@ -34,6 +39,6 @@ second codeblock with no set dimensions</div></a></div>
 <section class="stripe2">
 <div class="stripe__content2">
 <h6>Contact</h6>
-<p>Please email saira.raza@iaac.net for examples of work while this site is being completed..</p>
+<p>Please email sairarazaresearch@gmail.com for examples of work while this site is being completed..</p>
 </div>
 </section>
