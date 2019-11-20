@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+<head><style>
+body {
+  font-size: 11px;
+  line-height: 1.2;
+}
+
+</style></head>
 
 # <center>Notes for NNs</center>
 
