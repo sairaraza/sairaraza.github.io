@@ -3,10 +3,10 @@ layout: default
 ---
 <head><style>
 body {
-  font-size: 11px;
+  font-size: 14px;
   line-height: 1.2;
+  padding:6px;
 }
-
 </style></head>
 
 # <center>Notes for NNs</center>
