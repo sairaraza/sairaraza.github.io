@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <center>Notes for neural networks in Python</center>
+# <center>Notes for NNs</center>
 
 ## Vision example with imported dataset in Pytorch
 
@@ -103,6 +103,7 @@ for i in counter_dict:
 give % distribution- random would be 10% for 10 numbers so 9-11% is ok.
 
 ### Building NN
+https://www.youtube.com/watch?v=ixathu7U-LQ
 
 #### Import libraries for building NNs
 
@@ -146,7 +147,7 @@ delete these lines when checked
 #### Simple feed forward
 Define direction using forward(self, input)
 
-      def forward(self, x):
+  def forward(self, x):
 
 #### Set activation functions
 
@@ -155,6 +156,12 @@ Run F.relu (rectified linear) activation function - whether or not the neuron is
         x = F.relu(self.fc1(x))
         x = F.relu(self.fc2(x))
         x = F.relu(self.fc3(x))
+
+You can do fancy things here like ifs and elses.
+        if weather=sunny:
+            x=...
+        else: .....
+ etc
 
 #### Output definition
 
@@ -178,6 +185,26 @@ Net(
 )
 
 #### Pass data through
+
+try random number
+
+      X = torch.rand((28,28))
+
+view function lets us work with numbers without worrying about the size.In this library -1 specifies that the input will be of an unknown shape.
+      X = X.view(-1,28*28)
+
+Run the net on X
+      output = net (X)
+gives prediction distribution
+tensor([[-2.2978, -2.3324, -2.3364, etc etc for 10 ]], grad_fn=<LogSoftmaxBackward>)
+
+first few passes are not meaningful but it works.
+we havent initialised weights randomly yet though
+
+gradient function  grad_fn=<LogSoftmaxBackward>
+next we calculate how far off we are
+
+
 
 
 [back](./)
