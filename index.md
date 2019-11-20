@@ -1,14 +1,16 @@
 ---
 layout: default
 ---
-
-<link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">
-
 <head><style>
 body {
 background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 67%, rgba(0,254,255,1) 68%, rgba(0,44,255,1) 100%);
 }
 </head></style>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">
+
+
 
 <!--
 <div class="vcenteredtext"><a href="#popup1"><img src="sphereshadow.png" display="inline-block" style="width:200px; height:200px" title="diatoms" alt="first block with no hover"></a></div>
