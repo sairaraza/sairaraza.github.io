@@ -9,7 +9,7 @@ layout: default
 
 ### The Lifecycle and applications of diatoms
 
-For our module on material driven design I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
+For the material driven design module on the Design for Emergent Futures masters at IAAC I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
 
 <iframe
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
@@ -26,7 +26,7 @@ width="940" height="600" frameborder="0"></iframe>
 
 ### Mapping weak signals using scraped keywords from linked websites
 
-In our module called The Atlas of Weak Signals each week we explored as teams design interventions responding to a different  “weak signals” that set trends and point to certain directions for futures. I used keywords scraped from websites by my classmates to create this visualisation of keywords that link weak signals of future changes. the results were not largely meaningful but taught us something about the data scraping process.
+This is a map of keywords scraped from websites by my classmates to create this visualisation of keywords that link weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.
 
 <iframe
   src="https://embed.kumu.io/48df0cf878258c1f7fa66c5f524996c8"
@@ -35,13 +35,12 @@ In our module called The Atlas of Weak Signals each week we explored as teams de
 
 ### Visualising the links between digital fabrication and computational material science
 
-This was a visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my project.
+A visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my masters project.
 
 ![](assets/infomat.png)
 
 ### A collection of details of experiments on metamaterial designs
 
-I am in the process of completing data from research papers on experiments that test metamaterial designs to enable to show the metadevices that can be made and the tools to test them.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr8y8TN7JjYMJomL?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -95,7 +94,7 @@ Outside of looking at existing research on the use of machine learning in materi
 
 #### Mapping interesting geometries in scientific research
 
-  Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.
+Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.
 
   <iframe
     src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
@@ -113,7 +112,7 @@ Outside of looking at existing research on the use of machine learning in materi
 
 #### Finding an intervention path as a group
 
-  This exercise was a group exercise to propose interventions around the theme of materials and link them to themes explored in the masters course.
+This exercise was a group exercise to propose interventions around the theme of materials and link them to themes explored in the masters course.
 
   <iframe
     src="https://embed.kumu.io/3aa3fc2400e7da8dd1efcb3beb695681"
