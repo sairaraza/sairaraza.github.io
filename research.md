@@ -6,9 +6,6 @@ layout: default
 
 
 
-## From the Masters in Design for Emergent Futures course
-
-The masters programme has given me the opportunity to research and collate information a number of short exercises leading up to a final year project. I have been using spreadsheets and the mapping tool [Kumu.io](https://kumu.io/) to store information but am always looking for new tools to make findings easier to navigate.
 
 ### The Lifecycle and applications of diatoms
 
@@ -132,16 +129,15 @@ Outside of looking at existing research on the use of machine learning in materi
     width="940" height="600" frameborder="0"></iframe>
     -->
 
-## Freelance research for Norwegian Refugee Council
+
 
 ### Links between WASH infrastructure and completion of primary education
 
-The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
+Freelance research for Norwegian Refugee Council. The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
 
 
 
 ![](assets/washschool.png)
-
 
 
 
