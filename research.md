@@ -7,7 +7,7 @@ categories: [mapping, visualisation, archiving]
 body {  
 padding:20px;
 font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
-font-size: 14px;
+font-size: 15px;
 font-weight: 400;
 line-height: 1.7;
 color: black;
@@ -32,7 +32,7 @@ dl.list {display:block;}
 dl.list > dt {*float:none;*position:static;}
 
 dl.list > dt {width:170px;margin-right:-170px;}
-dl.list > dd {width:750px; margin-left:180px;}
+dl.list > dd {width:75%; margin-left:180px;}
 @media all and (min-width:1px) {
 dl.list > dt {width:36%;margin-right:-36%;}
 dl.list > dd {margin-left:38%;}
@@ -58,8 +58,7 @@ dl.list dl {margin-bottom:0px;}
 
 <br>
 <br>
-<br>
-<br>
+
 ## Mapping
 
 ### The Lifecycle and applications of diatoms
