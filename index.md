@@ -8,8 +8,8 @@ background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 
 </head></style>
 
 
-<link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">
-
+<!--<link rel="shortcut icon" type="image/x-icon" href="bluegrd.png">-->
+<link rel="shortcut icon" type="image/x-icon" href="fav.png">
 
 
 <!--
