@@ -59,7 +59,7 @@ dl.list dl {margin-bottom:0px;}
 <br>
 <br>
 
-## Mapping
+## Documenting Processes
 
 ### The Lifecycle and applications of diatoms
 
@@ -94,55 +94,28 @@ dl.list dl {margin-bottom:0px;}
 src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
 width="940" height="600" frameborder="0"></iframe>
 
-<br>
-### A taxonomy of metamaterials (in progress)
-
-
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd> This is also a work in progress looking to build a taxonomy of metamaterials based on physical effects and geometries.</dd>
-<dt><b>Tools used</b></dt>
-<dd>Online search, Kumu.io</dd>
-</dl>
-
-  <iframe
-    src="https://embed.kumu.io/6825075ec137d3c33b229bcb12321379"
-    width="940" height="600" frameborder="0"></iframe>
-<br>
-### Machine learning tools for finding metamaterials
-
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd>Below is a work in progress visualisation of machine learning tools used for material discovery that might be able to form a toolchain for the inverse design of metamaterials..</dd>
-<dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
-
-<iframe
-  src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
-  width="940" height="600" frameborder="0"></iframe>
-
-  <br>
-### Learning about Machine Learning
-
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd>Outside of looking at existing research on the use of machine learning in material design I am continuing to read about machine learning to understand why certain tools are used in this field.</dd>
-<dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
 
 
 
-<iframe
-  src="https://embed.kumu.io/3026594c431b45b869df0b2a5fc06769"
-  width="940" height="600" frameborder="0"></iframe>
+
+  ### Links between WASH infrastructure and completion of primary education
+
+  <dl class="list">
+  <dt><b>Research for</b></dt>
+  <dd>Norwegian Refugee Council</dd>
+  <dt><b>Introduction</b></dt>
+  <dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC</dd>
+  <dt><b>Tools used</b></dt>
+  <dd>Photoshop</dd></dl>
+
+  The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
+
+  ![](assets/washschool.png)
+
+
+
+
+
 
 
 <br>
@@ -181,7 +154,59 @@ width="940" height="600" frameborder="0"></iframe>
     width="940" height="600" frameborder="0"></iframe>
 <br>
 <br>
-## Processes
+
+
+<br>
+### A taxonomy of metamaterials (in progress)
+
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd> This is also a work in progress looking to build a taxonomy of metamaterials based on physical effects and geometries.</dd>
+<dt><b>Tools used</b></dt>
+<dd>Online search, Kumu.io</dd>
+</dl>
+
+  <iframe
+    src="https://embed.kumu.io/6825075ec137d3c33b229bcb12321379"
+    width="940" height="600" frameborder="0"></iframe>
+
+
+      <br>
+### Learning about Machine Learning
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd>Outside of looking at existing research on the use of machine learning in material design I am continuing to read about machine learning to understand why certain tools are used in this field.</dd>
+<dt><b>Tools used</b></dt>
+<dd>Kumu.io</dd>
+</dl>
+
+<iframe
+  src="https://embed.kumu.io/3026594c431b45b869df0b2a5fc06769"
+  width="940" height="600" frameborder="0"></iframe>
+
+## Toolchains
+
+
+<br>
+### Machine learning tools for finding metamaterials
+
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd>Below is a work in progress visualisation of machine learning tools used for material discovery that might be able to form a toolchain for the inverse design of metamaterials..</dd>
+<dt><b>Tools used</b></dt>
+<dd>Kumu.io</dd>
+</dl>
+
+<iframe
+  src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
+  width="940" height="600" frameborder="0"></iframe>
+
 
 ### Building a training dataset
 
@@ -198,23 +223,20 @@ width="940" height="600" frameborder="0"></iframe>
 ![](assets/aidesigner.png)
 <br>
 
-### Links between WASH infrastructure and completion of primary education
+
+<br>
+### Visualising the links between digital fabrication and computational material science
 
 <dl class="list">
 <dt><b>Research for</b></dt>
-<dd>Norwegian Refugee Council</dd>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
 <dt><b>Introduction</b></dt>
-<dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC</dd>
+<dd> A visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my masters project.</dd>
 <dt><b>Tools used</b></dt>
-<dd>Photoshop</dd></dl>
+<dd>Kumu.io</dd>
+</dl>
 
-The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
-
-![](assets/washschool.png)
-
-
-
-
+![](assets/infomat.png)
 
 
 <br><br>
@@ -235,9 +257,6 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 
 <br>
 
-
-
-
 ### A list of scientific research papers on inverse design of metamaterials using deep learning
 
 <dl class="list">
@@ -253,7 +272,7 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr53SklTZpDwo9Ku?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 <br><br>
-## Documenting projects
+## Locating and documenting interventions
 
 ### Finding an intervention path as a group
 
@@ -277,14 +296,11 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 <br>
 ## Synthesis reports
 
-
 ### Report on ICTs for emergency health communication
-
 
 <dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Norwegian Refugee Council</dd>
-
 <dt><b>Introduction</b></dt>
 <dd>This report synthesized findings of specified research items around the use of information communication technologies in emergency health messaging. The format of the findings to be kept</dd>
 <dt><b>Tools used</b></dt>
@@ -301,21 +317,6 @@ Below is a summary table of data I was asked to compile on the digital gender ga
 ![](assets/barriersdgg.png)
 
 I was asked to write a short blog post on ways to address the digital gender divide based on recommendations from practitioners which can be read [here](https://www.rethinking-hygienepromotion.com/blog/2018/9/6/7-ways-to-address-the-digital-gender-gap)
-
-
-<br>
-### Visualising the links between digital fabrication and computational material science
-
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd> A visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my masters project.</dd>
-<dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
-
-![](assets/infomat.png)
 
 
 <!--
