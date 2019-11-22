@@ -14,11 +14,11 @@ color: black;
 }
 
 h1 {
-font-size: 2.5em;  
+font-size: 4em;  
 }
 
 h2 {
-font-size: 2.2em;
+font-size: 2.5em;
 }
 
 
@@ -139,11 +139,12 @@ width="940" height="600" frameborder="0"></iframe>
 <dd>Kumu.io</dd>
 </dl>
 
-    <iframe
-      src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
-      width="940" height="600" frameborder="0"></iframe>
+  <iframe
+    src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
+    width="940" height="600" frameborder="0"></iframe>
 
-
+<br>
+<br>
 ## Clustering
 
 ### Clustering weak signals using scraped keywords from linked websites
@@ -160,7 +161,8 @@ width="940" height="600" frameborder="0"></iframe>
   <iframe
     src="https://embed.kumu.io/48df0cf878258c1f7fa66c5f524996c8"
     width="940" height="600" frameborder="0"></iframe>
-
+<br>
+<br>
 ## Processes
 
 ### Building a training dataset
@@ -199,7 +201,7 @@ width="940" height="600" frameborder="0"></iframe>
 
 ### Links between WASH infrastructure and completion of primary education
 
-dl class="list">
+<dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Norwegian Refugee Council</dd>
 <dt><b>Introduction</b></dt>
