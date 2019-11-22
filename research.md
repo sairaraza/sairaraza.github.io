@@ -13,8 +13,12 @@ line-height: 1.7;
 color: black;
 }
 
+h1 {
+font-size: 2.5em;  
+}
+
 h2 {
-font-size: 2.2;
+font-size: 2.2em;
 }
 
 
@@ -28,7 +32,7 @@ dl.list {display:block;}
 dl.list > dt {*float:none;*position:static;}
 
 dl.list > dt {width:170px;margin-right:-170px;}
-dl.list > dd {width:800px; margin-left:180px;}
+dl.list > dd {width:750px; margin-left:180px;}
 @media all and (min-width:1px) {
 dl.list > dt {width:36%;margin-right:-36%;}
 dl.list > dd {margin-left:38%;}
@@ -52,7 +56,10 @@ dl.list dl {margin-bottom:0px;}
 
 # <center>Examples of research outputs</center>
 
-
+<br>
+<br>
+<br>
+<br>
 ## Mapping
 
 ### The Lifecycle and applications of diatoms
@@ -116,12 +123,12 @@ width="940" height="600" frameborder="0"></iframe>
 <dd>Kumu.io</dd>
 </dl>
 
-    <iframe
-      src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
-      width="940" height="600" frameborder="0"></iframe>
+<iframe
+  src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
+  width="940" height="600" frameborder="0"></iframe>
 
 
-#### Mapping interesting geometries in scientific research
+### Mapping interesting geometries in scientific research
 
 <dl class="list">
 <dt><b>Research for</b></dt>
@@ -132,9 +139,9 @@ width="940" height="600" frameborder="0"></iframe>
 <dd>Kumu.io</dd>
 </dl>
 
-        <iframe
-          src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
-          width="940" height="600" frameborder="0"></iframe>
+    <iframe
+      src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
+      width="940" height="600" frameborder="0"></iframe>
 
 
 ## Clustering
@@ -196,17 +203,17 @@ dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Norwegian Refugee Council</dd>
 <dt><b>Introduction</b></dt>
-<dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC. The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false).</dd>
+<dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC</dd>
 <dt><b>Tools used</b></dt>
-<dd>Photoshop</dd>
-</dl>
+<dd>Photoshop</dd></dl>
 
+The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
 
 ![](assets/washschool.png)
 
 
 
-![](assets/infomat.png)
+
 
 
 
@@ -265,7 +272,8 @@ dl class="list">
 
 
 
-
+<br>
+<br>
 ## Synthesis reports
 
 
@@ -306,8 +314,8 @@ I was asked to write a short blog post on ways to address the digital gender div
 <dd>Kumu.io</dd>
 </dl>
 
-
 ![](assets/infomat.png)
+
 
 <!--
 ### Finding project intervention paths
