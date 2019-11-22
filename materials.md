@@ -15,7 +15,9 @@ img {
 
 <h1><center>Materials</center></h1>
 
-<div id="diatoms"><h2>Diatoms</h2>
+<a href="#chapter4">here</a>
+
+<a name="diatoms"><h2>Diatoms</h2></a>
 
 
   <div class="containerx"><a href="#popup1">
@@ -56,12 +58,23 @@ img {
 
 <br>
 
+
+
+
+  <div class="containerx"><a href="#popup7">
+    <img src="assets/dematerialsthumb.png" class="imagex" />
+    <div class="overlayx">Some material experiments with diatomaceous earth</div>
+    </a></div>
+
+    <div id="popup7" class="overlay">
+    <div class="popup"><hpopup>Some material experiments with diatomaceous earth</hpopup><a class="close" href="#">&times;</a>
+    <div class="content">
+
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSV0dgwQjKWcH1ovNcvZuclKMrEr1bLy6kMOqf6NiBjIKia4CW_gP-EnunTksqeuJwOXFfnWja2GlIk/pub?w=960&amp;h=1512" style="width: auto;  max-height: 1000px;">
 
-
-
-</div>
-
+    </div>
+    </div>
+    </div>
 
 <br>
 <br>
@@ -69,7 +82,7 @@ img {
 <br>
 
 
-<div id="metamaterials"><h2>Metamaterials</h2>
+<a name="metamaterials"><h2>Metamaterials</h2></a>
 
 <div class="containerx"><a href="#popup3"><img src="assets/taxonomythumb.jpg" class="imagex" width="200"><div class="overlayx">A Taxonomy of Metamaterials</div></a></div>
 
