@@ -17,7 +17,7 @@ color: black;
 dl.list:after,
 dl.list:before {content:"";display:table;-webkit-flex:0;flex:0;}
 dl.list:after {clear:both;}
-dl.list > dt {float:right;clear:both;width:140px;margin-right:-140px;position:relative;left:-100%;}
+dl.list > dt {float:right;clear:both;width:140px;margin-right:-140px;position:relative;left:-97%;}
 dl.list > dd {float:left;clear:left;margin-left:150px;}
 dl.list {display:inline-block;}
 dl.list {display:block;}
@@ -53,24 +53,25 @@ dl.list dl {margin-bottom:0px;}
 
 
 
-### The Lifecycle and applications of diatoms
-
+## The Lifecycle and applications of diatoms
 
 <dl class="list">
-<dt><b>Something</b></dt>
-<dd>The thing about this is that it is not this thing. A thing about all things is they are not things until they have reached a certain amount of thingyness. That this kind of thing is surely the lesser kind, and the greater kind is missing except when needed, which happens often. Never in the lifetime of a thing does such honour, joy and love get bestowed upon them as when they are a living thing.</dd>
-<dt><b>Something</b></dt>
-<dd>Something or other.</dd>
+<dt><b>Brief</b></dt>
+<dd>Work hands-on with a material, explore it's properties and make something</dd>
 
+<dt><b>Set by</b></dt>
+<dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
 
-<dt><b>Something</b></dt>
-<dd>Limber up with the aid of a walking stick angled 30 degrees to the horizontal and 60 degrees to the vertical. Ensure all belongings are stowed away securely before attempting to lift your leg. Abruptly move a toe and maintain your balance.</dd>
+<dt><b>Response</b></dt>
+<dd> I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this, when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.</dd>
 
+<dt><b>Tools</b></dt>
+<dd>Google Scholar, Kumu.io</dd>
 </dl>
 
 
 
-For the Material Driven Design module on the Design for Emergent Futures masters at IAAC, I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this, when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
+
 
 <iframe
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
