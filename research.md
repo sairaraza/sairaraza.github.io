@@ -117,13 +117,13 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 <br>
 ## Clustering
 
-### Clustering weak signals using scraped keywords from linked websites
+### Clustering weak signals around scraped keywords from selected websites
 
 <dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
 <dt><b>Introduction</b></dt>
-<dd>This is a clustered map of keywords scraped from urls my classmates had to listed for different research topics that the class was given weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.</dd>
+<dd>This class exercise involved first curating webpages linked to weak signals is a clustered map of keywords scraped from urls my classmates had to list for different research topics that the class was given weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.</dd>
 <dt><b>Tools used</b></dt>
 <dd>Algorithmia machine learning platform, Excel, Kumu.io</dd>
 </dl>

@@ -680,3 +680,30 @@ footer {
 .imageMap:hover .hotspots {
   visibility: visible;
 }
+
+/*fcircle with gradient*/
+.ellipse {
+  float: left;
+  shape-outside: ellipse();
+  clip-path: ellipse();
+  width: 150px;
+  height: 150px;
+  background: radial-gradient(circle, rgba(255,255,255,0) 38%, rgba(0,254,255,1) 39%, rgba(29,0,255,1) 73%);
+}
+/*floats text in a slant with a colour*/
+.gradient {
+  float: left;
+  height: 300px;
+  width: 100%;
+  background: linear-gradient(to bottom right, #86F7CC, transparent);
+  shape-outside: linear-gradient(to bottom right, #86F7CC, transparent);
+  shape-image-threshold: .5;
+}
+
+/*floats text around an image on transparent background*/
+.pngfloat {
+  float: left;
+  height: 350px;
+  width: 350px;
+  shape-outside: url('./star.png')
+}
