@@ -1,6 +1,50 @@
 ---
 layout: default
 ---
+<head><style>
+body {  
+  padding:20px;
+  font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.7;
+  color: black;
+}
+
+
+dl.list:after,
+dl.list:before {content:"";display:table;-webkit-flex:0;flex:0;}
+dl.list:after {clear:both;}
+dl.list > dt {float:right;clear:both;width:140px;margin-right:-140px;position:relative;left:-100%;}
+dl.list > dd {float:left;clear:left;margin-left:150px;}
+dl.list {display:inline-block;}
+dl.list {display:block;}
+dl.list > dt {*float:none;*position:static;}
+
+
+dl.list > dt {width:170px;margin-right:-170px;}
+dl.list > dd {width:800px; margin-left:180px;}
+@media all and (min-width:1px) {
+dl.list > dt {width:36%;margin-right:-36%;}
+dl.list > dd {margin-left:38%;}
+}
+@media all and (min-width:600px) {
+dl.list > dt {width:170px;margin-right:-170px;}
+dl.list > dd {margin-left:180px;}
+}
+
+
+dl.list > dt {margin-bottom:0px;}
+dl.list > dd {margin-bottom:0px;}
+dl.list > dt:first-child + dd {margin-top:0px;}
+dl.list > dd + dt {margin-top:20px;}
+dl.list > dt + dd {margin-top:20px;}
+dl.list dl.list {margin-top:20px;}
+dl.list dl {margin-bottom:0px;}
+
+
+</style></head>
+
 
 # <center>Examples of research outputs</center>
 
@@ -9,7 +53,22 @@ layout: default
 
 ### The Lifecycle and applications of diatoms
 
-For the material driven design module on the Design for Emergent Futures masters at IAAC I looked at a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this when living, their class shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
+
+<dl class="list">
+<dt><b>Something</b></dt>
+<dd>The thing about this is that it is not this thing. A thing about all things is they are not things until they have reached a certain amount of thingyness. That this kind of thing is surely the lesser kind, and the greater kind is missing except when needed, which happens often. Never in the lifetime of a thing does such honour, joy and love get bestowed upon them as when they are a living thing.</dd>
+<dt><b>Something</b></dt>
+<dd>Something or other.</dd>
+
+
+<dt><b>Something</b></dt>
+<dd>Limber up with the aid of a walking stick angled 30 degrees to the horizontal and 60 degrees to the vertical. Ensure all belongings are stowed away securely before attempting to lift your leg. Abruptly move a toe and maintain your balance.</dd>
+
+</dl>
+
+
+
+For the Material Driven Design module on the Design for Emergent Futures masters at IAAC, I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this, when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.
 
 <iframe
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
