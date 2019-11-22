@@ -50,7 +50,6 @@ dl.list dl {margin-bottom:0px;}
 
 </style></head>
 
-
 # <center>Examples of research outputs</center>
 
 
@@ -67,14 +66,12 @@ dl.list dl {margin-bottom:0px;}
 <dd>Google Scholar, Kumu.io</dd>
 </dl>
 
-
 <iframe
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
   width="940" height="600" frameborder="0"></iframe>
 
   <br>
-  <br>
-  <br>
+
 
 ### Applications of fossilised and living diatoms
 
@@ -90,8 +87,6 @@ dl.list dl {margin-bottom:0px;}
 <iframe
 src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
 width="940" height="600" frameborder="0"></iframe>
-
-
 
 
 ### A taxonomy of metamaterials (in progress)
@@ -120,8 +115,6 @@ width="940" height="600" frameborder="0"></iframe>
 <dt><b>Tools used</b></dt>
 <dd>Kumu.io</dd>
 </dl>
-
-
 
     <iframe
       src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
@@ -165,7 +158,6 @@ width="940" height="600" frameborder="0"></iframe>
 
 ### Building a training dataset
 
-
 <dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
@@ -198,8 +190,6 @@ width="940" height="600" frameborder="0"></iframe>
 
 
 
-
-
 ### Links between WASH infrastructure and completion of primary education
 
 dl class="list">
@@ -212,7 +202,7 @@ dl class="list">
 </dl>
 
 
-  ![](assets/washschool.png)
+![](assets/washschool.png)
 
 
 
@@ -225,13 +215,10 @@ dl class="list">
 ### A collection of details of experiments on metamaterial designs
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd>A place to collect methods of experiments to demonstrate metamaterials with a view to understand hoe to fabricate them and the equipment necessary to demonstrate their effect</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Airtable</dd>
 </dl>
@@ -249,33 +236,24 @@ dl class="list">
 
 <dt><b>Research for</b></dt>
 <dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd>I created this space with a view to document methods and tools of inverse designing metamaterials using machine learning with a view to find ways to test a method myself. These are taken from a wider review of inverse design in computational material science..</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Kumu.io</dd>
 </dl>
 
-
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr53SklTZpDwo9Ku?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 
 
 ## Documenting projects
 
-
 #### Finding an intervention path as a group
-
-
 
 <dl class="list">
 <dt><b>Research for</b></dt>
 <dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd>This exercise was a group exercise to propose interventions around the theme of materials and link them to themes explored in the masters course..</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Kumu.io</dd>
 </dl>
@@ -334,18 +312,18 @@ I was asked to write a short blog post on ways to address the digital gender div
 <!--
 ### Finding project intervention paths
 
-  This was a tool to collect and link themes of interest explored in the MDEF course with design approaches and narratives in order to form a preliminary proposal for my final project
+This was a tool to collect and link themes of interest explored in the MDEF course with design approaches and narratives in order to form a preliminary proposal for my final project
 
   <iframe
     src="https://embed.kumu.io/270e7094435b7b71af9d0c28dcf47cd3"
     width="940" height="600" frameborder="0"></iframe>
 -->
 <!--
-    #### Mapping projects in the MDEF course
+#### Mapping projects in the MDEF course
 
-    This map was a start to map all projects in our class against the weak signals they respond to.
+This map was a start to map all projects in our class against the weak signals they respond to.
 
-      <iframe
+<iframe
         src="https://embed.kumu.io/cd20ae775492be0ec478baee36c0d5b0"
         width="940" height="600" frameborder="0"></iframe>
   -->
