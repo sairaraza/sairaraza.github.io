@@ -152,7 +152,8 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
     width="940" height="600" frameborder="0"></iframe>
 
 
-      <br>
+<br>
+
 ### Learning about Machine Learning
 <dl class="list">
 <dt><b>Research for</b></dt>
