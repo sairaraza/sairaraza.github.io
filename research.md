@@ -77,7 +77,7 @@ dl.list dl {margin-bottom:0px;}
   src="https://embed.kumu.io/e5c6952460b3a3fcef7a08c3d8b11a81"
   width="940" height="600" frameborder="0"></iframe>
 
-  <br>
+<br>
 
 
 ### Applications of fossilised and living diatoms
@@ -95,7 +95,7 @@ dl.list dl {margin-bottom:0px;}
 src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
 width="940" height="600" frameborder="0"></iframe>
 
-
+<br>
 ### A taxonomy of metamaterials (in progress)
 
 
@@ -111,7 +111,7 @@ width="940" height="600" frameborder="0"></iframe>
   <iframe
     src="https://embed.kumu.io/6825075ec137d3c33b229bcb12321379"
     width="940" height="600" frameborder="0"></iframe>
-
+<br>
 ### Machine learning tools for finding metamaterials
 
 <dl class="list">
@@ -127,7 +127,26 @@ width="940" height="600" frameborder="0"></iframe>
   src="https://embed.kumu.io/dd0eabb8de78689badf9e3d0331b1886"
   width="940" height="600" frameborder="0"></iframe>
 
+  <br>
+### Learning about Machine Learning
 
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd>Outside of looking at existing research on the use of machine learning in material design I am continuing to read about machine learning to understand why certain tools are used in this field.</dd>
+<dt><b>Tools used</b></dt>
+<dd>Kumu.io</dd>
+</dl>
+
+
+
+<iframe
+  src="https://embed.kumu.io/3026594c431b45b869df0b2a5fc06769"
+  width="940" height="600" frameborder="0"></iframe>
+
+
+<br>
 ### Mapping interesting geometries in scientific research
 
 <dl class="list">
@@ -178,26 +197,7 @@ width="940" height="600" frameborder="0"></iframe>
 
 
 ![](assets/aidesigner.png)
-
-### Learning about Machine Learning
-
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd>Outside of looking at existing research on the use of machine learning in material design I am continuing to read about machine learning to understand why certain tools are used in this field.</dd>
-<dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
-
-
-
-<iframe
-  src="https://embed.kumu.io/3026594c431b45b869df0b2a5fc06769"
-  width="940" height="600" frameborder="0"></iframe>
-
-
-
+<br>
 
 ### Links between WASH infrastructure and completion of primary education
 
@@ -218,7 +218,7 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 
 
 
-
+<br><br>
 ## Repositories
 
 ### A collection of details of experiments on metamaterial designs
@@ -253,10 +253,10 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr53SklTZpDwo9Ku?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-
+<br><br>
 ## Documenting projects
 
-#### Finding an intervention path as a group
+### Finding an intervention path as a group
 
 <dl class="list">
 <dt><b>Research for</b></dt>
@@ -304,7 +304,7 @@ Below is a summary table of data I was asked to compile on the digital gender ga
 I was asked to write a short blog post on ways to address the digital gender divide based on recommendations from practitioners which can be read [here](https://www.rethinking-hygienepromotion.com/blog/2018/9/6/7-ways-to-address-the-digital-gender-gap)
 
 
-
+<br>
 ### Visualising the links between digital fabrication and computational material science
 
 <dl class="list">
