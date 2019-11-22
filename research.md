@@ -54,9 +54,9 @@ dl.list dl {margin-bottom:0px;}
 # <center>Examples of research outputs</center>
 
 
+## Mapping
 
-
-## The Lifecycle and applications of diatoms
+### The Lifecycle and applications of diatoms
 
 <dl class="list">
 
@@ -81,13 +81,37 @@ dl.list dl {margin-bottom:0px;}
 
 ## Applications of fossilised and living diatoms
 
+
+<dl class="list">
+
+<dt><b>Research for</b></dt>
+<dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
+
+<dt><b>Introduction</b></dt>
+<dd>I built this map from research found online of ways of transforming fossilised and living diatoms into other materials and known applications of these materials</dd>
+
+<dt><b>Tools used</b></dt>
+<dd>Google Scholar, Kumu.io</dd>
+</dl>
+
 <iframe
 src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
 width="940" height="600" frameborder="0"></iframe>
 
 ### Mapping weak signals using scraped keywords from linked websites
 
-This is a map of keywords scraped from websites by my classmates to create this visualisation of keywords that link weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.
+
+<dl class="list">
+
+<dt><b>Research for</b></dt>
+<dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
+
+<dt><b>Introduction</b></dt>
+<dd>This is a clustered map of keywords scraped from urls my classmates had to listed for different research topics that the class was given weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.</dd>
+
+<dt><b>Tools used</b></dt>
+<dd>Algorithmia machine learning platform, Excel, Kumu.io</dd>
+</dl>
 
 <iframe
   src="https://embed.kumu.io/48df0cf878258c1f7fa66c5f524996c8"
