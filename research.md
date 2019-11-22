@@ -42,9 +42,9 @@ dl.list > dd {margin-left:180px;}
 dl.list > dt {margin-bottom:0px;}
 dl.list > dd {margin-bottom:0px;}
 dl.list > dt:first-child + dd {margin-top:0px;}
-dl.list > dd + dt {margin-top:20px;}
-dl.list > dt + dd {margin-top:20px;}
-dl.list dl.list {margin-top:20px;}
+dl.list > dd + dt {margin-top:10px;}
+dl.list > dt + dd {margin-top:10px;}
+dl.list dl.list {margin-top:10px;}
 dl.list dl {margin-bottom:0px;}
 
 
@@ -59,13 +59,10 @@ dl.list dl {margin-bottom:0px;}
 ### The Lifecycle and applications of diatoms
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd> I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this, when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Google Scholar, Kumu.io</dd>
 </dl>
@@ -82,13 +79,10 @@ dl.list dl {margin-bottom:0px;}
 ### Applications of fossilised and living diatoms
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd>I built this map from research found online of ways of transforming fossilised and living diatoms into other materials and known applications of these materials</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Google Scholar, Kumu.io</dd>
 </dl>
@@ -104,13 +98,10 @@ width="940" height="600" frameborder="0"></iframe>
 
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd> This is also a work in progress looking to build a taxonomy of metamaterials based on physical effects and geometries.</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Online search, Kumu.io</dd>
 </dl>
@@ -122,14 +113,10 @@ width="940" height="600" frameborder="0"></iframe>
 ### Machine learning tools for finding metamaterials
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
-
 <dd>Below is a work in progress visualisation of machine learning tools used for material discovery that might be able to form a toolchain for the inverse design of metamaterials..</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Kumu.io</dd>
 </dl>
@@ -143,7 +130,14 @@ width="940" height="600" frameborder="0"></iframe>
 
 #### Mapping interesting geometries in scientific research
 
-Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd>Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.</dd>
+<dt><b>Tools used</b></dt>
+<dd>Kumu.io</dd>
+</dl>
 
         <iframe
           src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
@@ -203,17 +197,7 @@ Early on in the course I used this space to store interesting structures that I 
 
 
 
-### Information
-<dl class="list">
-<dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-<dt><b>Introduction</b></dt>
-<dd>A process for digital fabrications role in material discovery</dd>
-<dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
 
-![](assets/infomat.png)
 
 
 ### Links between WASH infrastructure and completion of primary education
@@ -307,8 +291,6 @@ dl class="list">
 ## Synthesis reports
 
 
-
-
 ### Report on ICTs for emergency health communication
 
 
@@ -338,19 +320,16 @@ I was asked to write a short blog post on ways to address the digital gender div
 ### Visualising the links between digital fabrication and computational material science
 
 <dl class="list">
-
 <dt><b>Research for</b></dt>
 <dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
-
 <dt><b>Introduction</b></dt>
 <dd> A visualisation of the links between tools of computational material science and digital fabrication that I had encountered from research papers for my masters project.</dd>
-
 <dt><b>Tools used</b></dt>
 <dd>Kumu.io</dd>
 </dl>
 
 
-
+![](assets/infomat.png)
 
 <!--
 ### Finding project intervention paths
@@ -360,8 +339,8 @@ I was asked to write a short blog post on ways to address the digital gender div
   <iframe
     src="https://embed.kumu.io/270e7094435b7b71af9d0c28dcf47cd3"
     width="940" height="600" frameborder="0"></iframe>
-    -->
-    <!--
+-->
+<!--
     #### Mapping projects in the MDEF course
 
     This map was a start to map all projects in our class against the weak signals they respond to.
@@ -369,7 +348,7 @@ I was asked to write a short blog post on ways to address the digital gender div
       <iframe
         src="https://embed.kumu.io/cd20ae775492be0ec478baee36c0d5b0"
         width="940" height="600" frameborder="0"></iframe>
-        -->
+  -->
 
 
 [back](./)
