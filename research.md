@@ -1,14 +1,16 @@
 ---
 layout: default
+title: Research
+categories: [mapping, visualisation, archiving]
 ---
 <head><style>
 body {  
-  padding:20px;
-  font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 1.7;
-  color: black;
+padding:20px;
+font-family: "Space Mono", "Source Sans Pro", Calibri, Candara, Arial, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 1.7;
+color: black;
 }
 
 
