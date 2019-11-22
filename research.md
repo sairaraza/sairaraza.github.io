@@ -13,6 +13,10 @@ line-height: 1.7;
 color: black;
 }
 
+h2 {
+font-size: 2.2;
+}
+
 
 dl.list:after,
 dl.list:before {content:"";display:table;-webkit-flex:0;flex:0;}
@@ -22,7 +26,6 @@ dl.list > dd {float:left;clear:left;margin-left:150px;}
 dl.list {display:inline-block;}
 dl.list {display:block;}
 dl.list > dt {*float:none;*position:static;}
-
 
 dl.list > dt {width:170px;margin-right:-170px;}
 dl.list > dd {width:800px; margin-left:180px;}
@@ -56,21 +59,16 @@ dl.list dl {margin-bottom:0px;}
 ## The Lifecycle and applications of diatoms
 
 <dl class="list">
-<dt><b>Brief</b></dt>
-<dd>Work hands-on with a material, explore it's properties and make something</dd>
 
-<dt><b>Set by</b></dt>
+<dt><b>Research for</b></dt>
 <dd>Material Driven Design module on the Design for Emergent Futures masters at IAAC</dd>
 
-<dt><b>Response</b></dt>
+<dt><b>Introduction</b></dt>
 <dd> I researched a type of algae called diatoms that have extraordinary intricate glass shells with exceptional properties. As well as this, when living, their glass shells help them to photosynthesise carbon dioxide efficiently and they store energy mostly as oil. This map links these properties and processes throughout the diatom lifecycle to understand how these  might be used in technology or for inspiration.</dd>
 
-<dt><b>Tools</b></dt>
+<dt><b>Tools used</b></dt>
 <dd>Google Scholar, Kumu.io</dd>
 </dl>
-
-
-
 
 
 <iframe
@@ -80,7 +78,8 @@ dl.list dl {margin-bottom:0px;}
   <br>
   <br>
   <br>
-### Applications of fossilised and living diatoms
+
+## Applications of fossilised and living diatoms
 
 <iframe
 src="https://embed.kumu.io/c3899a201f8e7b28eb10e7ca825ebe1f"
