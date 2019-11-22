@@ -98,41 +98,20 @@ width="940" height="600" frameborder="0"></iframe>
 
 
 
-  ### Links between WASH infrastructure and completion of primary education
-
-  <dl class="list">
-  <dt><b>Research for</b></dt>
-  <dd>Norwegian Refugee Council</dd>
-  <dt><b>Introduction</b></dt>
-  <dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC</dd>
-  <dt><b>Tools used</b></dt>
-  <dd>Photoshop</dd></dl>
-
-  The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
-
-  ![](assets/washschool.png)
-
-
-
-
-
-
-
-<br>
-### Mapping interesting geometries in scientific research
+### Links between WASH infrastructure and completion of primary education
 
 <dl class="list">
 <dt><b>Research for</b></dt>
-<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dd>Norwegian Refugee Council</dd>
 <dt><b>Introduction</b></dt>
-<dd>Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.</dd>
+<dd>The following illustration was the result of keyword searching 160 field studies as part of a report commissioned by NRC</dd>
 <dt><b>Tools used</b></dt>
-<dd>Kumu.io</dd>
-</dl>
+<dd>Photoshop</dd></dl>
 
-  <iframe
-    src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
-    width="940" height="600" frameborder="0"></iframe>
+The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/master/docs/assets/SAIRA%20RAZA%20WASH%20and%20Schools%20Report%20211215.pdf?inline=false)
+
+![](assets/washschool.png)
+
 
 <br>
 <br>
@@ -187,6 +166,24 @@ width="940" height="600" frameborder="0"></iframe>
 <iframe
   src="https://embed.kumu.io/3026594c431b45b869df0b2a5fc06769"
   width="940" height="600" frameborder="0"></iframe>
+
+
+  <br>
+### Mapping interesting geometries in scientific research
+
+<dl class="list">
+<dt><b>Research for</b></dt>
+<dd>Final Project for Design for Emergent Futures masters at IAAC</dd>
+<dt><b>Introduction</b></dt>
+<dd>Early on in the course I used this space to store interesting structures that I had found as inspiration for structures that I might be able to model, fabricate or research later in the course.</dd>
+<dt><b>Tools used</b></dt>
+<dd>Kumu.io</dd>
+</dl>
+
+    <iframe
+      src="https://embed.kumu.io/97f492e6eee87fc3f2f13802d8141d90"
+      width="940" height="600" frameborder="0"></iframe>
+
 
 ## Toolchains
 
