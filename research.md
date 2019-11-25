@@ -123,9 +123,9 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 <dt><b>Research for</b></dt>
 <dd>Atlas of Weak Signals module on the Design for Emergent Futures masters at IAAC</dd>
 <dt><b>Introduction</b></dt>
-<dd>This class exercise involved first curating webpages linked to weak signals is a clustered map of keywords scraped from urls my classmates had to list for different research topics that the class was given weak signals of future changes. The results were not largely meaningful but taught us something about the data scraping process.</dd>
+<dd>Student worked in in groups to build ontologies of how our interventions linked to weak signals which gave us keywords to assign to them. Groups then curated an archive of reference webpages that we found appropriate to use for each weak signal. Using the algorithmia platform each group used the beautiful soup Python library to scrape these urls for keywords. This map shows the first iteration of the  method and that it returned largely meaningless results compared to assigning keywords. I performed the data cleaning and formatting on the Kumu platform for the class</dd>
 <dt><b>Tools used</b></dt>
-<dd>Algorithmia machine learning platform, Excel, Kumu.io</dd>
+<dd>Algorithmia machine learning platform, Excel, Kumu.io with SNA metrics</dd>
 </dl>
 
   <iframe
