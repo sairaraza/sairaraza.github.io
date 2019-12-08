@@ -115,7 +115,7 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 
 <br>
 <br>
-## Clustering
+## Building ontologies
 
 ### Clustering weak signals around scraped keywords from selected websites
 
