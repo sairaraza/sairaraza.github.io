@@ -128,9 +128,7 @@ The report can be downloaded [here](https://gitlab.com/MDEF/2018/saira.raza/raw/
 <dd>Algorithmia machine learning platform, Excel, Kumu.io with SNA metrics</dd>
 </dl>
 
-  <iframe
-    src="https://embed.kumu.io/48df0cf878258c1f7fa66c5f524996c8"
-    width="940" height="600" frameborder="0"></iframe>
+    <iframe src="https://embed.kumu.io/f772ffb47ea13c4ec45a8a5af0434889" width="940" height="600" frameborder="0"></iframe>
 <br>
 <br>
 
